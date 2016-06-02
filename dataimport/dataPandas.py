@@ -1,11 +1,18 @@
 from pprint import pprint
 
-__author__ = 'Daniel Puschmann'
+__author__ = 'daniel'
 #refactoring trafficData and weatherFeature into one class with pandas to make it more efficient
 
+from collections import OrderedDict
+import csv
+from datetime import datetime, timedelta
+import os
+import math
 import numpy
 import pandas
 from scipy.stats import kde
+import CONSTANTS
+import bottleneck as bn
 from matplotlib import pyplot as plt
 
 
@@ -13,7 +20,7 @@ class Stream(object):
 
 
     def __init__(self, data_path, file_name):
-        self.data = pandas.read_csv(data_path+'/'+file_name)
+        self.data = pandas.read_csv(os.path.join(data_path,file_name))
         self.data['TIMESTAMP'] = self.data['TIMESTAMP'].astype('datetime64[ns]')
         self.data.ffill(inplace=True)
 
