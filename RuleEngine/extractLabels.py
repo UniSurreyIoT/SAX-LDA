@@ -1,9 +1,9 @@
 __author__ = 'Daniel Puschmann'
 
-from dataPandas import Stream
+from dataimport.pandasDataWrapper import Stream
 from datetime import datetime, timedelta
 from pprint import pprint
-from sax import sax
+from logic.sax import sax
 import os
 from genericRule import GenericRule
 
@@ -16,7 +16,7 @@ def read_in_stream(path, file_name):
 
 def extractLabelsToDocument(start, duration, stream, distributions, x_grids, rules, alphabets, prnt=False):
     features = stream.get_feature_names()
-    label_end = start + timedelta(hours=duration)
+    label_end = start + duration
     labels = []
     for feature in features:
         if feature in distributions:

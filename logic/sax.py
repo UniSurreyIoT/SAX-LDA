@@ -1,8 +1,10 @@
+from pprint import pprint
+import string
+
+from paa import paa
 import numpy as np
 
-from logic import paa
-
-__author__ = 'Daniel Puschmann'
+__author__ = 'daniel'
 
 
 class sax(object):
@@ -67,6 +69,3 @@ def normalize(data):
         return data2
 
 
-# means = [normalize([223]), normalize([13]), normalize([100230]), normalize([-213]), normalize([3]), ]
-#
-# pprint(means)

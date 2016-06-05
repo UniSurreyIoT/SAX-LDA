@@ -22,7 +22,7 @@ def make_alphabets(feature_descriptions, alphabet_size):
 
 class LdaConfig(object):
 
-    def __init__(self, feature_names, num_topics=10, training_time=1,
+    def __init__(self, feature_names, num_topics=100, training_time=1,
                  word_length=3, word_duration=1,
                  windows_size=4,
                  distribution_window_size=4, alphabet_size=5):

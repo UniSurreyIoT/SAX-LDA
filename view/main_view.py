@@ -1,16 +1,23 @@
+from PyQt4.QtCore import pyqtSlot
 from PyQt4.QtGui import QFileDialog
+from PyQt4.uic.uiparser import QtCore
 
-__author__ = 'Daniel Puschmann'
+__author__ = 'daniel'
 import sys
 from PyQt4 import QtGui
-from view.ldaplusplus import Ui_LDAPlusPlus
+from ldaplusplus import Ui_LDAPlusPlus
 from logic.ldaConfig import LdaConfig
 from logic.lda_logic import ldaLogic
-from view.threadDialog import ThreadManagerDialog
+from logic.ldaLogicLabelExtraction import ldaLogicLabels
+from threadDialog import ThreadManagerDialog
+import cProfile
 import logging
 
-logging.basicConfig(filename="lda_eval.txt", format='%(asctime)s : %(levelname)s : %(message)s',
+logging.basicConfig(filename="lsa_eval.txt", format='%(asctime)s : %(levelname)s : %(message)s',
                     level=logging.DEBUG)
+
+method = "label"
+#method = "pattern"
 
 class Editor(QtGui.QMainWindow):
 
@@ -46,8 +53,13 @@ class Editor(QtGui.QMainWindow):
         thread_dialog = ThreadManagerDialog(self)
         lda_config = LdaConfig(None, training_time=training_time, word_length=word_length, word_duration=sax_duration,
                                windows_size=document_window, distribution_window_size=distribution_window,
-                               alphabet_size=alphabet_size, num_topics=100)
-        thread_dialog.workerThread = ldaLogic(lda_config, self.main_folder, self.context_folder, thread_dialog)
+                               alphabet_size=alphabet_size, num_topics=15)
+        if method is "label":
+            thread_dialog.workerThread = ldaLogicLabels(lda_config, self.main_folder, self.context_folder, thread_dialog)
+        elif method is "pattern":
+            thread_dialog.workerThread = ldaLogic(lda_config, self.main_folder, self.context_folder, thread_dialog)
+        else:
+            raise Exception("Method %s is not supported!" % method)
         print "Reading in Streams"
         thread_dialog.workerThread.read_in_streams()
         # cProfile.runctx('thread_dialog.workerThread.read_in_streams()', {'thread_dialog': thread_dialog}, {})

@@ -1,18 +1,11 @@
 from pprint import pprint
 
-__author__ = 'daniel'
-#refactoring trafficData and weatherFeature into one class with pandas to make it more efficient
+__author__ = 'Daniel Puschmann'
 
-from collections import OrderedDict
-import csv
-from datetime import datetime, timedelta
 import os
-import math
 import numpy
 import pandas
 from scipy.stats import kde
-import CONSTANTS
-import bottleneck as bn
 from matplotlib import pyplot as plt
 
 
@@ -82,11 +75,10 @@ class Stream(object):
                     break
         return betas
 
+    def get_start_date(self):
+        return self.data['TIMESTAMP'].min()
 
-# datapath = CONSTANTS.DATA_BASE_PATH + "\data\\Analysis\\"
-# sensor_id = "trafficData187774.csv"
-# #
-# stream = Stream(datapath, sensor_id)
-# pprint(stream.get_time_window('vehicleCount', datetime.strptime("2014-08-01T00", time_format), "2014-08-01T-10"))
-# # pprint(sum(stream.get_pdf_of_time_window('vehicleCount', "2014-08-01T-09:00:00", "2014-08-01T-10:00:00")[0]))
-# stream.print_pdf_of_time_window('avgSpeed', "2014-08-01T-09:00:00", "2014-08-01T-14:00:00")
+    def get_end_date(self):
+        return self.data['TIMESTAMP'].max()
+
+
