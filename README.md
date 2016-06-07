@@ -30,5 +30,5 @@ The labels are grouped together from different sources within a certain time-fra
 We train and incrementally update an LDA model on the virtual documents that are generated from the data streams to identify and extract relations between the labels.
 Below is a plate model representation of LDA. 
 
-![alt tag](https://github.com/UniSurreyIoT/SAX-LDA/blob/master/images/LDAPlusPlusGui.png)
+![alt tag](https://github.com/UniSurreyIoT/SAX-LDA/blob/master/images/platemodel.pdf)
 
