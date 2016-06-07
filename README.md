@@ -8,7 +8,7 @@ After setting both data streams and optionally adjusting the parameter, the expe
 
 The overall workflow of SAX-LDA consists of 4 steps as can be seen in the diagram. 
 
-![alt text](https://github.com/UniSurreyIoT/SAX-LDA/blob/master/images/WorkflowNew.pdf)
+![alt text](https://github.com/UniSurreyIoT/SAX-LDA/blob/master/images/WorkflowNew.png)
 
 
 # Data Discretisation and Pattern Recognition
