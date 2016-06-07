@@ -21,7 +21,20 @@ Symbolic Aggregate approXimation (SAX) uses the output to discretise the con- ti
 ![alt text](https://github.com/UniSurreyIoT/SAX-LDA/blob/master/images/sax2.pdf)
 
 # Labeling
-The information obtained from the pattern. The rules are explained in Section 5.3 together with the statistical values are translated into labels based on rules.
+We have implemented a rule-based engine which uses the SAX patterns and the statistical information of the time frame to produce human understandable labels. The general form of the rules is given in Equation 3 where < p > is the SAX pattern, < l > is the level, < f > is the feature, < mod > a modifier for the pattern movement and < pm > is the pattern movement. 
+
+{< p > < mean >}
+      => 
+{<l><f >[<mod>]<pm>}
+
+<l>, <m> and <pm> can take the following values:
+
+< l > = [“low′′, “medium′′, “high′′] < f >= [“vehicleCount′′, “avgSpeed′′,
+        “tempm′′, “wspdm′′]
+< m > = [“slowly′′, “rapidly′′, 
+        “upward′′, “downward′′]
+< pm > = [“decreasing′′, “increasing′′,
+          “steady′′, “peak′′, “varying′′]
 
 # Virtual Document Generation
 The labels are grouped together from different sources within a certain time-frame toform virtual documents which can be used as input for the LDA model.
