@@ -14,7 +14,7 @@ The overall workflow of SAX-LDA consists of 4 steps as can be seen in the diagra
 # Data Discretisation and Pattern Recognition
 Piecewise Aggregate Approximation (PAA) is used to reduce the dimensionality of the data.
 
-![alt text](https://github.com/UniSurreyIoT/SAX-LDA/blob/master/images/paa.pdf)
+![alt text](https://github.com/UniSurreyIoT/SAX-LDA/blob/master/images/paa.png)
 
 Symbolic Aggregate approXimation (SAX) uses the output to discretise the con- tinuous, numerical data streams and to recognise (lower-level) patterns.
 
@@ -43,5 +43,5 @@ The labels are grouped together from different sources within a certain time-fra
 We train and incrementally update an LDA model on the virtual documents that are generated from the data streams to identify and extract relations between the labels.
 Below is a plate model representation of LDA. 
 
-![alt text](https://github.com/UniSurreyIoT/SAX-LDA/blob/master/images/platemodel.pdf)
+![alt text](https://github.com/UniSurreyIoT/SAX-LDA/blob/master/images/platemodel.png)
 
