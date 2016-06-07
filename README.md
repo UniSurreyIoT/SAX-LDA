@@ -21,7 +21,7 @@ Symbolic Aggregate approXimation (SAX) uses the output to discretise the con- ti
 ![alt text](https://github.com/UniSurreyIoT/SAX-LDA/blob/master/images/sax2.pdf)
 
 # Labeling
-The information obtained from the pat- tern. The rules are explained in Section 5.3 together with the statistical values are translated into labels based on rules.
+The information obtained from the pattern. The rules are explained in Section 5.3 together with the statistical values are translated into labels based on rules.
 
 # Virtual Document Generation
 The labels are grouped together from different sources within a certain time-frame toform virtual documents which can be used as input for the LDA model.
