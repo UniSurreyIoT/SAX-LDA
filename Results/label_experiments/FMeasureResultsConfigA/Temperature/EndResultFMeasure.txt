@@ -1,0 +1,30 @@
+Score for label Medium_tempm_downward_peakHow often did the label appear in the actual data: 950
+How often was the label predicted: 71
+How often was the label correctly predicted: 71
+Precision: 1.000000
+Recall: 0.074737
+Resulting f1-score: 0.139079
+Score for label High_tempm_steadyHow often did the label appear in the actual data: 3550
+How often was the label predicted: 2927
+How often was the label correctly predicted: 2927
+Precision: 1.000000
+Recall: 0.824507
+Resulting f1-score: 0.903813
+Score for label Medium_tempm_upward_peakHow often did the label appear in the actual data: 850
+How often was the label predicted: 50
+How often was the label correctly predicted: 50
+Precision: 1.000000
+Recall: 0.058824
+Resulting f1-score: 0.111111
+Score for label Low_tempm_steadyHow often did the label appear in the actual data: 450
+How often was the label predicted: 250
+How often was the label correctly predicted: 250
+Precision: 1.000000
+Recall: 0.555556
+Resulting f1-score: 0.714286
+Score for label Medium_tempm_steadyHow often did the label appear in the actual data: 24950
+How often was the label predicted: 20624
+How often was the label correctly predicted: 20624
+Precision: 1.000000
+Recall: 0.826613
+Resulting f1-score: 0.905077

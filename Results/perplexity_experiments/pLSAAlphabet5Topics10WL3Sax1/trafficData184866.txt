@@ -1,0 +1,1384 @@
+Period: 2014-08-03 08:00:00 to 2014-08-03 12:00:00["kkk", "lnl", "nnn", "lll", "sps", "sss", "sqs", "qpq", "dcb", "bdb", "dbb", "ddd", "hgg", "igi", "hhg", "iii"]
+Statistics:
+{"wspdm": {"std": 3.1373024506200653, "max": 16.7, "min": 7.4, "mean": 13.339999999999998}, "tempm": {"std": 0.674948557710553, "max": 25.0, "min": 23.0, "mean": 24.3}}
+{"avgSpeed": {"std": 10.380904692687816, "max": 66, "min": 16, "mean": 36.38297872340426}, "vehicleCount": {"std": 1.1854030489791816, "max": 6, "min": 0, "mean": 1.8297872340425532}}
+Period: 2014-08-03 12:00:00 to 2014-08-03 16:00:00["nnn", "nln", "lkl", "klk", "sss", "sss", "ppp", "qpq", "dcc", "dbc", "cdb", "bbc", "ffi", "ihh", "igg", "gii"]
+Statistics:
+{"wspdm": {"std": 3.61547180373964, "max": 11.1, "min": 0.0, "mean": 5.081818181818182}, "tempm": {"std": 1.3684762594679065, "max": 23.0, "min": 19.0, "mean": 20.454545454545453}}
+{"avgSpeed": {"std": 13.961457451572272, "max": 73, "min": 22, "mean": 38.234042553191486}, "vehicleCount": {"std": 1.5859582733392947, "max": 6, "min": 0, "mean": 1.4680851063829787}}
+Period: 2014-08-03 16:00:00 to 2014-08-03 20:00:00["knk", "nnn", "nnn", "nkn", "psp", "sss", "sss", "ppp", "ddd", "dab", "aba", "cdd", "ggg", "iii", "hhh", "gfg"]
+Statistics:
+{"wspdm": {"std": 1.3951865303770152, "max": 7.4, "min": 3.7, "mean": 5.236363636363638}, "tempm": {"std": 0.4045199174779452, "max": 22.0, "min": 21.0, "mean": 21.818181818181817}}
+{"avgSpeed": {"std": 12.933116210415742, "max": 63, "min": 20, "mean": 41.319148936170215}, "vehicleCount": {"std": 0.7954542451072876, "max": 3, "min": 0, "mean": 0.6170212765957447}}
+Period: 2014-08-03 20:00:00 to 2014-08-04 00:00:00["nnn", "nmn", "mmm", "kkk", "qqq", "sqs", "sqs", "sss", "aaa", "aad", "ccc", "ddc", "iff", "fff", "iff", "iff"]
+Statistics:
+{"wspdm": {"std": 2.990743294658613, "max": 11.1, "min": 1.9, "mean": 5.0636363636363635}, "tempm": {"std": 0.7507571935295484, "max": 21.0, "min": 19.0, "mean": 20.181818181818183}}
+{"avgSpeed": {"std": 13.757685599092545, "max": 46, "min": 10, "mean": 24.717391304347824}, "vehicleCount": {"std": 0.24963741822833801, "max": 1, "min": 0, "mean": 0.06521739130434782}}
+Period: 2014-08-04 00:00:00 to 2014-08-04 04:00:00["nnn", "nnn", "nkn", "knk", "sps", "pqp", "sss", "sqs", "aac", "ccc", "cbd", "dab", "fff", "fff", "fhi", "fii"]
+Statistics:
+{"wspdm": {"std": 5.619624704389237, "max": 20.4, "min": 1.9, "mean": 8.772727272727273}, "tempm": {"std": 0.4670993664969138, "max": 19.0, "min": 18.0, "mean": 18.727272727272727}}
+{"avgSpeed": {"std": 7.894072062505485, "max": 59, "min": 25, "mean": 41.340425531914896}, "vehicleCount": {"std": 1.5295425664343865, "max": 10, "min": 0, "mean": 0.44680851063829785}}
+Period: 2014-08-04 04:00:00 to 2014-08-04 08:00:00["a", "a", "a", "a", "sss", "psp", "sps", "sps", "dcb", "dcd", "dca", "aad", "iii", "iif", "ggg", "ggg"]
+Statistics:
+{"wspdm": {"std": 2.467903048044119, "max": 13.0, "min": 3.7, "mean": 8.936363636363637}, "tempm": {"std": 0.0, "max": 18.0, "min": 18.0, "mean": 18.0}}
+{"avgSpeed": {"std": 4.734095042792293, "max": 48, "min": 27, "mean": 35.255319148936174}, "vehicleCount": {"std": 3.6129840885411886, "max": 16, "min": 0, "mean": 5.8936170212765955}}
+Period: 2014-08-04 08:00:00 to 2014-08-04 12:00:00["a", "a", "a", "a", "pqp", "srs", "rsr", "sss", "dcd", "bbc", "dbc", "cbd", "gii", "fhi", "hhh", "iih"]
+Statistics:
+{"wspdm": {"std": 2.189105255162898, "max": 13.0, "min": 5.6, "mean": 9.272727272727272}, "tempm": {"std": 0.0, "max": 18.0, "min": 18.0, "mean": 18.0}}
+{"avgSpeed": {"std": 7.362178015022754, "max": 62, "min": 25, "mean": 34.191489361702125}, "vehicleCount": {"std": 2.078923794733907, "max": 9, "min": 0, "mean": 4.0638297872340425}}
+Period: 2014-08-04 12:00:00 to 2014-08-04 16:00:00["kkk", "lml", "mnm", "nnn", "rrr", "rsr", "sss", "sps", "bbd", "bdc", "cab", "cdd", "iih", "hii", "hhg", "gfg"]
+Statistics:
+{"wspdm": {"std": 1.3830795678156373, "max": 18.5, "min": 14.8, "mean": 17.00909090909091}, "tempm": {"std": 1.2720777563426764, "max": 23.0, "min": 20.0, "mean": 21.727272727272727}}
+{"avgSpeed": {"std": 7.54658673327546, "max": 53, "min": 23, "mean": 35.51063829787234}, "vehicleCount": {"std": 1.8697158040165047, "max": 6, "min": 0, "mean": 2.9361702127659575}}
+Period: 2014-08-04 16:00:00 to 2014-08-04 20:00:00["nnn", "nnn", "nln", "kkk", "sss", "sss", "sqs", "ppp", "ddc", "aac", "bcc", "bdd", "ghi", "fgh", "igg", "hif"]
+Statistics:
+{"wspdm": {"std": 2.2482316283126735, "max": 18.5, "min": 11.1, "mean": 15.836363636363636}, "tempm": {"std": 1.3483997249264843, "max": 24.0, "min": 20.0, "mean": 22.727272727272727}}
+{"avgSpeed": {"std": 13.783972063055527, "max": 70, "min": 28, "mean": 45.95454545454545}, "vehicleCount": {"std": 0.7453165963217527, "max": 3, "min": 0, "mean": 0.6590909090909091}}
+Period: 2014-08-04 20:00:00 to 2014-08-05 00:00:00["nnn", "nmn", "lll", "lkl", "srs", "rsr", "prp", "rpr", "cad", "bbd", "dcc", "ccc", "ihi", "ffi", "iff", "fff"]
+Statistics:
+{"wspdm": {"std": 2.1891052551628984, "max": 7.4, "min": 0.0, "mean": 1.8727272727272726}, "tempm": {"std": 1.60113596038449, "max": 19.0, "min": 14.0, "mean": 16.181818181818183}}
+{"avgSpeed": {"std": 7.747433592663263, "max": 54, "min": 30, "mean": 38.52272727272727}, "vehicleCount": {"std": 0.6449511183273597, "max": 2, "min": 0, "mean": 0.3409090909090909}}
+Period: 2014-08-05 00:00:00 to 2014-08-05 04:00:00["nkn", "knk", "knk", "nnn", "prp", "prp", "srs", "rrr", "ccc", "ccc", "ccc", "bdb", "fff", "fff", "fff", "hii"]
+Statistics:
+{"wspdm": {"std": 1.057250101810247, "max": 3.7, "min": 0.0, "mean": 1.7}, "tempm": {"std": 0.5163977794943222, "max": 14.0, "min": 13.0, "mean": 13.6}}
+{"avgSpeed": {"std": 5.39263210650214, "max": 59, "min": 33, "mean": 37.46808510638298}, "vehicleCount": {"std": 1.4999229089039707, "max": 7, "min": 0, "mean": 0.574468085106383}}
+Period: 2014-08-05 04:00:00 to 2014-08-05 08:00:00["kkk", "mmm", "mnm", "nnn", "ppp", "rrr", "srs", "sss", "cbd", "ddb", "bdb", "dca", "iii", "iig", "hgh", "fhh"]
+Statistics:
+{"wspdm": {"std": 1.4332417165927802, "max": 7.4, "min": 3.7, "mean": 5.572727272727273}, "tempm": {"std": 0.9816498172140428, "max": 17.0, "min": 14.0, "mean": 15.181818181818182}}
+{"avgSpeed": {"std": 5.570256015786537, "max": 47, "min": 20, "mean": 34.191489361702125}, "vehicleCount": {"std": 2.534133310892069, "max": 10, "min": 0, "mean": 3.723404255319149}}
+Period: 2014-08-05 08:00:00 to 2014-08-05 12:00:00["klk", "mmm", "nnn", "nnn", "sss", "sqs", "sss", "ppp", "cbd", "daa", "ccd", "ddd", "ihg", "gii", "ggi", "ihf"]
+Statistics:
+{"wspdm": {"std": 2.0820007859574106, "max": 9.3, "min": 3.7, "mean": 6.754545454545456}, "tempm": {"std": 1.4709304414677005, "max": 23.0, "min": 18.0, "mean": 21.181818181818183}}
+{"avgSpeed": {"std": 5.779189719712022, "max": 46, "min": 22, "mean": 34.608695652173914}, "vehicleCount": {"std": 2.1597995970730497, "max": 9, "min": 1, "mean": 4.043478260869565}}
+Period: 2014-08-05 12:00:00 to 2014-08-05 16:00:00["mnm", "kkk", "kmk", "mkm", "ppp", "ppp", "sss", "srs", "ccd", "dcd", "add", "bcb", "iig", "iih", "ggg", "hgg"]
+Statistics:
+{"wspdm": {"std": 4.41569845631955, "max": 13.0, "min": 3.7, "mean": 8.8125}, "tempm": {"std": 0.7559289460184544, "max": 23.0, "min": 21.0, "mean": 22.0}}
+{"avgSpeed": {"std": 7.185335564783205, "max": 58, "min": 24, "mean": 36.744680851063826}, "vehicleCount": {"std": 2.234412550304524, "max": 9, "min": 0, "mean": 2.9148936170212765}}
+Period: 2014-08-05 16:00:00 to 2014-08-05 20:00:00["nnn", "nnn", "nnn", "kkk", "ppp", "sss", "rpr", "sps", "dca", "abc", "bdd", "bdc", "hgf", "fhh", "hhf", "ghi"]
+Statistics:
+{"wspdm": {"std": 1.7472575914584236, "max": 7.4, "min": 3.7, "mean": 5.3909090909090915}, "tempm": {"std": 0.6030226891555273, "max": 20.0, "min": 18.0, "mean": 18.818181818181817}}
+{"avgSpeed": {"std": 13.904258327216601, "max": 61, "min": 23, "mean": 45.38297872340426}, "vehicleCount": {"std": 0.6875394194400758, "max": 2, "min": 0, "mean": 0.48936170212765956}}
+Period: 2014-08-05 20:00:00 to 2014-08-06 00:00:00["nnn", "nnn", "lll", "kkk", "ppp", "rqr", "sss", "srs", "aaa", "aaa", "bdd", "ddd", "ggg", "ggi", "ggg", "ggg"]
+Statistics:
+{"wspdm": {"std": 2.336275201722138, "max": 7.4, "min": 1.9, "mean": 5.072727272727272}, "tempm": {"std": 1.12006493318265, "max": 18.0, "min": 15.0, "mean": 16.636363636363637}}
+{"avgSpeed": {"std": 9.720364293465405, "max": 65, "min": 45, "mean": 53.38095238095238}, "vehicleCount": {"std": 0.15430334996209188, "max": 1, "min": 0, "mean": 0.023809523809523808}}
+Period: 2014-08-06 00:00:00 to 2014-08-06 04:00:00["nnn", "nnn", "nnn", "nkn", "rsr", "prp", "rsr", "srs", "ddd", "ddd", "bbc", "cba", "fff", "ffg", "fgi", "iii"]
+Statistics:
+{"wspdm": {"std": 2.7225322437359334, "max": 9.3, "min": 1.9, "mean": 5.927272727272726}, "tempm": {"std": 0.30151134457776363, "max": 14.0, "min": 13.0, "mean": 13.909090909090908}}
+{"avgSpeed": {"std": 11.695251532914178, "max": 65, "min": 31, "mean": 54.297872340425535}, "vehicleCount": {"std": 1.614286357507026, "max": 8, "min": 0, "mean": 0.7872340425531915}}
+Period: 2014-08-06 04:00:00 to 2014-08-06 08:00:00["kkk", "klk", "mnm", "nnn", "sps", "prp", "prp", "sss", "ddd", "dcb", "cda", "bca", "hii", "hfh", "hfh", "igi"]
+Statistics:
+{"wspdm": {"std": 2.64551077728428, "max": 7.4, "min": 0.0, "mean": 2.5454545454545454}, "tempm": {"std": 2.1908902300206643, "max": 18.0, "min": 12.0, "mean": 14.0}}
+{"avgSpeed": {"std": 6.7420422822064925, "max": 56, "min": 26, "mean": 36.744680851063826}, "vehicleCount": {"std": 2.418706009503228, "max": 10, "min": 0, "mean": 4.617021276595745}}
+Period: 2014-08-06 08:00:00 to 2014-08-06 12:00:00["klk", "lml", "mnm", "nnn", "srs", "rrr", "rpr", "rrr", "abd", "dcc", "cdd", "dcb", "iii", "hhg", "igh", "ihf"]
+Statistics:
+{"wspdm": {"std": 1.6126770515907, "max": 14.8, "min": 9.3, "mean": 12.645454545454545}, "tempm": {"std": 1.044465935734187, "max": 22.0, "min": 19.0, "mean": 20.90909090909091}}
+{"avgSpeed": {"std": 4.3620811640094574, "max": 42, "min": 23, "mean": 32.191489361702125}, "vehicleCount": {"std": 1.9023331504644896, "max": 9, "min": 1, "mean": 3.893617021276596}}
+Period: 2014-08-06 12:00:00 to 2014-08-06 16:00:00["nkn", "knk", "nnn", "knk", "prp", "sss", "rsr", "sps", "bad", "dbb", "dcc", "ddd", "ihi", "hih", "hhf", "hgf"]
+Statistics:
+{"wspdm": {"std": 2.064152918930008, "max": 16.7, "min": 9.3, "mean": 13.645454545454545}, "tempm": {"std": 0.504524979109513, "max": 23.0, "min": 22.0, "mean": 22.636363636363637}}
+{"avgSpeed": {"std": 9.678361188788498, "max": 61, "min": 19, "mean": 33.638297872340424}, "vehicleCount": {"std": 1.8254040395192126, "max": 9, "min": 0, "mean": 2.8085106382978724}}
+Period: 2014-08-06 16:00:00 to 2014-08-06 20:00:00["nnn", "nmn", "mmm", "kkk", "sss", "sss", "qpq", "ppp", "dbb", "ccd", "bac", "ddc", "hig", "ifg", "ihh", "hhf"]
+Statistics:
+{"wspdm": {"std": 3.9218502127068917, "max": 14.8, "min": 3.7, "mean": 9.109090909090908}, "tempm": {"std": 0.8312094145936334, "max": 23.0, "min": 21.0, "mean": 22.09090909090909}}
+{"avgSpeed": {"std": 9.235834967590431, "max": 63, "min": 31, "mean": 47.297872340425535}, "vehicleCount": {"std": 0.8720132054775834, "max": 3, "min": 0, "mean": 0.9787234042553191}}
+Period: 2014-08-06 20:00:00 to 2014-08-07 00:00:00["nnn", "nnn", "lll", "lkl", "sss", "sss", "sss", "ppp", "cdb", "dda", "bcc", "ccc", "ifi", "iii", "fff", "fff"]
+Statistics:
+{"wspdm": {"std": 1.0048066299723362, "max": 7.4, "min": 3.7, "mean": 5.418181818181819}, "tempm": {"std": 1.2504544628399563, "max": 20.0, "min": 16.0, "mean": 17.818181818181817}}
+{"avgSpeed": {"std": 5.146223394100506, "max": 61, "min": 42, "mean": 52.93181818181818}, "vehicleCount": {"std": 0.5756694788133285, "max": 2, "min": 0, "mean": 0.25}}
+Period: 2014-08-07 00:00:00 to 2014-08-07 04:00:00["mnm", "nmn", "mlm", "lkl", "sss", "rrr", "rqr", "ppp", "ddc", "ccc", "cca", "daa", "fff", "fff", "ffi", "fii"]
+Statistics:
+{"wspdm": {"std": 2.2169594247322366, "max": 7.4, "min": 1.9, "mean": 4.90909090909091}, "tempm": {"std": 0.9816498172140428, "max": 17.0, "min": 14.0, "mean": 15.818181818181818}}
+{"avgSpeed": {"std": 5.856043629749057, "max": 63, "min": 37, "mean": 50.42553191489362}, "vehicleCount": {"std": 1.5780642482192744, "max": 7, "min": 0, "mean": 0.6595744680851063}}
+Period: 2014-08-07 04:00:00 to 2014-08-07 08:00:00["kkk", "kkk", "lnl", "nnn", "pqp", "qqq", "sss", "sss", "ddd", "cda", "bdb", "cbb", "iii", "gig", "ggh", "hhi"]
+Statistics:
+{"wspdm": {"std": 3.3463684522451826, "max": 9.3, "min": 0.0, "mean": 4.572727272727272}, "tempm": {"std": 2.586679162731453, "max": 21.0, "min": 14.0, "mean": 15.909090909090908}}
+{"avgSpeed": {"std": 6.800922286042942, "max": 50, "min": 17, "mean": 34.5531914893617}, "vehicleCount": {"std": 2.3669009625483888, "max": 10, "min": 0, "mean": 4.468085106382978}}
+Period: 2014-08-07 08:00:00 to 2014-08-07 12:00:00["knk", "nnn", "nnn", "nnn", "rrr", "prp", "sss", "sss", "dbb", "dcb", "cbd", "dca", "hig", "hih", "ihg", "gfi"]
+Statistics:
+{"wspdm": {"std": 1.810675413912017, "max": 14.8, "min": 9.3, "mean": 11.463636363636363}, "tempm": {"std": 0.3015113445777637, "max": 22.0, "min": 21.0, "mean": 21.90909090909091}}
+{"avgSpeed": {"std": 6.470026243607477, "max": 51, "min": 19, "mean": 31.5531914893617}, "vehicleCount": {"std": 2.0675457929440024, "max": 9, "min": 1, "mean": 4.170212765957447}}
+Period: 2014-08-07 12:00:00 to 2014-08-07 16:00:00["nkn", "knk", "nnn", "nnn", "srs", "qrq", "sss", "rpr", "bda", "bcb", "cdb", "ddd", "igh", "iii", "hhg", "gfg"]
+Statistics:
+{"wspdm": {"std": 2.597061276275027, "max": 13.0, "min": 3.7, "mean": 7.754545454545456}, "tempm": {"std": 0.6030226891555274, "max": 22.0, "min": 20.0, "mean": 20.818181818181817}}
+{"avgSpeed": {"std": 6.701167280647396, "max": 51, "min": 21, "mean": 33.91489361702128}, "vehicleCount": {"std": 2.0951024340269577, "max": 8, "min": 0, "mean": 3.0425531914893615}}
+Period: 2014-08-07 16:00:00 to 2014-08-07 20:00:00["nnn", "nnn", "nnn", "kkk", "sss", "qqq", "pqp", "qqq", "cda", "bdb", "ddd", "cda", "iig", "gfh", "hig", "hgg"]
+Statistics:
+{"wspdm": {"std": 1.9030597372747824, "max": 11.1, "min": 3.7, "mean": 6.418181818181818}, "tempm": {"std": 0.46709936649691375, "max": 21.0, "min": 20.0, "mean": 20.727272727272727}}
+{"avgSpeed": {"std": 12.142005893716004, "max": 62, "min": 26, "mean": 40.46808510638298}, "vehicleCount": {"std": 1.006914117838782, "max": 3, "min": 0, "mean": 0.8297872340425532}}
+Period: 2014-08-07 20:00:00 to 2014-08-08 00:00:00["nnn", "nnn", "lll", "lkl", "sss", "ppp", "psp", "sss", "caa", "abd", "ddd", "dda", "ihf", "fhi", "fff", "hfi"]
+Statistics:
+{"wspdm": {"std": 1.209207103097653, "max": 7.4, "min": 3.7, "mean": 5.072727272727274}, "tempm": {"std": 0.6875516509523286, "max": 19.0, "min": 17.0, "mean": 18.454545454545453}}
+{"avgSpeed": {"std": 6.825177138601378, "max": 49, "min": 31, "mean": 40.04761904761905}, "vehicleCount": {"std": 0.4967957724145473, "max": 2, "min": 0, "mean": 0.2619047619047619}}
+Period: 2014-08-08 00:00:00 to 2014-08-08 04:00:00["nnn", "nkn", "mkm", "kkk", "sps", "rsr", "sps", "rrr", "bbb", "bdd", "dca", "add", "fff", "fff", "fgg", "fii"]
+Statistics:
+{"wspdm": {"std": 2.216959424732237, "max": 7.4, "min": 1.9, "mean": 4.3909090909090915}, "tempm": {"std": 0.9438798074485388, "max": 17.0, "min": 15.0, "mean": 15.909090909090908}}
+{"avgSpeed": {"std": 7.366072184445179, "max": 50, "min": 26, "mean": 35.04255319148936}, "vehicleCount": {"std": 1.4510196102545276, "max": 6, "min": 0, "mean": 0.6382978723404256}}
+Period: 2014-08-08 04:00:00 to 2014-08-08 08:00:00["lkl", "lll", "mnm", "nnn", "psp", "pqp", "qsq", "sss", "cbc", "cdd", "ddb", "bca", "hhi", "gih", "ghi", "ihf"]
+Statistics:
+{"wspdm": {"std": 2.958808113843386, "max": 11.1, "min": 1.9, "mean": 5.236363636363636}, "tempm": {"std": 1.7320508075688772, "max": 19.0, "min": 14.0, "mean": 16.0}}
+{"avgSpeed": {"std": 9.411990698979086, "max": 72, "min": 24, "mean": 39.255319148936174}, "vehicleCount": {"std": 2.3739255810155075, "max": 9, "min": 0, "mean": 4.127659574468085}}
+Period: 2014-08-08 08:00:00 to 2014-08-08 12:00:00["kkk", "lll", "nnn", "nnn", "srs", "qrq", "qqq", "rrr", "aca", "bcd", "ddd", "cdc", "ihi", "gfi", "fhi", "hhi"]
+Statistics:
+{"wspdm": {"std": 1.821787334160903, "max": 13.0, "min": 7.4, "mean": 10.79090909090909}, "tempm": {"std": 1.009049958219026, "max": 23.0, "min": 20.0, "mean": 21.272727272727273}}
+{"avgSpeed": {"std": 6.662541122504661, "max": 61, "min": 24, "mean": 33.04255319148936}, "vehicleCount": {"std": 2.382483098980719, "max": 11, "min": 0, "mean": 4.617021276595745}}
+Period: 2014-08-08 12:00:00 to 2014-08-08 16:00:00["kkk", "knk", "knk", "nnn", "pqp", "sss", "sss", "qsq", "bdc", "cac", "bdc", "bdd", "ifi", "igh", "ghi", "ihg"]
+Statistics:
+{"wspdm": {"std": 2.7815299910137745, "max": 16.7, "min": 7.4, "mean": 11.809090909090907}, "tempm": {"std": 0.5222329678670934, "max": 24.0, "min": 23.0, "mean": 23.545454545454547}}
+{"avgSpeed": {"std": 8.465033919597989, "max": 58, "min": 22, "mean": 36.680851063829785}, "vehicleCount": {"std": 1.8714466792966633, "max": 7, "min": 0, "mean": 3.382978723404255}}
+Period: 2014-08-08 16:00:00 to 2014-08-08 20:00:00["nnn", "nnn", "mmm", "kkk", "srs", "sss", "rqr", "ppp", "ddc", "acd", "adc", "bbd", "ffg", "hhf", "hif", "ihh"]
+Statistics:
+{"wspdm": {"std": 2.244103384427732, "max": 11.1, "min": 5.6, "mean": 9.1}, "tempm": {"std": 1.2933395813657265, "max": 24.0, "min": 20.0, "mean": 22.545454545454547}}
+{"avgSpeed": {"std": 10.333298518835646, "max": 61, "min": 33, "mean": 49.51063829787234}, "vehicleCount": {"std": 0.8318364601243621, "max": 3, "min": 0, "mean": 0.7021276595744681}}
+Period: 2014-08-08 20:00:00 to 2014-08-09 00:00:00["nnn", "nmn", "mlm", "lkl", "qsq", "sss", "sqs", "pqp", "ddd", "daa", "aaa", "aaa", "fii", "fif", "fff", "fff"]
+Statistics:
+{"wspdm": {"std": 1.2840277538773344, "max": 5.6, "min": 1.9, "mean": 4.745454545454546}, "tempm": {"std": 1.6292775867068983, "max": 20.0, "min": 15.0, "mean": 17.363636363636363}}
+{"avgSpeed": {"std": 6.4956029083416995, "max": 58, "min": 39, "mean": 43.25}, "vehicleCount": {"std": 0.35073618720610095, "max": 1, "min": 0, "mean": 0.1388888888888889}}
+Period: 2014-08-09 00:00:00 to 2014-08-09 04:00:00["mkm", "kkk", "mmm", "nnn", "ppp", "rqr", "qsq", "sss", "aaa", "aaa", "ddb", "ddd", "fff", "fff", "iii", "iff"]
+Statistics:
+{"wspdm": {"std": 2.4610788469508837, "max": 11.1, "min": 3.7, "mean": 7.090909090909093}, "tempm": {"std": 0.9438798074485389, "max": 17.0, "min": 14.0, "mean": 14.909090909090908}}
+{"avgSpeed": {"std": 8.86088390877419, "max": 62, "min": 39, "mean": 45.53191489361702}, "vehicleCount": {"std": 0.4632667657054793, "max": 2, "min": 0, "mean": 0.2127659574468085}}
+Period: 2014-08-09 04:00:00 to 2014-08-09 08:00:00["klk", "lml", "nnn", "nnn", "ppp", "pqp", "sss", "sss", "ddd", "bbb", "cac", "dcc", "ffg", "fgg", "igg", "hii"]
+Statistics:
+{"wspdm": {"std": 6.014558096062344, "max": 22.2, "min": 7.4, "mean": 14.490909090909089}, "tempm": {"std": 1.420627262226731, "max": 21.0, "min": 17.0, "mean": 19.272727272727273}}
+{"avgSpeed": {"std": 12.464714304094626, "max": 63, "min": 29, "mean": 43.97872340425532}, "vehicleCount": {"std": 1.7627558106849648, "max": 8, "min": 0, "mean": 1.2553191489361701}}
+Period: 2014-08-09 08:00:00 to 2014-08-09 12:00:00["knk", "nnn", "nnn", "nkn", "ppp", "rsr", "rrr", "prp", "dab", "dca", "cdd", "dad", "hhi", "ggg", "ifh", "ihi"]
+Statistics:
+{"wspdm": {"std": 3.2517687494654353, "max": 31.5, "min": 22.2, "mean": 24.9}, "tempm": {"std": 0.4045199174779452, "max": 22.0, "min": 21.0, "mean": 21.818181818181817}}
+{"avgSpeed": {"std": 5.970246920238864, "max": 50, "min": 21, "mean": 33.5531914893617}, "vehicleCount": {"std": 1.5295425664343865, "max": 7, "min": 0, "mean": 2.4468085106382977}}
+Period: 2014-08-09 12:00:00 to 2014-08-09 16:00:00["nln", "nnn", "nkn", "nnn", "srs", "sss", "sps", "rrr", "ddc", "caa", "dcb", "ccb", "iii", "gff", "gii", "hgf"]
+Statistics:
+{"wspdm": {"std": 2.3768963720861627, "max": 22.2, "min": 14.8, "mean": 19.181818181818183}, "tempm": {"std": 0.8201995322647245, "max": 20.0, "min": 18.0, "mean": 19.454545454545453}}
+{"avgSpeed": {"std": 7.719588357116606, "max": 58, "min": 25, "mean": 36.12765957446808}, "vehicleCount": {"std": 2.0177290061541147, "max": 7, "min": 0, "mean": 2.1914893617021276}}
+Period: 2014-08-09 16:00:00 to 2014-08-09 20:00:00["nnn", "nnn", "nnn", "kkk", "sss", "sss", "pqp", "ppp", "bcd", "cdd", "dbb", "bcb", "ghg", "ghg", "gih", "ggh"]
+Statistics:
+{"wspdm": {"std": 5.816246837327941, "max": 27.8, "min": 11.1, "mean": 17.845454545454547}, "tempm": {"std": 0.40451991747794525, "max": 20.0, "min": 19.0, "mean": 19.818181818181817}}
+{"avgSpeed": {"std": 20.356853394152257, "max": 89, "min": 17, "mean": 49.1063829787234}, "vehicleCount": {"std": 0.6203457601730364, "max": 2, "min": 0, "mean": 0.5319148936170213}}
+Period: 2014-08-09 20:00:00 to 2014-08-10 00:00:00["nnn", "nnn", "nkn", "kkk", "sss", "sss", "sps", "prp", "dbc", "caa", "aaa", "cdd", "ihh", "hhf", "fhf", "iff"]
+Statistics:
+{"wspdm": {"std": 2.730600999447158, "max": 13.0, "min": 5.6, "mean": 9.272727272727272}, "tempm": {"std": 0.7507571935295484, "max": 18.0, "min": 16.0, "mean": 16.818181818181817}}
+{"avgSpeed": {"std": 5.041744928017672, "max": 53, "min": 36, "mean": 40.111111111111114}, "vehicleCount": {"std": 0.6396021490668311, "max": 2, "min": 0, "mean": 0.3333333333333333}}
+Period: 2014-08-10 00:00:00 to 2014-08-10 04:00:00["nnn", "nnn", "knk", "kkk", "rsr", "rrr", "prp", "rrr", "ccc", "ccc", "ccc", "daa", "iff", "fff", "fff", "iff"]
+Statistics:
+{"wspdm": {"std": 0.8275923458497493, "max": 7.4, "min": 3.7, "mean": 5.590909090909093}, "tempm": {"std": 0.4670993664969138, "max": 15.0, "min": 14.0, "mean": 14.727272727272727}}
+{"avgSpeed": {"std": 2.960892182466074, "max": 63, "min": 42, "mean": 44.808510638297875}, "vehicleCount": {"std": 0.24709224814516545, "max": 1, "min": 0, "mean": 0.06382978723404255}}
+Period: 2014-08-10 04:00:00 to 2014-08-10 08:00:00["kkk", "kmk", "nnn", "nnn", "rrr", "rpr", "rrr", "sss", "ccc", "cbb", "ddd", "dba", "fff", "fgg", "hgh", "iii"]
+Statistics:
+{"wspdm": {"std": 1.1052766005106434, "max": 7.4, "min": 3.7, "mean": 5.918181818181818}, "tempm": {"std": 2.1362669223756576, "max": 19.0, "min": 13.0, "mean": 15.818181818181818}}
+{"avgSpeed": {"std": 6.911894318580859, "max": 60, "min": 30, "mean": 42.4468085106383}, "vehicleCount": {"std": 1.009208297431244, "max": 5, "min": 0, "mean": 0.6382978723404256}}
+Period: 2014-08-10 08:00:00 to 2014-08-10 12:00:00["kkk", "kkk", "mnm", "nnn", "rrr", "rpr", "rrr", "sss", "add", "dda", "ddc", "cbb", "hhg", "ggg", "hii", "hih"]
+Statistics:
+{"wspdm": {"std": 3.08895392708217, "max": 18.5, "min": 9.3, "mean": 14.318181818181818}, "tempm": {"std": 1.1361818036340359, "max": 23.0, "min": 20.0, "mean": 20.90909090909091}}
+{"avgSpeed": {"std": 10.564720583104645, "max": 62, "min": 25, "mean": 36.319148936170215}, "vehicleCount": {"std": 1.1497496007004409, "max": 5, "min": 0, "mean": 1.9361702127659575}}
+Period: 2014-08-10 12:00:00 to 2014-08-10 16:00:00["nkn", "kkk", "knk", "nnn", "sps", "psp", "psp", "ppp", "bcd", "bba", "ccc", "dda", "igg", "hfi", "igi", "ggf"]
+Statistics:
+{"wspdm": {"std": 0.9585974603080741, "max": 20.4, "min": 18.5, "mean": 19.19090909090909}, "tempm": {"std": 0.5222329678670935, "max": 24.0, "min": 23.0, "mean": 23.454545454545453}}
+{"avgSpeed": {"std": 12.23841935946515, "max": 66, "min": 25, "mean": 38.297872340425535}, "vehicleCount": {"std": 1.107538711806437, "max": 6, "min": 0, "mean": 1.2340425531914894}}
+Period: 2014-08-10 16:00:00 to 2014-08-10 20:00:00["nnn", "nmn", "kkk", "kkk", "qsq", "qsq", "sqs", "sss", "bdd", "bbb", "bcc", "ddd", "hhi", "ihh", "fii", "gff"]
+Statistics:
+{"wspdm": {"std": 1.522020188612969, "max": 25.9, "min": 20.4, "mean": 23.236363636363635}, "tempm": {"std": 1.0954451150103321, "max": 24.0, "min": 21.0, "mean": 22.0}}
+{"avgSpeed": {"std": 9.354712090592226, "max": 62, "min": 26, "mean": 39.57446808510638}, "vehicleCount": {"std": 0.9073652783643024, "max": 3, "min": 0, "mean": 0.7872340425531915}}
+Period: 2014-08-10 20:00:00 to 2014-08-11 00:00:00["nnn", "nmn", "mkm", "kkk", "qrq", "sss", "qpq", "srs", "ddd", "ddd", "ddd", "aaa", "ggg", "ggg", "ggg", "ggg"]
+Statistics:
+{"wspdm": {"std": 2.597691282658508, "max": 27.8, "min": 20.4, "mean": 25.6}, "tempm": {"std": 1.3618169680781094, "max": 21.0, "min": 18.0, "mean": 19.636363636363637}}
+{"avgSpeed": {"std": 7.331521515311033, "max": 45, "min": 28, "mean": 40.93478260869565}, "vehicleCount": {"std": 0.1474419561548971, "max": 1, "min": 0, "mean": 0.021739130434782608}}
+Period: 2014-08-11 00:00:00 to 2014-08-11 04:00:00["knk", "nnn", "nnn", "kkk", "sss", "qpq", "ppp", "qqq", "bbb", "bbc", "cbd", "ddd", "fff", "ffh", "fgh", "iii"]
+Statistics:
+{"wspdm": {"std": 4.716219595473399, "max": 24.1, "min": 11.1, "mean": 14.654545454545454}, "tempm": {"std": 0.46709936649691375, "max": 19.0, "min": 18.0, "mean": 18.727272727272727}}
+{"avgSpeed": {"std": 10.460754373067653, "max": 62, "min": 23, "mean": 32.91489361702128}, "vehicleCount": {"std": 1.0919773033732576, "max": 4, "min": 0, "mean": 0.6382978723404256}}
+Period: 2014-08-11 04:00:00 to 2014-08-11 08:00:00["lll", "lll", "lll", "nnn", "sqs", "pqp", "sqs", "qsq", "dca", "dac", "dca", "bdb", "hif", "iii", "hgg", "hgh"]
+Statistics:
+{"wspdm": {"std": 1.4935619413761425, "max": 13.0, "min": 7.4, "mean": 9.954545454545455}, "tempm": {"std": 0.40451991747794525, "max": 18.0, "min": 17.0, "mean": 17.181818181818183}}
+{"avgSpeed": {"std": 4.478337209591548, "max": 40, "min": 21, "mean": 31.659574468085108}, "vehicleCount": {"std": 3.79492820893997, "max": 16, "min": 0, "mean": 6.1063829787234045}}
+Period: 2014-08-11 08:00:00 to 2014-08-11 12:00:00["nnn", "nnn", "nkn", "knk", "ppp", "qqq", "psp", "sss", "bda", "cac", "cbd", "ddd", "hhg", "hgg", "gii", "iig"]
+Statistics:
+{"wspdm": {"std": 3.119294792096444, "max": 25.9, "min": 14.8, "mean": 19.699999999999996}, "tempm": {"std": 0.5393598899705937, "max": 20.0, "min": 18.0, "mean": 18.90909090909091}}
+{"avgSpeed": {"std": 5.541159936447922, "max": 47, "min": 23, "mean": 33.92307692307692}, "vehicleCount": {"std": 2.386138558418813, "max": 12, "min": 0, "mean": 3.871794871794872}}
+Period: 2014-08-11 12:00:00 to 2014-08-11 16:00:00["mmm", "mmm", "knk", "nmn", "sqs", "prp", "psp", "rrr", "cdd", "dab", "dcc", "caa", "igh", "iii", "hhh", "fgf"]
+Statistics:
+{"wspdm": {"std": 2.216959424732237, "max": 22.2, "min": 16.7, "mean": 19.709090909090907}, "tempm": {"std": 0.6030226891555273, "max": 21.0, "min": 19.0, "mean": 20.181818181818183}}
+{"avgSpeed": {"std": 7.749668012345599, "max": 53, "min": 19, "mean": 36.829787234042556}, "vehicleCount": {"std": 1.9858425838438416, "max": 10, "min": 0, "mean": 2.723404255319149}}
+Period: 2014-08-11 16:00:00 to 2014-08-11 20:00:00["nnn", "nnn", "nln", "kkk", "sss", "srs", "qqq", "ppp", "abc", "bca", "ddd", "dcb", "iig", "iii", "ggf", "fgg"]
+Statistics:
+{"wspdm": {"std": 4.342872949390237, "max": 24.1, "min": 11.1, "mean": 18.363636363636363}, "tempm": {"std": 0.8201995322647243, "max": 20.0, "min": 18.0, "mean": 19.454545454545453}}
+{"avgSpeed": {"std": 13.512145391820681, "max": 66, "min": 19, "mean": 49.604651162790695}, "vehicleCount": {"std": 0.7343796019624426, "max": 2, "min": 0, "mean": 0.7209302325581395}}
+Period: 2014-08-11 20:00:00 to 2014-08-12 00:00:00["nnn", "nnn", "kkk", "kkk", "qpq", "sss", "sss", "qsq", "aaa", "ddd", "ddd", "ddd", "hig", "ggg", "ggg", "ggg"]
+Statistics:
+{"wspdm": {"std": 2.2154416756443434, "max": 13.0, "min": 7.4, "mean": 10.627272727272727}, "tempm": {"std": 0.5222329678670934, "max": 17.0, "min": 16.0, "mean": 16.454545454545453}}
+{"avgSpeed": {"std": 20.223623550070098, "max": 69, "min": 4, "mean": 60.22222222222222}, "vehicleCount": {"std": 3.725153376274285, "max": 25, "min": 0, "mean": 0.6222222222222222}}
+Period: 2014-08-12 00:00:00 to 2014-08-12 04:00:00["nnn", "nkn", "kkk", "kkk", "sss", "qpq", "qqq", "sqs", "ddd", "cbc", "ccb", "daa", "fff", "fgf", "ffh", "hii"]
+Statistics:
+{"wspdm": {"std": 2.9279530547652386, "max": 13.0, "min": 5.6, "mean": 9.10909090909091}, "tempm": {"std": 0.6875516509523287, "max": 16.0, "min": 14.0, "mean": 14.454545454545455}}
+{"avgSpeed": {"std": 11.106123353726813, "max": 69, "min": 29, "mean": 51.04255319148936}, "vehicleCount": {"std": 1.7442916016220915, "max": 8, "min": 0, "mean": 0.851063829787234}}
+Period: 2014-08-12 04:00:00 to 2014-08-12 08:00:00["lll", "lll", "lll", "nnn", "prp", "psp", "srs", "rsr", "cdb", "dcc", "cbb", "bca", "iih", "ihi", "hff", "ggh"]
+Statistics:
+{"wspdm": {"std": 2.310568603769919, "max": 14.8, "min": 7.4, "mean": 11.454545454545453}, "tempm": {"std": 0.40451991747794525, "max": 15.0, "min": 14.0, "mean": 14.181818181818182}}
+{"avgSpeed": {"std": 6.055097011195291, "max": 50, "min": 26, "mean": 35.659574468085104}, "vehicleCount": {"std": 2.9461714129441936, "max": 12, "min": 0, "mean": 5.191489361702128}}
+Period: 2014-08-12 08:00:00 to 2014-08-12 12:00:00["kkk", "lll", "nnn", "nnn", "ppp", "rrr", "srs", "srs", "bcc", "bcd", "ccd", "dcc", "ggf", "ggh", "ihi", "iih"]
+Statistics:
+{"wspdm": {"std": 1.6660241185638225, "max": 20.4, "min": 14.8, "mean": 16.681818181818183}, "tempm": {"std": 1.2933395813657265, "max": 19.0, "min": 16.0, "mean": 17.545454545454547}}
+{"avgSpeed": {"std": 4.228444274266074, "max": 46, "min": 26, "mean": 31.893617021276597}, "vehicleCount": {"std": 2.2294388934961837, "max": 9, "min": 1, "mean": 5.170212765957447}}
+Period: 2014-08-12 12:00:00 to 2014-08-12 16:00:00["knk", "lnl", "nnn", "nnn", "sss", "qsq", "ppp", "qsq", "ccd", "cdb", "abd", "cdb", "iii", "iih", "ggf", "ggf"]
+Statistics:
+{"wspdm": {"std": 2.2290642145813724, "max": 22.2, "min": 14.8, "mean": 17.845454545454547}, "tempm": {"std": 0.6741998624632419, "max": 20.0, "min": 18.0, "mean": 19.636363636363637}}
+{"avgSpeed": {"std": 6.153432724871291, "max": 54, "min": 19, "mean": 30.956521739130434}, "vehicleCount": {"std": 2.435645119831387, "max": 12, "min": 0, "mean": 4.391304347826087}}
+Period: 2014-08-12 16:00:00 to 2014-08-12 20:00:00["nnn", "kkk", "mkm", "mkm", "sss", "ppp", "qpq", "rpr", "bdb", "ddb", "aad", "ddc", "iih", "gfi", "ihg", "gfg"]
+Statistics:
+{"wspdm": {"std": 5.994561026861091, "max": 20.4, "min": 5.6, "mean": 12.714285714285712}, "tempm": {"std": 1.2535663410560174, "max": 19.0, "min": 16.0, "mean": 17.714285714285715}}
+{"avgSpeed": {"std": 12.075627227885928, "max": 73, "min": 29, "mean": 45.15217391304348}, "vehicleCount": {"std": 0.8215103328949309, "max": 3, "min": 0, "mean": 0.7608695652173914}}
+Period: 2014-08-12 20:00:00 to 2014-08-13 00:00:00["nnn", "mmm", "mkm", "kmk", "sss", "qsq", "sqs", "pqp", "add", "ddd", "ddd", "ddd", "igg", "ggg", "ggg", "ggg"]
+Statistics:
+{"wspdm": {"std": 1.9890152885741772, "max": 11.1, "min": 5.6, "mean": 8.927272727272728}, "tempm": {"std": 0.7745966692414834, "max": 16.0, "min": 14.0, "mean": 15.0}}
+{"avgSpeed": {"std": 1.8083888603589289, "max": 56, "min": 45, "mean": 55.7027027027027}, "vehicleCount": {"std": 0.1643989873053572, "max": 1, "min": 0, "mean": 0.02702702702702703}}
+Period: 2014-08-13 00:00:00 to 2014-08-13 04:00:00["mnm", "mmm", "mmm", "mkm", "rrr", "sss", "rpr", "ppp", "ddd", "ddd", "aaa", "dad", "ggg", "ggg", "ggg", "gig"]
+Statistics:
+{"wspdm": {"std": 1.5401298646542763, "max": 11.1, "min": 7.4, "mean": 9.100000000000001}, "tempm": {"std": 0.5393598899705937, "max": 16.0, "min": 14.0, "mean": 15.090909090909092}}
+{"avgSpeed": {"std": 5.5, "max": 56, "min": 34, "mean": 54.625}, "vehicleCount": {"std": 0.75, "max": 3, "min": 0, "mean": 0.1875}}
+Period: 2014-08-13 04:00:00 to 2014-08-13 08:00:00["knk", "kkk", "nnn", "nnn", "rsr", "qqq", "psp", "sss", "aaa", "bab", "bcd", "bbb", "fff", "ifi", "hhf", "fif"]
+Statistics:
+{"wspdm": {"std": 3.9833288956486, "max": 14.8, "min": 3.7, "mean": 8.60909090909091}, "tempm": {"std": 0.7862453931068966, "max": 16.0, "min": 14.0, "mean": 14.727272727272727}}
+{"avgSpeed": {"std": 8.312640976248161, "max": 52, "min": 30, "mean": 35.5}, "vehicleCount": {"std": 2.943920288775949, "max": 8, "min": 1, "mean": 4.666666666666667}}
+Period: 2014-08-13 08:00:00 to 2014-08-13 12:00:00["kkk", "kkk", "nnn", "nnn", "ppp", "ppp", "sss", "sss", "aaa", "aca", "bbc", "dbd", "fff", "iii", "gii", "hgh"]
+Statistics:
+{"wspdm": {"std": 1.6765223746575153, "max": 14.8, "min": 11.1, "mean": 12.454545454545455}, "tempm": {"std": 0.5222329678670935, "max": 17.0, "min": 16.0, "mean": 16.454545454545453}}
+{"avgSpeed": {"std": 3.760523695117272, "max": 42, "min": 24, "mean": 33.30769230769231}, "vehicleCount": {"std": 2.627663483898839, "max": 12, "min": 1, "mean": 5.230769230769231}}
+Period: 2014-08-13 12:00:00 to 2014-08-13 16:00:00["mkm", "nnn", "nmn", "kkk", "qpq", "sss", "sqs", "rpr", "ccd", "ddd", "cac", "aca", "iii", "gih", "ggg", "fgf"]
+Statistics:
+{"wspdm": {"std": 3.6749754345361874, "max": 20.4, "min": 9.3, "mean": 15.210000000000003}, "tempm": {"std": 1.0327955589886444, "max": 19.0, "min": 16.0, "mean": 18.2}}
+{"avgSpeed": {"std": 5.93247541670783, "max": 49, "min": 23, "mean": 35.744680851063826}, "vehicleCount": {"std": 2.1459252956832158, "max": 9, "min": 0, "mean": 3.297872340425532}}
+Period: 2014-08-13 16:00:00 to 2014-08-13 20:00:00["nln", "lll", "lnl", "nnn", "sss", "sps", "ppp", "rrr", "aaa", "add", "ddd", "ccc", "fif", "hff", "gff", "ifh"]
+Statistics:
+{"wspdm": {"std": 1.9839354828219593, "max": 11.1, "min": 5.6, "mean": 7.1000000000000005}, "tempm": {"std": 0.9341987329938278, "max": 17.0, "min": 14.0, "mean": 14.545454545454545}}
+{"avgSpeed": {"std": 11.755881083759915, "max": 58, "min": 26, "mean": 43.12765957446808}, "vehicleCount": {"std": 0.996756998640379, "max": 4, "min": 0, "mean": 0.5319148936170213}}
+Period: 2014-08-13 20:00:00 to 2014-08-14 00:00:00["lll", "lll", "lll", "nln", "sqs", "qqq", "qqq", "qqq", "dba", "aaa", "aaa", "add", "iif", "fff", "fff", "fif"]
+Statistics:
+{"wspdm": {"std": 0.7281358514603018, "max": 7.4, "min": 5.6, "mean": 5.927272727272728}, "tempm": {"std": 0.30151134457776363, "max": 15.0, "min": 14.0, "mean": 14.090909090909092}}
+{"avgSpeed": {"std": 8.643806141705436, "max": 54, "min": 31, "mean": 35.95}, "vehicleCount": {"std": 0.3349320635285418, "max": 1, "min": 0, "mean": 0.125}}
+Period: 2014-08-14 00:00:00 to 2014-08-14 04:00:00["nnn", "nnn", "nnn", "nkn", "sss", "sss", "sss", "sss", "ddd", "ddd", "dcc", "aaa", "fff", "fff", "fgf", "hii"]
+Statistics:
+{"wspdm": {"std": 1.0048066299723364, "max": 7.4, "min": 3.7, "mean": 5.418181818181819}, "tempm": {"std": 0.30151134457776363, "max": 14.0, "min": 13.0, "mean": 13.909090909090908}}
+{"avgSpeed": {"std": 8.941749160470813, "max": 62, "min": 29, "mean": 49.46341463414634}, "vehicleCount": {"std": 1.2445000955423338, "max": 5, "min": 0, "mean": 0.5853658536585366}}
+Period: 2014-08-14 04:00:00 to 2014-08-14 08:00:00["kkk", "klk", "nnn", "nnn", "qpq", "pqp", "rrr", "sss", "dcd", "cdb", "dda", "bab", "gii", "ihg", "hfh", "hgg"]
+Statistics:
+{"wspdm": {"std": 2.774106462749162, "max": 13.0, "min": 3.7, "mean": 6.87}, "tempm": {"std": 1.2692955176439846, "max": 16.0, "min": 13.0, "mean": 14.5}}
+{"avgSpeed": {"std": 7.0795155363827735, "max": 59, "min": 29, "mean": 37.53333333333333}, "vehicleCount": {"std": 3.689687399150268, "max": 20, "min": 0, "mean": 5.8}}
+Period: 2014-08-14 08:00:00 to 2014-08-14 12:00:00["kkk", "nnn", "nnn", "knk", "qsq", "rrr", "psp", "ppp", "daa", "aba", "abc", "ddc", "iii", "fif", "gih", "gfg"]
+Statistics:
+{"wspdm": {"std": 2.636595601080371, "max": 18.5, "min": 11.1, "mean": 14.318181818181818}, "tempm": {"std": 0.7507571935295484, "max": 19.0, "min": 17.0, "mean": 17.818181818181817}}
+{"avgSpeed": {"std": 8.793937305515279, "max": 59, "min": 26, "mean": 35.0}, "vehicleCount": {"std": 2.6502470684465482, "max": 11, "min": 1, "mean": 4.5}}
+Period: 2014-08-14 12:00:00 to 2014-08-14 16:00:00["kkk", "mnm", "nnn", "mmm", "pqp", "pqp", "sss", "sss", "ccc", "dcc", "cac", "adc", "hhi", "iig", "ggg", "gff"]
+Statistics:
+{"wspdm": {"std": 4.100842485503325, "max": 22.2, "min": 11.1, "mean": 16.490909090909092}, "tempm": {"std": 0.873862897505303, "max": 21.0, "min": 19.0, "mean": 20.181818181818183}}
+{"avgSpeed": {"std": 8.78285042218422, "max": 60, "min": 19, "mean": 36.53846153846154}, "vehicleCount": {"std": 2.1529943370535403, "max": 9, "min": 0, "mean": 3.3461538461538463}}
+Period: 2014-08-14 16:00:00 to 2014-08-14 20:00:00["nnn", "nmn", "mmm", "lkl", "sss", "rpr", "rrr", "ppp", "aaa", "ddd", "bcb", "dac", "gff", "ffi", "iif", "hhf"]
+Statistics:
+{"wspdm": {"std": 3.1426393076810166, "max": 24.1, "min": 14.8, "mean": 17.672727272727276}, "tempm": {"std": 1.0, "max": 20.0, "min": 17.0, "mean": 19.0}}
+{"avgSpeed": {"std": 14.883468918865104, "max": 69, "min": 24, "mean": 45.2}, "vehicleCount": {"std": 0.6572159257878981, "max": 2, "min": 0, "mean": 0.45714285714285713}}
+Period: 2014-08-14 20:00:00 to 2014-08-15 00:00:00["nnn", "nnn", "kkk", "kkk", "prp", "srs", "qrq", "rrr", "caa", "aaa", "ddd", "ddd", "iif", "fff", "fff", "fff"]
+Statistics:
+{"wspdm": {"std": 1.6715806346634368, "max": 14.8, "min": 9.3, "mean": 12.47272727272727}, "tempm": {"std": 0.7862453931068966, "max": 17.0, "min": 15.0, "mean": 15.727272727272727}}
+{"avgSpeed": {"std": 6.406246951218786, "max": 52, "min": 35, "mean": 44.96}, "vehicleCount": {"std": 0.37416573867739394, "max": 1, "min": 0, "mean": 0.16}}
+Period: 2014-08-15 00:00:00 to 2014-08-15 04:00:00["nnn", "nmn", "mmm", "kkk", "rrr", "prp", "prp", "srs", "ddd", "ddd", "ddb", "aab", "fff", "fff", "fgh", "iii"]
+Statistics:
+{"wspdm": {"std": 0.9913260173763585, "max": 13.0, "min": 9.3, "mean": 10.945454545454544}, "tempm": {"std": 0.7006490497453708, "max": 15.0, "min": 13.0, "mean": 14.090909090909092}}
+{"avgSpeed": {"std": 7.418879833461974, "max": 50, "min": 25, "mean": 45.297872340425535}, "vehicleCount": {"std": 1.1396479323921647, "max": 5, "min": 0, "mean": 0.5106382978723404}}
+Period: 2014-08-15 04:00:00 to 2014-08-15 08:00:00["kkk", "kkk", "mnm", "nnn", "sss", "qpq", "qsq", "sss", "ddd", "dcd", "bcc", "aba", "hih", "iih", "gih", "ffi"]
+Statistics:
+{"wspdm": {"std": 2.2040046196948775, "max": 16.7, "min": 9.3, "mean": 12.48181818181818}, "tempm": {"std": 1.0787197799411874, "max": 16.0, "min": 13.0, "mean": 13.818181818181818}}
+{"avgSpeed": {"std": 5.584355303398, "max": 52, "min": 22, "mean": 37.71739130434783}, "vehicleCount": {"std": 3.161360925068621, "max": 15, "min": 1, "mean": 6.695652173913044}}
+Period: 2014-08-15 08:00:00 to 2014-08-15 12:00:00["kkk", "klk", "nnn", "nnn", "sps", "sss", "sps", "sss", "bcb", "cdb", "ddc", "dac", "hii", "iih", "fgg", "hfi"]
+Statistics:
+{"wspdm": {"std": 1.3951865303770152, "max": 18.5, "min": 14.8, "mean": 16.336363636363632}, "tempm": {"std": 1.3684762594679063, "max": 20.0, "min": 17.0, "mean": 18.454545454545453}}
+{"avgSpeed": {"std": 4.373589238632594, "max": 51, "min": 24, "mean": 32.31111111111111}, "vehicleCount": {"std": 1.959694884517496, "max": 9, "min": 0, "mean": 5.5777777777777775}}
+Period: 2014-08-15 12:00:00 to 2014-08-15 16:00:00["mkm", "nln", "mnm", "nnn", "sqs", "srs", "psp", "ppp", "bbd", "bdd", "bdd", "cbc", "iii", "iih", "hgg", "gff"]
+Statistics:
+{"wspdm": {"std": 5.618975786465794, "max": 27.8, "min": 9.3, "mean": 15.020000000000001}, "tempm": {"std": 1.1005049346146119, "max": 20.0, "min": 17.0, "mean": 19.1}}
+{"avgSpeed": {"std": 6.738679821406427, "max": 50, "min": 18, "mean": 32.361702127659576}, "vehicleCount": {"std": 2.293255203080762, "max": 9, "min": 0, "mean": 3.0425531914893615}}
+Period: 2014-08-15 16:00:00 to 2014-08-15 20:00:00["nnn", "nnn", "mmm", "kkk", "prp", "sss", "rrr", "qpq", "cdd", "ddd", "cbb", "bba", "ggf", "gif", "hif", "gfi"]
+Statistics:
+{"wspdm": {"std": 3.827223061651406, "max": 20.4, "min": 7.4, "mean": 13.818181818181818}, "tempm": {"std": 1.5015143870590966, "max": 21.0, "min": 16.0, "mean": 18.636363636363637}}
+{"avgSpeed": {"std": 11.802020868361621, "max": 67, "min": 28, "mean": 51.12765957446808}, "vehicleCount": {"std": 0.9245345354869381, "max": 4, "min": 0, "mean": 0.5957446808510638}}
+Period: 2014-08-15 20:00:00 to 2014-08-16 00:00:00["nmn", "mmm", "mlm", "lkl", "prp", "psp", "rrr", "sss", "ddc", "cda", "ccc", "ccc", "iif", "fii", "fff", "fff"]
+Statistics:
+{"wspdm": {"std": 1.7540602249430528, "max": 16.7, "min": 11.1, "mean": 14.654545454545458}, "tempm": {"std": 0.9045340337332909, "max": 16.0, "min": 13.0, "mean": 14.727272727272727}}
+{"avgSpeed": {"std": 3.236342541122347, "max": 51, "min": 36, "mean": 41.71739130434783}, "vehicleCount": {"std": 0.3832230465168328, "max": 1, "min": 0, "mean": 0.17391304347826086}}
+Period: 2014-08-16 00:00:00 to 2014-08-16 04:00:00["nnn", "nkn", "kkk", "kkk", "qsq", "sqs", "pqp", "sss", "bbc", "ddd", "ddd", "caa", "ffi", "fif", "ffi", "iii"]
+Statistics:
+{"wspdm": {"std": 2.7441176757168804, "max": 22.2, "min": 14.8, "mean": 18.527272727272727}, "tempm": {"std": 0.5045249791095129, "max": 13.0, "min": 12.0, "mean": 12.363636363636363}}
+{"avgSpeed": {"std": 5.958769841196379, "max": 52, "min": 36, "mean": 46.40425531914894}, "vehicleCount": {"std": 0.3798826441307214, "max": 1, "min": 0, "mean": 0.1702127659574468}}
+Period: 2014-08-16 04:00:00 to 2014-08-16 08:00:00["lll", "klk", "nnn", "nnn", "sss", "prp", "rrr", "rrr", "ddd", "add", "dbb", "dca", "fff", "ggh", "hii", "hhi"]
+Statistics:
+{"wspdm": {"std": 1.4535849101132996, "max": 20.4, "min": 14.8, "mean": 17.190909090909088}, "tempm": {"std": 1.213559752433836, "max": 15.0, "min": 11.0, "mean": 12.545454545454545}}
+{"avgSpeed": {"std": 8.768807562189842, "max": 56, "min": 17, "mean": 36.285714285714285}, "vehicleCount": {"std": 1.5648950865228826, "max": 7, "min": 0, "mean": 1.119047619047619}}
+Period: 2014-08-16 08:00:00 to 2014-08-16 12:00:00["kkk", "mmm", "mmm", "nnn", "prp", "sps", "rsr", "sss", "bcd", "bcb", "dbd", "bdd", "igf", "hgi", "hii", "fhf"]
+Statistics:
+{"wspdm": {"std": 3.133774952759923, "max": 27.8, "min": 18.5, "mean": 24.763636363636362}, "tempm": {"std": 0.6324555320336759, "max": 17.0, "min": 15.0, "mean": 16.0}}
+{"avgSpeed": {"std": 6.6755375762830615, "max": 47, "min": 23, "mean": 33.28260869565217}, "vehicleCount": {"std": 1.6694180188733823, "max": 7, "min": 0, "mean": 2.5434782608695654}}
+Period: 2014-08-16 12:00:00 to 2014-08-16 16:00:00["kkk", "nnn", "nnn", "kkk", "qpq", "rrr", "qsq", "rrr", "dcb", "bcd", "bbb", "ddb", "ghi", "ghh", "ghi", "ghg"]
+Statistics:
+{"wspdm": {"std": 3.3310113124449714, "max": 35.2, "min": 22.2, "mean": 29.118181818181824}, "tempm": {"std": 0.674199862463242, "max": 19.0, "min": 17.0, "mean": 17.636363636363637}}
+{"avgSpeed": {"std": 8.699846352062272, "max": 70, "min": 20, "mean": 35.5531914893617}, "vehicleCount": {"std": 1.2078221775497182, "max": 5, "min": 0, "mean": 1.3829787234042554}}
+Period: 2014-08-16 16:00:00 to 2014-08-16 20:00:00["nnn", "nnn", "nnn", "kkk", "sss", "sss", "srs", "ppp", "acd", "dcd", "cca", "dab", "fif", "fig", "gif", "ggh"]
+Statistics:
+{"wspdm": {"std": 4.824275734619277, "max": 27.8, "min": 14.8, "mean": 21.881818181818183}, "tempm": {"std": 0.6030226891555273, "max": 17.0, "min": 15.0, "mean": 15.818181818181818}}
+{"avgSpeed": {"std": 9.971374384859606, "max": 65, "min": 27, "mean": 47.53191489361702}, "vehicleCount": {"std": 0.9704229124702171, "max": 4, "min": 0, "mean": 0.5957446808510638}}
+Period: 2014-08-16 20:00:00 to 2014-08-17 00:00:00["kkk", "nnn", "nkn", "kkk", "sps", "rqr", "srs", "rrr", "dda", "aab", "bbc", "ddd", "ifi", "ffi", "fhi", "hhf"]
+Statistics:
+{"wspdm": {"std": 2.008391486647054, "max": 13.0, "min": 7.4, "mean": 10.781818181818181}, "tempm": {"std": 0.5222329678670935, "max": 15.0, "min": 14.0, "mean": 14.454545454545455}}
+{"avgSpeed": {"std": 5.439389351916183, "max": 54, "min": 38, "mean": 47.45652173913044}, "vehicleCount": {"std": 0.5016879720065436, "max": 2, "min": 0, "mean": 0.2826086956521739}}
+Period: 2014-08-17 00:00:00 to 2014-08-17 04:00:00["a", "a", "a", "a", "sss", "sss", "sps", "psp", "daa", "aaa", "aaa", "aaa", "igg", "ggg", "ggg", "ggg"]
+Statistics:
+{"wspdm": {"std": 0.8407788596944443, "max": 11.1, "min": 9.3, "mean": 10.609090909090908}, "tempm": {"std": 0.0, "max": 14.0, "min": 14.0, "mean": 14.0}}
+{"avgSpeed": {"std": 2.4483565066629462, "max": 54, "min": 42, "mean": 42.51063829787234}, "vehicleCount": {"std": 0.14586499149789459, "max": 1, "min": 0, "mean": 0.02127659574468085}}
+Period: 2014-08-17 04:00:00 to 2014-08-17 08:00:00["kkk", "kkk", "nkn", "nnn", "psp", "ppp", "sss", "psp", "ccc", "ccb", "bdd", "dcd", "fff", "hhi", "hif", "iii"]
+Statistics:
+{"wspdm": {"std": 0.9922426389474778, "max": 13.0, "min": 11.1, "mean": 12.136363636363637}, "tempm": {"std": 0.4670993664969138, "max": 15.0, "min": 14.0, "mean": 14.272727272727273}}
+{"avgSpeed": {"std": 11.757769490245755, "max": 72, "min": 24, "mean": 45.191489361702125}, "vehicleCount": {"std": 0.8762463041684783, "max": 3, "min": 0, "mean": 0.5957446808510638}}
+Period: 2014-08-17 08:00:00 to 2014-08-17 12:00:00["kkk", "knk", "nnn", "nnn", "ppp", "prp", "srs", "rsr", "cba", "ddb", "bcd", "bcc", "hgg", "hfi", "fii", "ihh"]
+Statistics:
+{"wspdm": {"std": 1.5357556623843045, "max": 16.7, "min": 13.0, "mean": 14.663636363636364}, "tempm": {"std": 0.5045249791095129, "max": 16.0, "min": 15.0, "mean": 15.636363636363637}}
+{"avgSpeed": {"std": 10.84044573090855, "max": 59, "min": 23, "mean": 35.46808510638298}, "vehicleCount": {"std": 1.7440264109551666, "max": 6, "min": 0, "mean": 1.9574468085106382}}
+Period: 2014-08-17 12:00:00 to 2014-08-17 16:00:00["nln", "lll", "lll", "lll", "sss", "ppp", "sqs", "qsq", "cdb", "bdb", "adc", "bdd", "ifh", "igi", "ggg", "ghi"]
+Statistics:
+{"wspdm": {"std": 2.415555648481129, "max": 14.8, "min": 7.4, "mean": 11.29090909090909}, "tempm": {"std": 0.30151134457776374, "max": 16.0, "min": 15.0, "mean": 15.090909090909092}}
+{"avgSpeed": {"std": 9.925625363316607, "max": 57, "min": 24, "mean": 36.297872340425535}, "vehicleCount": {"std": 1.2832082826892357, "max": 5, "min": 0, "mean": 1.5106382978723405}}
+Period: 2014-08-17 16:00:00 to 2014-08-17 20:00:00["nnn", "nnn", "kkk", "kkk", "qsq", "sss", "qsq", "pqp", "ddd", "dda", "bac", "cbc", "ghg", "fgi", "hfi", "fhg"]
+Statistics:
+{"wspdm": {"std": 2.2358240295043554, "max": 14.8, "min": 7.4, "mean": 12.29090909090909}, "tempm": {"std": 0.5222329678670935, "max": 15.0, "min": 14.0, "mean": 14.454545454545455}}
+{"avgSpeed": {"std": 9.680559306782689, "max": 58, "min": 24, "mean": 43.06382978723404}, "vehicleCount": {"std": 0.580280323976334, "max": 2, "min": 0, "mean": 0.425531914893617}}
+Period: 2014-08-17 20:00:00 to 2014-08-18 00:00:00["nnn", "mmm", "mmm", "kkk", "sss", "qsq", "pqp", "qqq", "dca", "aaa", "acc", "ccc", "iif", "fff", "fif", "fff"]
+Statistics:
+{"wspdm": {"std": 1.500302999700091, "max": 11.1, "min": 5.6, "mean": 8.090909090909092}, "tempm": {"std": 0.7006490497453705, "max": 14.0, "min": 12.0, "mean": 12.909090909090908}}
+{"avgSpeed": {"std": 7.700811495376734, "max": 59, "min": 28, "mean": 33.04255319148936}, "vehicleCount": {"std": 0.5975590186404663, "max": 2, "min": 0, "mean": 0.23404255319148937}}
+Period: 2014-08-18 00:00:00 to 2014-08-18 04:00:00["knk", "knk", "nnn", "nnn", "psp", "ppp", "ppp", "sss", "acb", "cdd", "ddc", "abb", "fgf", "ffg", "fgh", "hii"]
+Statistics:
+{"wspdm": {"std": 1.490149473893627, "max": 13.0, "min": 9.3, "mean": 10.463636363636361}, "tempm": {"std": 0.4670993664969138, "max": 13.0, "min": 12.0, "mean": 12.727272727272727}}
+{"avgSpeed": {"std": 10.817144366462804, "max": 75, "min": 28, "mean": 44.64}, "vehicleCount": {"std": 1.6762445878711574, "max": 7, "min": 0, "mean": 0.92}}
+Period: 2014-08-18 04:00:00 to 2014-08-18 08:00:00["mmm", "kmk", "mmm", "nnn", "qqq", "ppp", "sss", "sss", "dbc", "aad", "ddc", "ccc", "iii", "iii", "fgf", "ggf"]
+Statistics:
+{"wspdm": {"std": 2.248231628312673, "max": 16.7, "min": 9.3, "mean": 12.136363636363637}, "tempm": {"std": 0.8738628975053029, "max": 15.0, "min": 12.0, "mean": 13.181818181818182}}
+{"avgSpeed": {"std": 6.114842953651883, "max": 48, "min": 22, "mean": 31.0}, "vehicleCount": {"std": 3.956867354352998, "max": 15, "min": 1, "mean": 6.680851063829787}}
+Period: 2014-08-18 08:00:00 to 2014-08-18 12:00:00["knk", "knk", "kkk", "nnn", "psp", "qpq", "rqr", "rrr", "bbc", "dbd", "cbd", "dcd", "hhg", "fhf", "gii", "hii"]
+Statistics:
+{"wspdm": {"std": 2.3105686037699185, "max": 20.4, "min": 13.0, "mean": 16.345454545454544}, "tempm": {"std": 0.674199862463242, "max": 16.0, "min": 14.0, "mean": 14.636363636363637}}
+{"avgSpeed": {"std": 8.11674757026076, "max": 59, "min": 28, "mean": 38.340425531914896}, "vehicleCount": {"std": 2.3848116381574482, "max": 10, "min": 0, "mean": 3.4468085106382977}}
+Period: 2014-08-18 12:00:00 to 2014-08-18 16:00:00["nnn", "mnm", "kkk", "lnl", "rsr", "qsq", "rpr", "rqr", "ccc", "bcc", "ddb", "cad", "iih", "ihh", "ggh", "gfg"]
+Statistics:
+{"wspdm": {"std": 4.041804277569835, "max": 22.2, "min": 9.3, "mean": 15.32727272727273}, "tempm": {"std": 1.3416407864998738, "max": 17.0, "min": 13.0, "mean": 15.0}}
+{"avgSpeed": {"std": 9.55603863513199, "max": 63, "min": 26, "mean": 39.56521739130435}, "vehicleCount": {"std": 2.2359599522828133, "max": 8, "min": 0, "mean": 2.9782608695652173}}
+Period: 2014-08-18 16:00:00 to 2014-08-18 20:00:00["nmn", "nnn", "mmm", "lkl", "psp", "rpr", "ppp", "rpr", "aaa", "dda", "add", "ccd", "gfh", "gfh", "hif", "hgi"]
+Statistics:
+{"wspdm": {"std": 1.8309957549228384, "max": 24.1, "min": 18.5, "mean": 20.03636363636364}, "tempm": {"std": 1.0, "max": 17.0, "min": 14.0, "mean": 16.0}}
+{"avgSpeed": {"std": 14.720994466266728, "max": 66, "min": 24, "mean": 42.659574468085104}, "vehicleCount": {"std": 0.6834910657812397, "max": 3, "min": 0, "mean": 0.425531914893617}}
+Period: 2014-08-18 20:00:00 to 2014-08-19 00:00:00["nln", "lll", "lll", "lll", "ppp", "sqs", "rsr", "srs", "cdd", "ddd", "aaa", "aaa", "fif", "ffi", "fff", "fff"]
+Statistics:
+{"wspdm": {"std": 2.6164167029806937, "max": 25.9, "min": 18.5, "mean": 22.218181818181815}, "tempm": {"std": 0.30151134457776374, "max": 14.0, "min": 13.0, "mean": 13.090909090909092}}
+{"avgSpeed": {"std": 13.766391196317512, "max": 63, "min": 34, "mean": 46.67391304347826}, "vehicleCount": {"std": 0.20618457094236223, "max": 1, "min": 0, "mean": 0.043478260869565216}}
+Period: 2014-08-19 00:00:00 to 2014-08-19 04:00:00["a", "a", "a", "a", "sss", "qsq", "qsq", "qpq", "aaa", "ddd", "ddc", "ccb", "fff", "gff", "ffh", "fii"]
+Statistics:
+{"wspdm": {"std": 1.513154441435627, "max": 24.1, "min": 18.5, "mean": 21.38181818181818}, "tempm": {"std": 0.0, "max": 12.0, "min": 12.0, "mean": 12.0}}
+{"avgSpeed": {"std": 6.654917182453439, "max": 57, "min": 32, "mean": 41.608695652173914}, "vehicleCount": {"std": 1.4217088445414354, "max": 6, "min": 0, "mean": 0.6086956521739131}}
+Period: 2014-08-19 04:00:00 to 2014-08-19 08:00:00["kkk", "kkk", "nnn", "nnn", "sss", "qqq", "qpq", "sqs", "cdc", "ddc", "dca", "bab", "gii", "iig", "fgh", "hgg"]
+Statistics:
+{"wspdm": {"std": 1.5003029997000905, "max": 22.2, "min": 16.7, "mean": 19.19090909090909}, "tempm": {"std": 0.6875516509523286, "max": 14.0, "min": 12.0, "mean": 12.545454545454545}}
+{"avgSpeed": {"std": 4.010508859683334, "max": 42, "min": 27, "mean": 34.787234042553195}, "vehicleCount": {"std": 3.3938236331480116, "max": 14, "min": 1, "mean": 5.702127659574468}}
+Period: 2014-08-19 08:00:00 to 2014-08-19 12:00:00["klk", "lml", "mnm", "mmm", "psp", "sss", "sps", "psp", "acb", "acb", "add", "ddd", "hgi", "gih", "igi", "hfg"]
+Statistics:
+{"wspdm": {"std": 3.4009624306283444, "max": 31.5, "min": 22.2, "mean": 26.263636363636362}, "tempm": {"std": 0.9045340337332908, "max": 17.0, "min": 14.0, "mean": 15.727272727272727}}
+{"avgSpeed": {"std": 4.513479542940353, "max": 47, "min": 27, "mean": 33.369565217391305}, "vehicleCount": {"std": 2.4765567494675613, "max": 13, "min": 1, "mean": 5.0}}
+Period: 2014-08-19 12:00:00 to 2014-08-19 16:00:00["nnn", "nnn", "mkm", "kmk", "rsr", "sqs", "qqq", "prp", "ccd", "dcc", "dbd", "add", "iih", "iig", "hig", "ffg"]
+Statistics:
+{"wspdm": {"std": 4.245553824029001, "max": 35.2, "min": 22.2, "mean": 28.44545454545454}, "tempm": {"std": 1.2862913567871994, "max": 17.0, "min": 13.0, "mean": 15.363636363636363}}
+{"avgSpeed": {"std": 7.896708292075804, "max": 62, "min": 26, "mean": 39.8936170212766}, "vehicleCount": {"std": 2.253787027803981, "max": 8, "min": 0, "mean": 3.0851063829787235}}
+Period: 2014-08-19 16:00:00 to 2014-08-19 20:00:00["nnn", "nkn", "kkk", "kkk", "sss", "srs", "pqp", "ppp", "abd", "bdd", "dab", "ddb", "hig", "ggg", "fhh", "fhi"]
+Statistics:
+{"wspdm": {"std": 4.781897683404097, "max": 27.8, "min": 14.8, "mean": 21.036363636363635}, "tempm": {"std": 0.5045249791095129, "max": 15.0, "min": 14.0, "mean": 14.363636363636363}}
+{"avgSpeed": {"std": 12.203864964592386, "max": 62, "min": 25, "mean": 43.02127659574468}, "vehicleCount": {"std": 0.8624127675792062, "max": 3, "min": 0, "mean": 0.6808510638297872}}
+Period: 2014-08-19 20:00:00 to 2014-08-20 00:00:00["nnn", "kkk", "kkk", "kkk", "sqs", "qsq", "qqq", "psp", "aaa", "bdd", "ccc", "ccc", "iff", "iff", "iff", "fff"]
+Statistics:
+{"wspdm": {"std": 1.7264782862020804, "max": 18.5, "min": 13.0, "mean": 15.654545454545456}, "tempm": {"std": 0.4670993664969138, "max": 14.0, "min": 13.0, "mean": 13.272727272727273}}
+{"avgSpeed": {"std": 12.955127851562239, "max": 70, "min": 35, "mean": 55.234042553191486}, "vehicleCount": {"std": 0.3116605283339056, "max": 1, "min": 0, "mean": 0.10638297872340426}}
+Period: 2014-08-20 00:00:00 to 2014-08-20 04:00:00["a", "a", "a", "a", "rpr", "sss", "rrr", "rrr", "ddd", "ccc", "cca", "cab", "ffg", "fff", "ffi", "igi"]
+Statistics:
+{"wspdm": {"std": 1.8281635096954032, "max": 20.4, "min": 14.8, "mean": 18.172727272727272}, "tempm": {"std": 0.0, "max": 13.0, "min": 13.0, "mean": 13.0}}
+{"avgSpeed": {"std": 9.172214002803717, "max": 60, "min": 31, "mean": 44.148936170212764}, "vehicleCount": {"std": 1.4378908389564407, "max": 7, "min": 0, "mean": 0.6170212765957447}}
+Period: 2014-08-20 04:00:00 to 2014-08-20 08:00:00["kkk", "kkk", "nnn", "nnn", "qpq", "qsq", "sss", "sss", "dba", "acb", "dcd", "cbd", "hii", "ihg", "fgg", "gfi"]
+Statistics:
+{"wspdm": {"std": 2.202477943342246, "max": 25.9, "min": 18.5, "mean": 21.709090909090907}, "tempm": {"std": 0.5222329678670935, "max": 13.0, "min": 12.0, "mean": 12.454545454545455}}
+{"avgSpeed": {"std": 7.61218896944683, "max": 54, "min": 20, "mean": 33.42553191489362}, "vehicleCount": {"std": 4.425349565730195, "max": 20, "min": 1, "mean": 6.638297872340425}}
+Period: 2014-08-20 08:00:00 to 2014-08-20 12:00:00["klk", "nnn", "nnn", "nln", "ppp", "rrr", "srs", "sss", "cad", "ccb", "bbd", "dcd", "hgg", "gii", "gii", "igi"]
+Statistics:
+{"wspdm": {"std": 3.032610636518851, "max": 33.3, "min": 22.2, "mean": 27.95454545454546}, "tempm": {"std": 1.1361818036340356, "max": 18.0, "min": 14.0, "mean": 15.909090909090908}}
+{"avgSpeed": {"std": 5.887376756586567, "max": 47, "min": 22, "mean": 33.38636363636363}, "vehicleCount": {"std": 2.3058891421162007, "max": 9, "min": 1, "mean": 4.590909090909091}}
+Period: 2014-08-20 12:00:00 to 2014-08-20 16:00:00["mmm", "nmn", "kmk", "nmn", "prp", "rqr", "sps", "sps", "dcc", "ccb", "bbb", "cdd", "iih", "iii", "gig", "fgf"]
+Statistics:
+{"wspdm": {"std": 3.240931403722758, "max": 35.2, "min": 24.1, "mean": 28.618181818181824}, "tempm": {"std": 0.6030226891555273, "max": 18.0, "min": 16.0, "mean": 17.181818181818183}}
+{"avgSpeed": {"std": 6.913165656155956, "max": 56, "min": 26, "mean": 37.765957446808514}, "vehicleCount": {"std": 2.08248055318509, "max": 9, "min": 0, "mean": 3.574468085106383}}
+Period: 2014-08-20 16:00:00 to 2014-08-20 20:00:00["nnn", "mmm", "mlm", "kkk", "sss", "sqs", "qqq", "ppp", "cab", "cba", "dbc", "ddd", "igg", "hfg", "ihf", "hff"]
+Statistics:
+{"wspdm": {"std": 4.4354153233839435, "max": 33.3, "min": 20.4, "mean": 25.590909090909086}, "tempm": {"std": 1.1037127426019047, "max": 17.0, "min": 14.0, "mean": 15.727272727272727}}
+{"avgSpeed": {"std": 10.334462254188953, "max": 61, "min": 28, "mean": 42.361702127659576}, "vehicleCount": {"std": 0.6875394194400758, "max": 2, "min": 0, "mean": 0.5106382978723404}}
+Period: 2014-08-20 20:00:00 to 2014-08-21 00:00:00["nnn", "nnn", "nkn", "kkk", "rrr", "rsr", "rrr", "ppp", "ddd", "ddb", "cba", "aaa", "iff", "ffi", "iif", "fff"]
+Statistics:
+{"wspdm": {"std": 1.3830795678156378, "max": 20.4, "min": 16.7, "mean": 18.19090909090909}, "tempm": {"std": 0.504524979109513, "max": 13.0, "min": 12.0, "mean": 12.636363636363637}}
+{"avgSpeed": {"std": 8.001792121192999, "max": 48, "min": 31, "mean": 39.59574468085106}, "vehicleCount": {"std": 0.33731814917823827, "max": 1, "min": 0, "mean": 0.1276595744680851}}
+Period: 2014-08-21 00:00:00 to 2014-08-21 04:00:00["nnn", "kkk", "kkk", "kkk", "sss", "sqs", "qpq", "ppp", "aac", "ddd", "ccb", "dbb", "ffg", "fff", "ffh", "iii"]
+Statistics:
+{"wspdm": {"std": 2.2586802260692775, "max": 16.7, "min": 11.1, "mean": 13.818181818181818}, "tempm": {"std": 0.4670993664969138, "max": 12.0, "min": 11.0, "mean": 11.272727272727273}}
+{"avgSpeed": {"std": 8.746401400879671, "max": 61, "min": 30, "mean": 45.02127659574468}, "vehicleCount": {"std": 1.9332046699773415, "max": 9, "min": 0, "mean": 0.9574468085106383}}
+Period: 2014-08-21 04:00:00 to 2014-08-21 08:00:00["kkk", "kkk", "knk", "nnn", "ppp", "ppp", "prp", "sss", "cdc", "dbc", "dda", "bba", "iii", "iig", "fgg", "fgh"]
+Statistics:
+{"wspdm": {"std": 2.0304052439218765, "max": 18.5, "min": 13.0, "mean": 14.336363636363636}, "tempm": {"std": 0.6875516509523286, "max": 13.0, "min": 11.0, "mean": 11.454545454545455}}
+{"avgSpeed": {"std": 7.21052524963183, "max": 50, "min": 26, "mean": 38.4468085106383}, "vehicleCount": {"std": 3.450723556296512, "max": 14, "min": 1, "mean": 5.51063829787234}}
+Period: 2014-08-21 08:00:00 to 2014-08-21 12:00:00["kkk", "lnl", "nnn", "nnn", "rpr", "srs", "srs", "psp", "cbd", "bbb", "cad", "ddd", "igg", "gig", "hfi", "igi"]
+Statistics:
+{"wspdm": {"std": 2.3163843298633253, "max": 24.1, "min": 16.7, "mean": 20.718181818181815}, "tempm": {"std": 0.9244162777371754, "max": 16.0, "min": 14.0, "mean": 15.363636363636363}}
+{"avgSpeed": {"std": 6.507966133010051, "max": 51, "min": 16, "mean": 31.956521739130434}, "vehicleCount": {"std": 2.5095951133300844, "max": 12, "min": 0, "mean": 4.543478260869565}}
+Period: 2014-08-21 12:00:00 to 2014-08-21 16:00:00["kkk", "mmm", "mnm", "mmm", "rsr", "rqr", "rqr", "qpq", "cdb", "dcb", "bbc", "ddd", "iih", "iii", "hig", "ffg"]
+Statistics:
+{"wspdm": {"std": 3.4263152749909587, "max": 24.1, "min": 13.0, "mean": 19.88181818181818}, "tempm": {"std": 0.6324555320336759, "max": 18.0, "min": 16.0, "mean": 17.0}}
+{"avgSpeed": {"std": 8.511134351870886, "max": 67, "min": 22, "mean": 38.319148936170215}, "vehicleCount": {"std": 2.16609138689766, "max": 9, "min": 0, "mean": 3.297872340425532}}
+Period: 2014-08-21 16:00:00 to 2014-08-21 20:00:00["nnn", "mmm", "mmm", "kkk", "sss", "srs", "prp", "qpq", "abb", "bcc", "ddc", "ddd", "hii", "gfh", "gfh", "ihf"]
+Statistics:
+{"wspdm": {"std": 4.853115213213805, "max": 22.2, "min": 7.4, "mean": 15.654545454545456}, "tempm": {"std": 1.2210278829367864, "max": 17.0, "min": 13.0, "mean": 14.909090909090908}}
+{"avgSpeed": {"std": 8.078190966280545, "max": 59, "min": 25, "mean": 39.297872340425535}, "vehicleCount": {"std": 1.206672782671563, "max": 4, "min": 0, "mean": 1.0212765957446808}}
+Period: 2014-08-21 20:00:00 to 2014-08-22 00:00:00["a", "a", "a", "a", "sss", "sss", "qpq", "ppp", "dcc", "caa", "aad", "ddd", "iif", "fif", "fff", "fff"]
+Statistics:
+{"wspdm": {"std": 1.6199326585330072, "max": 13.0, "min": 9.3, "mean": 11.47272727272727}, "tempm": {"std": 0.0, "max": 12.0, "min": 12.0, "mean": 12.0}}
+{"avgSpeed": {"std": 5.466984791026403, "max": 52, "min": 37, "mean": 44.608695652173914}, "vehicleCount": {"std": 0.4855396917560208, "max": 2, "min": 0, "mean": 0.17391304347826086}}
+Period: 2014-08-22 00:00:00 to 2014-08-22 04:00:00["kkk", "nnn", "nkn", "nkn", "ppp", "sss", "sps", "ppp", "ccc", "cca", "bda", "daa", "fff", "ffh", "ghi", "hii"]
+Statistics:
+{"wspdm": {"std": 1.490149473893627, "max": 13.0, "min": 9.3, "mean": 10.463636363636363}, "tempm": {"std": 0.5222329678670935, "max": 13.0, "min": 12.0, "mean": 12.454545454545455}}
+{"avgSpeed": {"std": 7.6346379467033865, "max": 63, "min": 30, "mean": 46.12765957446808}, "vehicleCount": {"std": 1.466871288952571, "max": 6, "min": 0, "mean": 0.9787234042553191}}
+Period: 2014-08-22 04:00:00 to 2014-08-22 08:00:00["a", "a", "a", "a", "psp", "qqq", "qsq", "sss", "ddc", "dcd", "dba", "aab", "iii", "iig", "hfg", "hfg"]
+Statistics:
+{"wspdm": {"std": 1.5131544414356264, "max": 13.0, "min": 7.4, "mean": 10.118181818181817}, "tempm": {"std": 0.0, "max": 13.0, "min": 13.0, "mean": 13.0}}
+{"avgSpeed": {"std": 5.7632925629007765, "max": 47, "min": 26, "mean": 36.04255319148936}, "vehicleCount": {"std": 4.154397600911231, "max": 21, "min": 1, "mean": 6.042553191489362}}
+Period: 2014-08-22 08:00:00 to 2014-08-22 12:00:00["klk", "lll", "nnn", "nnn", "ppp", "qrq", "sss", "sss", "bcb", "bdb", "cdc", "dcd", "iii", "gfg", "ghi", "hih"]
+Statistics:
+{"wspdm": {"std": 4.169608658331901, "max": 20.4, "min": 7.4, "mean": 13.818181818181818}, "tempm": {"std": 0.9244162777371753, "max": 16.0, "min": 13.0, "mean": 14.636363636363637}}
+{"avgSpeed": {"std": 5.779565869726903, "max": 52, "min": 20, "mean": 32.58695652173913}, "vehicleCount": {"std": 2.598773400742319, "max": 10, "min": 0, "mean": 4.043478260869565}}
+Period: 2014-08-22 12:00:00 to 2014-08-22 16:00:00["nnn", "nnn", "kkk", "kkk", "rrr", "psp", "rrr", "rrr", "bbb", "bcb", "cdd", "bdd", "hgi", "ihi", "ihh", "ffg"]
+Statistics:
+{"wspdm": {"std": 1.5302406227898808, "max": 18.5, "min": 13.0, "mean": 16.518181818181816}, "tempm": {"std": 0.5222329678670935, "max": 16.0, "min": 15.0, "mean": 15.454545454545455}}
+{"avgSpeed": {"std": 9.315668716000586, "max": 69, "min": 22, "mean": 36.148936170212764}, "vehicleCount": {"std": 2.321121295905337, "max": 9, "min": 0, "mean": 3.702127659574468}}
+Period: 2014-08-22 16:00:00 to 2014-08-22 20:00:00["nnn", "nnn", "nnn", "kkk", "srs", "srs", "rsr", "rpr", "dda", "aad", "bbc", "ddc", "hff", "ffh", "hii", "ifi"]
+Statistics:
+{"wspdm": {"std": 2.049434511806078, "max": 16.7, "min": 9.3, "mean": 11.627272727272725}, "tempm": {"std": 0.46709936649691375, "max": 15.0, "min": 14.0, "mean": 14.727272727272727}}
+{"avgSpeed": {"std": 13.039886784132566, "max": 62, "min": 28, "mean": 41.69565217391305}, "vehicleCount": {"std": 1.1781013136882625, "max": 4, "min": 0, "mean": 1.108695652173913}}
+Period: 2014-08-22 20:00:00 to 2014-08-23 00:00:00["nnn", "mmm", "mmm", "mkm", "srs", "sps", "rrr", "ppp", "ddd", "ddd", "ddd", "aaa", "fff", "ffi", "fff", "iff"]
+Statistics:
+{"wspdm": {"std": 1.8401580959748596, "max": 11.1, "min": 5.6, "mean": 7.427272727272729}, "tempm": {"std": 0.5393598899705937, "max": 14.0, "min": 12.0, "mean": 13.090909090909092}}
+{"avgSpeed": {"std": 6.65331997326648, "max": 49, "min": 30, "mean": 45.0}, "vehicleCount": {"std": 0.35440635538079673, "max": 2, "min": 0, "mean": 0.08695652173913043}}
+Period: 2014-08-23 00:00:00 to 2014-08-23 04:00:00["nkn", "nnn", "nnn", "kkk", "pqp", "psp", "sqs", "sss", "aaa", "aac", "ddd", "ddb", "fff", "ffi", "fhf", "ffi"]
+Statistics:
+{"wspdm": {"std": 1.676522374657515, "max": 9.3, "min": 5.6, "mean": 7.945454545454544}, "tempm": {"std": 0.504524979109513, "max": 12.0, "min": 11.0, "mean": 11.636363636363637}}
+{"avgSpeed": {"std": 6.281245265227989, "max": 47, "min": 30, "mean": 35.30232558139535}, "vehicleCount": {"std": 0.5744659034243205, "max": 3, "min": 0, "mean": 0.16279069767441862}}
+Period: 2014-08-23 04:00:00 to 2014-08-23 08:00:00["klk", "lll", "lnl", "nnn", "pqp", "qqq", "sss", "sss", "dcd", "dca", "bdc", "caa", "gfh", "fgf", "igi", "iii"]
+Statistics:
+{"wspdm": {"std": 3.2921393983520533, "max": 18.5, "min": 7.4, "mean": 12.627272727272725}, "tempm": {"std": 0.8090398349558904, "max": 13.0, "min": 10.0, "mean": 11.363636363636363}}
+{"avgSpeed": {"std": 10.796280237888567, "max": 82, "min": 28, "mean": 41.51063829787234}, "vehicleCount": {"std": 1.6407168848988634, "max": 6, "min": 0, "mean": 1.702127659574468}}
+Period: 2014-08-23 08:00:00 to 2014-08-23 12:00:00["klk", "lnl", "nnn", "nnn", "prp", "psp", "sps", "psp", "daa", "cba", "bcd", "ddc", "hhi", "iif", "ghg", "hhi"]
+Statistics:
+{"wspdm": {"std": 2.327230113246216, "max": 20.4, "min": 14.8, "mean": 17.000000000000004}, "tempm": {"std": 0.8201995322647245, "max": 17.0, "min": 14.0, "mean": 15.545454545454545}}
+{"avgSpeed": {"std": 6.852941115489549, "max": 57, "min": 26, "mean": 34.71739130434783}, "vehicleCount": {"std": 1.899911007323446, "max": 9, "min": 0, "mean": 2.652173913043478}}
+Period: 2014-08-23 12:00:00 to 2014-08-23 16:00:00["mnm", "nmn", "nmn", "mkm", "sss", "sps", "rsr", "rqr", "cbb", "cdd", "dab", "dbc", "hig", "ihi", "fhi", "gfg"]
+Statistics:
+{"wspdm": {"std": 4.408029862957744, "max": 22.2, "min": 9.3, "mean": 18.35454545454545}, "tempm": {"std": 1.1677484162422844, "max": 17.0, "min": 13.0, "mean": 16.181818181818183}}
+{"avgSpeed": {"std": 7.744712618491129, "max": 58, "min": 30, "mean": 40.61702127659574}, "vehicleCount": {"std": 2.2727928676094598, "max": 9, "min": 0, "mean": 2.5531914893617023}}
+Period: 2014-08-23 16:00:00 to 2014-08-23 20:00:00["knk", "nnn", "nkn", "nkn", "psp", "sqs", "qqq", "sss", "dcd", "dbb", "bcb", "ccc", "iii", "gfg", "hfh", "ggh"]
+Statistics:
+{"wspdm": {"std": 2.9086391694711495, "max": 16.7, "min": 7.4, "mean": 12.127272727272725}, "tempm": {"std": 0.6466697906828632, "max": 15.0, "min": 13.0, "mean": 13.727272727272727}}
+{"avgSpeed": {"std": 9.660317755148366, "max": 63, "min": 23, "mean": 45.52173913043478}, "vehicleCount": {"std": 1.238083293460458, "max": 5, "min": 0, "mean": 0.9782608695652174}}
+Period: 2014-08-23 20:00:00 to 2014-08-24 00:00:00["nnn", "nnn", "nkn", "kkk", "psp", "qqq", "sss", "qsq", "ddd", "dcb", "bbb", "aad", "gih", "ifh", "fff", "ifi"]
+Statistics:
+{"wspdm": {"std": 1.7113524688757928, "max": 16.7, "min": 11.1, "mean": 14.154545454545454}, "tempm": {"std": 0.504524979109513, "max": 12.0, "min": 11.0, "mean": 11.636363636363637}}
+{"avgSpeed": {"std": 10.483753665032905, "max": 53, "min": 18, "mean": 35.666666666666664}, "vehicleCount": {"std": 0.6741998624632418, "max": 3, "min": 0, "mean": 0.3333333333333333}}
+Period: 2014-08-24 00:00:00 to 2014-08-24 04:00:00["nnn", "nnn", "nkn", "knk", "sps", "ppp", "psp", "psp", "ddd", "caa", "aab", "ddd", "fff", "iff", "ffi", "fff"]
+Statistics:
+{"wspdm": {"std": 0.8407788596944443, "max": 11.1, "min": 9.3, "mean": 9.79090909090909}, "tempm": {"std": 0.5222329678670935, "max": 11.0, "min": 10.0, "mean": 10.545454545454545}}
+{"avgSpeed": {"std": 16.847083926239613, "max": 53, "min": 16, "mean": 35.04255319148936}, "vehicleCount": {"std": 0.28205667284696945, "max": 1, "min": 0, "mean": 0.0851063829787234}}
+Period: 2014-08-24 04:00:00 to 2014-08-24 08:00:00["mmm", "kkk", "mnm", "nnn", "ppp", "ppp", "qsq", "sss", "cdd", "dcd", "adb", "abb", "fff", "fgf", "gii", "hih"]
+Statistics:
+{"wspdm": {"std": 3.6430257154783248, "max": 20.4, "min": 9.3, "mean": 11.981818181818182}, "tempm": {"std": 0.9816498172140428, "max": 13.0, "min": 10.0, "mean": 11.181818181818182}}
+{"avgSpeed": {"std": 9.936709986982732, "max": 62, "min": 29, "mean": 44.148936170212764}, "vehicleCount": {"std": 1.7527565180754212, "max": 7, "min": 0, "mean": 1.4042553191489362}}
+Period: 2014-08-24 08:00:00 to 2014-08-24 12:00:00["mmm", "mkm", "mmm", "nnn", "rpr", "srs", "srs", "sps", "cdb", "dbb", "cdd", "cda", "gfh", "iih", "hih", "ghi"]
+Statistics:
+{"wspdm": {"std": 2.6022368000695795, "max": 25.9, "min": 16.7, "mean": 20.38181818181818}, "tempm": {"std": 0.8738628975053029, "max": 16.0, "min": 13.0, "mean": 14.181818181818182}}
+{"avgSpeed": {"std": 10.116710240337841, "max": 60, "min": 27, "mean": 40.91304347826087}, "vehicleCount": {"std": 1.4737641182796193, "max": 8, "min": 0, "mean": 2.6956521739130435}}
+Period: 2014-08-24 12:00:00 to 2014-08-24 16:00:00["nnn", "nkn", "kmk", "mnm", "qqq", "prp", "psp", "sss", "cac", "dbc", "dca", "bbd", "hhh", "hii", "hhg", "hgf"]
+Statistics:
+{"wspdm": {"std": 7.4713878472233235, "max": 35.2, "min": 14.8, "mean": 23.218181818181815}, "tempm": {"std": 0.8312094145936334, "max": 15.0, "min": 13.0, "mean": 14.090909090909092}}
+{"avgSpeed": {"std": 12.348396098946058, "max": 75, "min": 27, "mean": 42.680851063829785}, "vehicleCount": {"std": 1.4037085808078142, "max": 6, "min": 0, "mean": 1.8297872340425532}}
+Period: 2014-08-24 16:00:00 to 2014-08-24 20:00:00["nnn", "nnn", "nln", "kkk", "qqq", "sss", "sss", "ppp", "dbc", "bcd", "aab", "cdd", "igi", "ihg", "fgg", "hhf"]
+Statistics:
+{"wspdm": {"std": 5.31192483517467, "max": 38.9, "min": 20.4, "mean": 30.636363636363637}, "tempm": {"std": 0.9341987329938275, "max": 16.0, "min": 13.0, "mean": 14.545454545454545}}
+{"avgSpeed": {"std": 11.49425397301344, "max": 63, "min": 27, "mean": 42.43478260869565}, "vehicleCount": {"std": 1.178101313688262, "max": 5, "min": 0, "mean": 0.8913043478260869}}
+Period: 2014-08-24 20:00:00 to 2014-08-25 00:00:00["nnn", "nnn", "nnn", "kkk", "rrr", "rsr", "rrr", "rpr", "ddd", "ddc", "bcc", "aaa", "fff", "iff", "fif", "fff"]
+Statistics:
+{"wspdm": {"std": 1.2925661579692052, "max": 18.5, "min": 14.8, "mean": 16.845454545454544}, "tempm": {"std": 0.6030226891555273, "max": 12.0, "min": 10.0, "mean": 10.818181818181818}}
+{"avgSpeed": {"std": 8.101689502996289, "max": 50, "min": 28, "mean": 41.59574468085106}, "vehicleCount": {"std": 0.28205667284696945, "max": 1, "min": 0, "mean": 0.0851063829787234}}
+Period: 2014-08-25 00:00:00 to 2014-08-25 04:00:00["a", "a", "a", "a", "sps", "sps", "sps", "ppp", "bdd", "ddc", "bac", "dbb", "gfh", "ffh", "hgh", "fii"]
+Statistics:
+{"wspdm": {"std": 0.9811557810392114, "max": 16.7, "min": 14.8, "mean": 15.559999999999999}, "tempm": {"std": 0.0, "max": 10.0, "min": 10.0, "mean": 10.0}}
+{"avgSpeed": {"std": 11.064147330531686, "max": 61, "min": 23, "mean": 47.61702127659574}, "vehicleCount": {"std": 1.2632278815997784, "max": 6, "min": 0, "mean": 0.723404255319149}}
+Period: 2014-08-25 04:00:00 to 2014-08-25 08:00:00["kkk", "kkk", "knk", "nnn", "sps", "sss", "sss", "sss", "cba", "ccc", "ddd", "ccc", "iii", "hhg", "gig", "fhh"]
+Statistics:
+{"wspdm": {"std": 0.8874887963441356, "max": 16.7, "min": 14.8, "mean": 16.181818181818183}, "tempm": {"std": 0.8201995322647243, "max": 12.0, "min": 10.0, "mean": 10.545454545454545}}
+{"avgSpeed": {"std": 6.274701418461424, "max": 59, "min": 24, "mean": 36.38297872340426}, "vehicleCount": {"std": 2.970561700716101, "max": 14, "min": 0, "mean": 5.957446808510638}}
+Period: 2014-08-25 08:00:00 to 2014-08-25 12:00:00["kkk", "mmm", "mnm", "nnn", "ppp", "qqq", "sss", "sss", "cbc", "ddc", "cdb", "aaa", "iig", "hig", "fgh", "fff"]
+Statistics:
+{"wspdm": {"std": 2.096880800357782, "max": 24.1, "min": 18.5, "mean": 21.39090909090909}, "tempm": {"std": 1.1361818036340356, "max": 17.0, "min": 13.0, "mean": 15.090909090909092}}
+{"avgSpeed": {"std": 6.147235618318729, "max": 51, "min": 24, "mean": 31.933333333333334}, "vehicleCount": {"std": 1.9357495800804425, "max": 8, "min": 0, "mean": 4.333333333333333}}
+Period: 2014-08-25 12:00:00 to 2014-08-25 16:00:00["nmn", "nnn", "kmk", "mmm", "sps", "prp", "sss", "sss", "dcb", "cbd", "ddc", "bbb", "iig", "iih", "fhi", "fgh"]
+Statistics:
+{"wspdm": {"std": 3.824347835074153, "max": 25.9, "min": 16.7, "mean": 22.381818181818183}, "tempm": {"std": 0.674199862463242, "max": 18.0, "min": 16.0, "mean": 17.363636363636363}}
+{"avgSpeed": {"std": 5.31531045683366, "max": 57, "min": 23, "mean": 36.44444444444444}, "vehicleCount": {"std": 2.0592241355432974, "max": 10, "min": 0, "mean": 2.6222222222222222}}
+Period: 2014-08-25 16:00:00 to 2014-08-25 20:00:00["nnn", "nmn", "mlm", "kkk", "qsq", "rsr", "srs", "ppp", "caa", "ddd", "cbc", "ccd", "iff", "hfi", "ihi", "ffg"]
+Statistics:
+{"wspdm": {"std": 3.7974393286194124, "max": 25.9, "min": 13.0, "mean": 19.863636363636363}, "tempm": {"std": 1.1037127426019047, "max": 17.0, "min": 14.0, "mean": 15.727272727272727}}
+{"avgSpeed": {"std": 12.569473910055986, "max": 60, "min": 23, "mean": 43.5531914893617}, "vehicleCount": {"std": 1.0579857986032961, "max": 4, "min": 0, "mean": 0.574468085106383}}
+Period: 2014-08-25 20:00:00 to 2014-08-26 00:00:00["nnn", "mmm", "mkm", "mmm", "rsr", "srs", "ppp", "prp", "bbb", "baa", "ddd", "ddd", "fff", "fii", "iff", "fff"]
+Statistics:
+{"wspdm": {"std": 1.8601563961618437, "max": 16.7, "min": 11.1, "mean": 12.97272727272727}, "tempm": {"std": 0.7006490497453708, "max": 13.0, "min": 11.0, "mean": 12.090909090909092}}
+{"avgSpeed": {"std": 8.615525098754732, "max": 72, "min": 41, "mean": 64.0}, "vehicleCount": {"std": 0.38270699819136633, "max": 2, "min": 0, "mean": 0.1111111111111111}}
+Period: 2014-08-26 00:00:00 to 2014-08-26 04:00:00["nln", "lll", "lll", "lll", "sss", "srs", "rqr", "qpq", "ddd", "ddd", "ddb", "baa", "fff", "fff", "ffh", "gii"]
+Statistics:
+{"wspdm": {"std": 1.9402436585505063, "max": 13.0, "min": 7.4, "mean": 10.963636363636363}, "tempm": {"std": 0.30151134457776374, "max": 12.0, "min": 11.0, "mean": 11.090909090909092}}
+{"avgSpeed": {"std": 14.68944633018929, "max": 72, "min": 26, "mean": 62.787234042553195}, "vehicleCount": {"std": 1.2821264713832432, "max": 6, "min": 0, "mean": 0.5531914893617021}}
+Period: 2014-08-26 04:00:00 to 2014-08-26 08:00:00["lll", "lll", "lll", "lnl", "sss", "sps", "sqs", "qqq", "dba", "ccc", "dbb", "dcc", "igh", "iih", "hfi", "gig"]
+Statistics:
+{"wspdm": {"std": 1.7294244970246868, "max": 13.0, "min": 7.4, "mean": 10.29090909090909}, "tempm": {"std": 0.30151134457776363, "max": 12.0, "min": 11.0, "mean": 11.090909090909092}}
+{"avgSpeed": {"std": 7.249740816445988, "max": 70, "min": 28, "mean": 38.53191489361702}, "vehicleCount": {"std": 2.2106880231310733, "max": 11, "min": 2, "mean": 5.9361702127659575}}
+Period: 2014-08-26 08:00:00 to 2014-08-26 12:00:00["klk", "mmm", "mnm", "nnn", "ppp", "rrr", "srs", "rsr", "dbc", "ccd", "ddc", "acd", "ghh", "hgi", "fhi", "hii"]
+Statistics:
+{"wspdm": {"std": 1.892857387895108, "max": 14.8, "min": 9.3, "mean": 11.79090909090909}, "tempm": {"std": 1.4459976109624424, "max": 18.0, "min": 13.0, "mean": 16.09090909090909}}
+{"avgSpeed": {"std": 7.632699021779699, "max": 59, "min": 18, "mean": 34.787234042553195}, "vehicleCount": {"std": 1.6581031927973742, "max": 8, "min": 1, "mean": 4.1063829787234045}}
+Period: 2014-08-26 12:00:00 to 2014-08-26 16:00:00["kkk", "kkk", "nkn", "nnn", "ppp", "srs", "rsr", "rpr", "abd", "add", "bcd", "ccd", "iig", "iii", "hhi", "ggf"]
+Statistics:
+{"wspdm": {"std": 1.447819677370707, "max": 16.7, "min": 13.0, "mean": 14.32727272727273}, "tempm": {"std": 0.4670993664969138, "max": 19.0, "min": 18.0, "mean": 18.272727272727273}}
+{"avgSpeed": {"std": 7.107343988818407, "max": 46, "min": 18, "mean": 31.914893617021278}, "vehicleCount": {"std": 2.286185031477081, "max": 12, "min": 0, "mean": 3.234042553191489}}
+Period: 2014-08-26 16:00:00 to 2014-08-26 20:00:00["nnn", "nnn", "nmn", "lkl", "sss", "sss", "sqs", "ppp", "abd", "dbc", "ddc", "acd", "ffi", "ffh", "hii", "hgg"]
+Statistics:
+{"wspdm": {"std": 4.256631190379205, "max": 16.7, "min": 3.7, "mean": 11.290909090909091}, "tempm": {"std": 1.4206272622267313, "max": 19.0, "min": 14.0, "mean": 17.272727272727273}}
+{"avgSpeed": {"std": 13.389524672400489, "max": 73, "min": 27, "mean": 43.638297872340424}, "vehicleCount": {"std": 1.0133247317745195, "max": 4, "min": 0, "mean": 0.8723404255319149}}
+Period: 2014-08-26 20:00:00 to 2014-08-27 00:00:00["nnn", "mmm", "kkk", "kkk", "pqp", "qsq", "qqq", "sss", "daa", "aad", "ddd", "ddd", "fif", "ffi", "fff", "fff"]
+Statistics:
+{"wspdm": {"std": 1.7274784566476706, "max": 7.4, "min": 1.9, "mean": 4.7272727272727275}, "tempm": {"std": 1.0787197799411872, "max": 13.0, "min": 10.0, "mean": 10.818181818181818}}
+{"avgSpeed": {"std": 7.785713592999671, "max": 49, "min": 33, "mean": 43.18181818181818}, "vehicleCount": {"std": 0.25497170592935264, "max": 1, "min": 0, "mean": 0.06818181818181818}}
+Period: 2014-08-27 00:00:00 to 2014-08-27 04:00:00["nnn", "kkk", "kkk", "kkk", "psp", "ppp", "ppp", "sps", "ddd", "dca", "add", "cba", "fff", "fgf", "fgh", "gii"]
+Statistics:
+{"wspdm": {"std": 1.015592719267213, "max": 9.3, "min": 7.4, "mean": 8.485714285714286}, "tempm": {"std": 0.5345224838248488, "max": 10.0, "min": 9.0, "mean": 9.428571428571429}}
+{"avgSpeed": {"std": 8.439861808409592, "max": 59, "min": 31, "mean": 44.170212765957444}, "vehicleCount": {"std": 1.3396397267903113, "max": 5, "min": 0, "mean": 0.6595744680851063}}
+Period: 2014-08-27 04:00:00 to 2014-08-27 08:00:00["kkk", "kmk", "mnm", "nnn", "qqq", "qqq", "qqq", "sss", "daa", "abd", "ddd", "ddb", "hii", "hif", "hgg", "ggi"]
+Statistics:
+{"wspdm": {"std": 1.0048066299723362, "max": 13.0, "min": 9.3, "mean": 11.28181818181818}, "tempm": {"std": 1.3618169680781094, "max": 12.0, "min": 9.0, "mean": 10.363636363636363}}
+{"avgSpeed": {"std": 7.687275388494334, "max": 51, "min": 19, "mean": 33.19565217391305}, "vehicleCount": {"std": 3.1108350464128334, "max": 13, "min": 0, "mean": 5.478260869565218}}
+Period: 2014-08-27 08:00:00 to 2014-08-27 12:00:00["kkk", "kmk", "mnm", "nnn", "rpr", "rrr", "rsr", "sss", "dcd", "ddd", "abb", "ccc", "ihg", "iff", "fhh", "iig"]
+Statistics:
+{"wspdm": {"std": 1.6209985699057121, "max": 16.7, "min": 11.1, "mean": 13.318181818181818}, "tempm": {"std": 2.419616799112094, "max": 20.0, "min": 13.0, "mean": 16.363636363636363}}
+{"avgSpeed": {"std": 9.733378002676929, "max": 61, "min": 23, "mean": 37.80434782608695}, "vehicleCount": {"std": 2.889594859856011, "max": 13, "min": 0, "mean": 4.695652173913044}}
+Period: 2014-08-27 12:00:00 to 2014-08-27 16:00:00["kmk", "mmm", "mnm", "nnn", "sps", "sss", "sss", "qpq", "ccc", "bcb", "dba", "dbd", "iii", "hih", "hhf", "gfh"]
+Statistics:
+{"wspdm": {"std": 2.0485471570226195, "max": 16.7, "min": 11.1, "mean": 13.463636363636363}, "tempm": {"std": 0.6466697906828633, "max": 22.0, "min": 20.0, "mean": 21.272727272727273}}
+{"avgSpeed": {"std": 9.692783204707975, "max": 59, "min": 16, "mean": 36.46808510638298}, "vehicleCount": {"std": 1.5568178365284788, "max": 8, "min": 0, "mean": 2.425531914893617}}
+Period: 2014-08-27 16:00:00 to 2014-08-27 20:00:00["nnn", "nmn", "mmm", "lkl", "sss", "psp", "qpq", "pqp", "cdb", "cca", "bdd", "acc", "iif", "hhf", "igg", "hhf"]
+Statistics:
+{"wspdm": {"std": 4.160113634811609, "max": 16.7, "min": 3.7, "mean": 7.936363636363637}, "tempm": {"std": 2.2074254852038093, "max": 22.0, "min": 14.0, "mean": 17.454545454545453}}
+{"avgSpeed": {"std": 8.983317872590284, "max": 66, "min": 25, "mean": 39.6}, "vehicleCount": {"std": 1.0787197799411874, "max": 4, "min": 0, "mean": 0.8}}
+Period: 2014-08-27 20:00:00 to 2014-08-28 00:00:00["nnn", "nnn", "nnn", "kkk", "qpq", "qsq", "sss", "qsq", "aaa", "aaa", "ddd", "ddd", "a", "a", "a", "a"]
+Statistics:
+{"wspdm": {"std": 2.888629747506907, "max": 13.0, "min": 3.7, "mean": 8.772727272727273}, "tempm": {"std": 0.5393598899705937, "max": 14.0, "min": 12.0, "mean": 12.909090909090908}}
+{"avgSpeed": {"std": 4.043893892833051, "max": 47, "min": 39, "mean": 42.80952380952381}, "vehicleCount": {"std": 0.0, "max": 0, "min": 0, "mean": 0.0}}
+Period: 2014-08-28 00:00:00 to 2014-08-28 04:00:00["nnn", "mmm", "mmm", "mkm", "srs", "rsr", "srs", "sps", "ddd", "ddc", "aac", "bdb", "fff", "ffh", "fhi", "iii"]
+Statistics:
+{"wspdm": {"std": 2.2422391405994953, "max": 13.0, "min": 5.6, "mean": 10.118181818181817}, "tempm": {"std": 0.5393598899705937, "max": 12.0, "min": 10.0, "mean": 11.090909090909092}}
+{"avgSpeed": {"std": 5.932958789676531, "max": 57, "min": 32, "mean": 44.0}, "vehicleCount": {"std": 1.5704087286051447, "max": 8, "min": 0, "mean": 0.9782608695652174}}
+Period: 2014-08-28 04:00:00 to 2014-08-28 08:00:00["lll", "lll", "lnl", "nnn", "sqs", "qpq", "qsq", "sss", "bdd", "ccd", "ddb", "abd", "iii", "ihh", "ghg", "gfg"]
+Statistics:
+{"wspdm": {"std": 2.6340428656690116, "max": 13.0, "min": 3.7, "mean": 7.927272727272728}, "tempm": {"std": 1.5782614139961386, "max": 13.0, "min": 8.0, "mean": 9.909090909090908}}
+{"avgSpeed": {"std": 6.609757097570901, "max": 60, "min": 25, "mean": 35.75555555555555}, "vehicleCount": {"std": 2.9341252374585016, "max": 13, "min": 0, "mean": 6.066666666666666}}
+Period: 2014-08-28 08:00:00 to 2014-08-28 12:00:00["klk", "lml", "mnm", "nnn", "sss", "rrr", "rpr", "sps", "cbb", "ccb", "bdd", "dbd", "hhi", "hih", "gih", "ifg"]
+Statistics:
+{"wspdm": {"std": 3.0162288314443857, "max": 14.8, "min": 5.6, "mean": 10.118181818181817}, "tempm": {"std": 1.0444659357341868, "max": 17.0, "min": 14.0, "mean": 15.909090909090908}}
+{"avgSpeed": {"std": 4.693322141859935, "max": 49, "min": 24, "mean": 31.466666666666665}, "vehicleCount": {"std": 1.9379255804998181, "max": 9, "min": 1, "mean": 4.711111111111111}}
+Period: 2014-08-28 12:00:00 to 2014-08-28 16:00:00["kkk", "kmk", "nnn", "nnn", "sqs", "qsq", "qsq", "qpq", "cbb", "cbb", "dba", "bdd", "hii", "iii", "ghg", "fgf"]
+Statistics:
+{"wspdm": {"std": 1.9043490894648105, "max": 13.0, "min": 7.4, "mean": 10.463636363636363}, "tempm": {"std": 0.9438798074485389, "max": 20.0, "min": 18.0, "mean": 19.09090909090909}}
+{"avgSpeed": {"std": 5.90496741295082, "max": 51, "min": 19, "mean": 33.148936170212764}, "vehicleCount": {"std": 2.4097013299447427, "max": 11, "min": 0, "mean": 3.382978723404255}}
+Period: 2014-08-28 16:00:00 to 2014-08-28 20:00:00["nnn", "nnn", "lll", "lkl", "srs", "sss", "sqs", "qpq", "ccc", "adc", "bdb", "dba", "hhh", "hfi", "hgi", "fgf"]
+Statistics:
+{"wspdm": {"std": 2.7999350641820904, "max": 9.3, "min": 1.9, "mean": 6.418181818181819}, "tempm": {"std": 1.61245154965971, "max": 20.0, "min": 15.0, "mean": 18.0}}
+{"avgSpeed": {"std": 11.7979442854127, "max": 67, "min": 24, "mean": 40.93617021276596}, "vehicleCount": {"std": 1.2606622050294198, "max": 4, "min": 0, "mean": 1.3829787234042554}}
+Period: 2014-08-28 20:00:00 to 2014-08-29 00:00:00["nnn", "nkn", "kkk", "kkk", "sps", "rrr", "rrr", "ppp", "aab", "ddc", "cdd", "baa", "ffi", "iii", "fif", "iff"]
+Statistics:
+{"wspdm": {"std": 1.8309957549228384, "max": 9.3, "min": 3.7, "mean": 5.236363636363637}, "tempm": {"std": 0.6875516509523287, "max": 15.0, "min": 13.0, "mean": 13.454545454545455}}
+{"avgSpeed": {"std": 13.388974810068413, "max": 65, "min": 29, "mean": 45.08888888888889}, "vehicleCount": {"std": 0.3665288997383897, "max": 1, "min": 0, "mean": 0.15555555555555556}}
+Period: 2014-08-29 00:00:00 to 2014-08-29 04:00:00["kkk", "nnn", "kkk", "nkn", "psp", "sqs", "sqs", "sps", "aaa", "bcc", "cdd", "ddc", "fff", "hff", "fii", "iii"]
+Statistics:
+{"wspdm": {"std": 1.2965338406690359, "max": 7.4, "min": 3.7, "mean": 6.49}, "tempm": {"std": 0.48304589153964794, "max": 13.0, "min": 12.0, "mean": 12.3}}
+{"avgSpeed": {"std": 11.422222202225047, "max": 77, "min": 22, "mean": 40.42553191489362}, "vehicleCount": {"std": 1.4687619938691896, "max": 6, "min": 0, "mean": 0.8723404255319149}}
+Period: 2014-08-29 04:00:00 to 2014-08-29 08:00:00["klk", "lll", "nnn", "nnn", "rpr", "rrr", "rrr", "sss", "dba", "cdc", "bdc", "dcc", "hii", "ihh", "gfi", "ghg"]
+Statistics:
+{"wspdm": {"std": 1.7063517701917044, "max": 11.1, "min": 5.6, "mean": 8.08181818181818}, "tempm": {"std": 0.8201995322647245, "max": 16.0, "min": 13.0, "mean": 14.454545454545455}}
+{"avgSpeed": {"std": 5.54904130363563, "max": 47, "min": 23, "mean": 32.765957446808514}, "vehicleCount": {"std": 3.0944132165059317, "max": 14, "min": 1, "mean": 5.8936170212765955}}
+Period: 2014-08-29 08:00:00 to 2014-08-29 12:00:00["nnn", "nnn", "nnn", "nkn", "qqq", "sss", "sss", "ppp", "ccc", "bac", "aad", "ddd", "ghi", "igf", "gii", "hgi"]
+Statistics:
+{"wspdm": {"std": 2.1643810788642224, "max": 14.8, "min": 7.4, "mean": 11.463636363636363}, "tempm": {"std": 0.30151134457776363, "max": 16.0, "min": 15.0, "mean": 15.909090909090908}}
+{"avgSpeed": {"std": 5.79307059986525, "max": 53, "min": 26, "mean": 34.48936170212766}, "vehicleCount": {"std": 2.415835822175004, "max": 11, "min": 0, "mean": 3.893617021276596}}
+Period: 2014-08-29 12:00:00 to 2014-08-29 16:00:00["a", "a", "a", "a", "ppp", "sss", "sss", "ppp", "ddd", "dcd", "bdb", "baa", "hii", "hgi", "gii", "ggf"]
+Statistics:
+{"wspdm": {"std": 3.2999831649402225, "max": 18.5, "min": 7.4, "mean": 13.89}, "tempm": {"std": 0.0, "max": 16.0, "min": 16.0, "mean": 16.0}}
+{"avgSpeed": {"std": 7.783019539644405, "max": 54, "min": 19, "mean": 39.1063829787234}, "vehicleCount": {"std": 1.6395888566562702, "max": 7, "min": 0, "mean": 3.0851063829787235}}
+Period: 2014-08-29 16:00:00 to 2014-08-29 20:00:00["nnn", "nnn", "nnn", "nkn", "sss", "sqs", "pqp", "pqp", "ccd", "cad", "bcc", "ccc", "hgf", "gih", "ggi", "ifi"]
+Statistics:
+{"wspdm": {"std": 4.918185178960371, "max": 18.5, "min": 1.9, "mean": 7.263636363636365}, "tempm": {"std": 0.30151134457776363, "max": 16.0, "min": 15.0, "mean": 15.909090909090908}}
+{"avgSpeed": {"std": 12.788732963873164, "max": 69, "min": 25, "mean": 44.78260869565217}, "vehicleCount": {"std": 1.0874781357122423, "max": 4, "min": 0, "mean": 0.8695652173913043}}
+Period: 2014-08-29 20:00:00 to 2014-08-30 00:00:00["nnn", "nnn", "nnn", "nkn", "rpr", "ppp", "rsr", "sps", "aba", "ddb", "ddd", "ccc", "ifh", "iii", "ffi", "fff"]
+Statistics:
+{"wspdm": {"std": 2.332302802733034, "max": 9.3, "min": 3.7, "mean": 5.918181818181819}, "tempm": {"std": 0.3015113445777637, "max": 15.0, "min": 14.0, "mean": 14.909090909090908}}
+{"avgSpeed": {"std": 5.373428828386706, "max": 57, "min": 35, "mean": 50.111111111111114}, "vehicleCount": {"std": 0.6451058953083721, "max": 2, "min": 0, "mean": 0.35555555555555557}}
+Period: 2014-08-30 00:00:00 to 2014-08-30 04:00:00["nnn", "nnn", "lll", "lkl", "psp", "sss", "rpr", "rsr", "add", "ddd", "ddd", "ddd", "fif", "fff", "fff", "fff"]
+Statistics:
+{"wspdm": {"std": 2.6365956010803715, "max": 9.3, "min": 0.0, "mean": 6.081818181818182}, "tempm": {"std": 0.6875516509523286, "max": 13.0, "min": 11.0, "mean": 12.454545454545455}}
+{"avgSpeed": {"std": 1.974396709928785, "max": 57, "min": 50, "mean": 56.40425531914894}, "vehicleCount": {"std": 0.20402970888857885, "max": 1, "min": 0, "mean": 0.0425531914893617}}
+Period: 2014-08-30 04:00:00 to 2014-08-30 08:00:00["klk", "lll", "nnn", "nnn", "sss", "qqq", "sps", "sss", "dac", "dad", "ddc", "bca", "fff", "hfh", "hgi", "ihi"]
+Statistics:
+{"wspdm": {"std": 1.7294244970246868, "max": 9.3, "min": 3.7, "mean": 6.40909090909091}, "tempm": {"std": 1.0787197799411872, "max": 15.0, "min": 12.0, "mean": 13.818181818181818}}
+{"avgSpeed": {"std": 10.338265859445361, "max": 67, "min": 26, "mean": 42.1063829787234}, "vehicleCount": {"std": 1.4433489682742413, "max": 5, "min": 0, "mean": 1.702127659574468}}
+Period: 2014-08-30 08:00:00 to 2014-08-30 12:00:00["kmk", "mmm", "nnn", "nnn", "qpq", "pqp", "sss", "sss", "cbd", "cbb", "dda", "bdc", "iig", "hhg", "ghg", "igf"]
+Statistics:
+{"wspdm": {"std": 1.9101166075780438, "max": 14.8, "min": 9.3, "mean": 12.136363636363637}, "tempm": {"std": 0.674199862463242, "max": 17.0, "min": 15.0, "mean": 16.363636363636363}}
+{"avgSpeed": {"std": 8.328811600864867, "max": 60, "min": 20, "mean": 37.97872340425532}, "vehicleCount": {"std": 1.7986015741602401, "max": 7, "min": 0, "mean": 2.9361702127659575}}
+Period: 2014-08-30 12:00:00 to 2014-08-30 16:00:00["nnn", "nkn", "kkk", "knk", "psp", "rrr", "sps", "rrr", "bcd", "dbc", "dca", "ccc", "iig", "igh", "hhf", "hgg"]
+Statistics:
+{"wspdm": {"std": 1.5455507991416109, "max": 16.7, "min": 11.1, "mean": 14.645454545454548}, "tempm": {"std": 0.5222329678670934, "max": 17.0, "min": 16.0, "mean": 16.454545454545453}}
+{"avgSpeed": {"std": 6.586364189499012, "max": 55, "min": 24, "mean": 38.67391304347826}, "vehicleCount": {"std": 1.381730344155962, "max": 6, "min": 0, "mean": 1.9565217391304348}}
+Period: 2014-08-30 16:00:00 to 2014-08-30 20:00:00["nnn", "nnn", "nkn", "kkk", "qsq", "rqr", "rqr", "prp", "bca", "bdd", "cbd", "ccd", "igh", "hif", "iff", "gii"]
+Statistics:
+{"wspdm": {"std": 2.034609634213984, "max": 14.8, "min": 7.4, "mean": 10.618181818181817}, "tempm": {"std": 0.504524979109513, "max": 17.0, "min": 16.0, "mean": 16.636363636363637}}
+{"avgSpeed": {"std": 12.04227657549738, "max": 67, "min": 24, "mean": 46.30434782608695}, "vehicleCount": {"std": 0.8647693836836048, "max": 4, "min": 0, "mean": 0.9130434782608695}}
+Period: 2014-08-30 20:00:00 to 2014-08-31 00:00:00["nnn", "mkm", "mkm", "kkk", "sss", "rpr", "rrr", "rpr", "acc", "ccd", "dcc", "ccc", "iif", "ffh", "hhf", "fff"]
+Statistics:
+{"wspdm": {"std": 2.2760589720928683, "max": 9.3, "min": 1.9, "mean": 5.960000000000001}, "tempm": {"std": 0.8755950357709131, "max": 16.0, "min": 14.0, "mean": 14.9}}
+{"avgSpeed": {"std": 3.279412364211836, "max": 52, "min": 35, "mean": 49.13333333333333}, "vehicleCount": {"std": 0.617914380653325, "max": 2, "min": 0, "mean": 0.26666666666666666}}
+Period: 2014-08-31 00:00:00 to 2014-08-31 04:00:00["a", "a", "a", "a", "qrq", "sqs", "rsr", "qpq", "ddd", "ddc", "aaa", "aaa", "fff", "ifi", "fff", "fff"]
+Statistics:
+{"wspdm": {"std": 2.1891052551628984, "max": 7.4, "min": 0.0, "mean": 3.7272727272727266}, "tempm": {"std": 0.0, "max": 14.0, "min": 14.0, "mean": 14.0}}
+{"avgSpeed": {"std": 6.804661839996661, "max": 61, "min": 43, "mean": 48.148936170212764}, "vehicleCount": {"std": 0.2820566728469696, "max": 1, "min": 0, "mean": 0.0851063829787234}}
+Period: 2014-08-31 04:00:00 to 2014-08-31 08:00:00["kkk", "kkk", "knk", "nnn", "prp", "prp", "srs", "rsr", "cdd", "cdd", "cba", "adb", "fgf", "fff", "hhi", "iih"]
+Statistics:
+{"wspdm": {"std": 1.1703146430068982, "max": 5.6, "min": 1.9, "mean": 3.7181818181818187}, "tempm": {"std": 0.4670993664969138, "max": 15.0, "min": 14.0, "mean": 14.272727272727273}}
+{"avgSpeed": {"std": 11.675321465087432, "max": 62, "min": 21, "mean": 45.77777777777778}, "vehicleCount": {"std": 1.070730893579076, "max": 4, "min": 0, "mean": 0.8888888888888888}}
+Period: 2014-08-31 08:00:00 to 2014-08-31 12:00:00["a", "a", "a", "a", "ppp", "qsq", "sss", "sss", "ddd", "acb", "dda", "acd", "fhi", "igg", "ihg", "ghi"]
+Statistics:
+{"wspdm": {"std": 5.044961482869454, "max": 22.2, "min": 9.3, "mean": 17.68181818181818}, "tempm": {"std": 0.0, "max": 16.0, "min": 16.0, "mean": 16.0}}
+{"avgSpeed": {"std": 7.762310803502765, "max": 57, "min": 27, "mean": 35.08510638297872}, "vehicleCount": {"std": 1.693432927113117, "max": 7, "min": 0, "mean": 2.0425531914893615}}
+Period: 2014-08-31 12:00:00 to 2014-08-31 16:00:00["a", "a", "a", "a", "rsr", "sss", "srs", "ppp", "ddc", "bdd", "bcb", "cac", "gfh", "hgg", "hgg", "ihi"]
+Statistics:
+{"wspdm": {"std": 2.66921847602014, "max": 29.6, "min": 22.2, "mean": 26.754545454545454}, "tempm": {"std": 0.0, "max": 17.0, "min": 17.0, "mean": 17.0}}
+{"avgSpeed": {"std": 13.674489912811305, "max": 63, "min": 25, "mean": 44.4468085106383}, "vehicleCount": {"std": 1.0890082393723688, "max": 5, "min": 0, "mean": 1.3404255319148937}}
+Period: 2014-08-31 16:00:00 to 2014-08-31 20:00:00["nnn", "nkn", "kkk", "kkk", "sps", "srs", "rrr", "sss", "bcb", "ddd", "daa", "bcc", "iii", "ggf", "fhi", "ggg"]
+Statistics:
+{"wspdm": {"std": 2.796003641563502, "max": 24.1, "min": 16.7, "mean": 20.218181818181815}, "tempm": {"std": 0.5045249791095129, "max": 17.0, "min": 16.0, "mean": 16.363636363636363}}
+{"avgSpeed": {"std": 19.799994393518112, "max": 84, "min": 22, "mean": 51.702127659574465}, "vehicleCount": {"std": 0.6773731708452468, "max": 2, "min": 0, "mean": 0.6170212765957447}}
+Period: 2014-08-31 20:00:00 to 2014-09-01 00:00:00["nln", "lll", "lll", "lll", "sss", "qsq", "qsq", "sps", "bac", "ccc", "ccc", "cab", "fif", "fff", "fff", "fif"]
+Statistics:
+{"wspdm": {"std": 3.444204618565142, "max": 25.9, "min": 14.8, "mean": 23.063636363636366}, "tempm": {"std": 0.30151134457776374, "max": 16.0, "min": 15.0, "mean": 15.090909090909092}}
+{"avgSpeed": {"std": 2.127264093913242, "max": 55, "min": 41, "mean": 46.44444444444444}, "vehicleCount": {"std": 0.5202951765172066, "max": 2, "min": 0, "mean": 0.15555555555555556}}
+Period: 2014-09-01 00:00:00 to 2014-09-01 04:00:00["mmm", "mmm", "mmm", "mkm", "sss", "sqs", "qsq", "qqq", "ddd", "ddb", "dbc", "baa", "fff", "ffg", "gii", "iii"]
+Statistics:
+{"wspdm": {"std": 1.5220201886129676, "max": 18.5, "min": 13.0, "mean": 15.663636363636368}, "tempm": {"std": 0.4472135954999579, "max": 16.0, "min": 14.0, "mean": 15.0}}
+{"avgSpeed": {"std": 10.867888862406737, "max": 65, "min": 27, "mean": 54.38297872340426}, "vehicleCount": {"std": 1.2143148652818196, "max": 5, "min": 0, "mean": 0.7021276595744681}}
+Period: 2014-09-01 04:00:00 to 2014-09-01 08:00:00["kkk", "nnn", "knk", "nnn", "sss", "ppp", "pqp", "sss", "abb", "bdd", "bdc", "cdb", "hig", "iig", "fgg", "igf"]
+Statistics:
+{"wspdm": {"std": 2.3941975311535635, "max": 18.5, "min": 11.1, "mean": 13.97272727272727}, "tempm": {"std": 0.6466697906828632, "max": 16.0, "min": 14.0, "mean": 14.727272727272727}}
+{"avgSpeed": {"std": 4.936788216122079, "max": 41, "min": 21, "mean": 32.61702127659574}, "vehicleCount": {"std": 2.9884142611901603, "max": 15, "min": 2, "mean": 6.0638297872340425}}
+Period: 2014-09-01 08:00:00 to 2014-09-01 12:00:00["kmk", "mmm", "mmm", "mnm", "srs", "rrr", "ppp", "sss", "dcc", "abc", "bbd", "dcd", "iii", "fhg", "igi", "hhf"]
+Statistics:
+{"wspdm": {"std": 1.9607538232923463, "max": 20.4, "min": 14.8, "mean": 16.669999999999998}, "tempm": {"std": 0.4714045207910317, "max": 18.0, "min": 16.0, "mean": 17.0}}
+{"avgSpeed": {"std": 6.410848806802558, "max": 52, "min": 23, "mean": 35.659574468085104}, "vehicleCount": {"std": 2.311736535471918, "max": 10, "min": 1, "mean": 4.297872340425532}}
+Period: 2014-09-01 12:00:00 to 2014-09-01 16:00:00["klk", "lnl", "nnn", "nnn", "ppp", "sss", "sss", "psp", "ccd", "cdd", "dbd", "bad", "iii", "ihh", "fgg", "hgg"]
+Statistics:
+{"wspdm": {"std": 0.9400193421607688, "max": 18.5, "min": 16.7, "mean": 17.681818181818183}, "tempm": {"std": 0.6875516509523286, "max": 19.0, "min": 17.0, "mean": 18.545454545454547}}
+{"avgSpeed": {"std": 6.793505087828621, "max": 57, "min": 20, "mean": 38.02127659574468}, "vehicleCount": {"std": 1.8385329791068865, "max": 9, "min": 0, "mean": 2.425531914893617}}
+Period: 2014-09-01 16:00:00 to 2014-09-01 20:00:00["nnn", "nmn", "mlm", "kkk", "sss", "srs", "qqq", "ppp", "bba", "bbb", "cdd", "ddd", "iii", "fff", "ggh", "ghi"]
+Statistics:
+{"wspdm": {"std": 4.486484754743456, "max": 16.7, "min": 5.6, "mean": 10.463636363636363}, "tempm": {"std": 1.1677484162422844, "max": 19.0, "min": 16.0, "mean": 17.818181818181817}}
+{"avgSpeed": {"std": 8.708067224281672, "max": 63, "min": 26, "mean": 38.76086956521739}, "vehicleCount": {"std": 0.6856006922245219, "max": 2, "min": 0, "mean": 0.5869565217391305}}
+Period: 2014-09-01 20:00:00 to 2014-09-02 00:00:00["nln", "lll", "lll", "lll", "sqs", "sss", "sqs", "qqq", "dcd", "dda", "ccc", "ccc", "iif", "ffi", "fff", "fff"]
+Statistics:
+{"wspdm": {"std": 1.209207103097653, "max": 5.6, "min": 1.9, "mean": 4.2272727272727275}, "tempm": {"std": 0.30151134457776374, "max": 15.0, "min": 14.0, "mean": 14.090909090909092}}
+{"avgSpeed": {"std": 5.451100141588228, "max": 55, "min": 25, "mean": 47.58695652173913}, "vehicleCount": {"std": 0.4004828004171365, "max": 2, "min": 0, "mean": 0.13043478260869565}}
+Period: 2014-09-02 00:00:00 to 2014-09-02 04:00:00["nnn", "nnn", "nln", "lkl", "sss", "sps", "rpr", "srs", "ccc", "cdd", "cbc", "acb", "fff", "fff", "hfi", "iii"]
+Statistics:
+{"wspdm": {"std": 2.2059423877748525, "max": 5.6, "min": 0.0, "mean": 3.727272727272727}, "tempm": {"std": 0.6875516509523286, "max": 13.0, "min": 11.0, "mean": 12.545454545454545}}
+{"avgSpeed": {"std": 8.003988367509915, "max": 59, "min": 28, "mean": 47.255319148936174}, "vehicleCount": {"std": 1.6148593074301272, "max": 8, "min": 0, "mean": 0.851063829787234}}
+Period: 2014-09-02 04:00:00 to 2014-09-02 08:00:00["lll", "lll", "lml", "nnn", "qqq", "qqq", "sqs", "sss", "cab", "ddd", "ddb", "bbb", "iig", "iih", "ghf", "ggg"]
+Statistics:
+{"wspdm": {"std": 2.0799475517862986, "max": 7.4, "min": 0.0, "mean": 2.727272727272727}, "tempm": {"std": 1.6403990645294486, "max": 16.0, "min": 11.0, "mean": 11.909090909090908}}
+{"avgSpeed": {"std": 5.7136414332177035, "max": 45, "min": 23, "mean": 34.46808510638298}, "vehicleCount": {"std": 2.911586474790851, "max": 13, "min": 1, "mean": 6.148936170212766}}
+Period: 2014-09-02 08:00:00 to 2014-09-02 12:00:00["kkk", "mmm", "mnm", "nnn", "sqs", "sss", "sss", "pqp", "cdb", "cbc", "bad", "ddc", "ihf", "hgi", "ihg", "hih"]
+Statistics:
+{"wspdm": {"std": 1.6199326585330083, "max": 9.3, "min": 5.6, "mean": 7.7727272727272725}, "tempm": {"std": 1.1361818036340359, "max": 20.0, "min": 16.0, "mean": 18.09090909090909}}
+{"avgSpeed": {"std": 5.975435376363406, "max": 56, "min": 22, "mean": 34.1063829787234}, "vehicleCount": {"std": 2.3431360975214104, "max": 10, "min": 0, "mean": 3.6595744680851063}}
+Period: 2014-09-02 12:00:00 to 2014-09-02 16:00:00["a", "a", "a", "a", "rrr", "prp", "rsr", "srs", "dcc", "ccb", "cbc", "cdd", "iii", "ihi", "hgf", "ggf"]
+Statistics:
+{"wspdm": {"std": 1.1052766005106427, "max": 11.1, "min": 7.4, "mean": 9.618181818181817}, "tempm": {"std": 0.0, "max": 20.0, "min": 20.0, "mean": 20.0}}
+{"avgSpeed": {"std": 7.397651825089671, "max": 59, "min": 27, "mean": 36.955555555555556}, "vehicleCount": {"std": 2.241707502162698, "max": 9, "min": 0, "mean": 3.5555555555555554}}
+Period: 2014-09-02 16:00:00 to 2014-09-02 20:00:00["nnn", "nnn", "mlm", "kkk", "sss", "rrr", "qqq", "ppp", "ddb", "cdd", "ccc", "baa", "ihh", "fgi", "gig", "ffh"]
+Statistics:
+{"wspdm": {"std": 3.6075678031806215, "max": 13.0, "min": 1.9, "mean": 7.936363636363637}, "tempm": {"std": 1.9211738835693897, "max": 20.0, "min": 14.0, "mean": 18.09090909090909}}
+{"avgSpeed": {"std": 14.761314041419794, "max": 75, "min": 24, "mean": 46.87234042553192}, "vehicleCount": {"std": 0.9374518180649818, "max": 3, "min": 0, "mean": 0.7659574468085106}}
+Period: 2014-09-02 20:00:00 to 2014-09-03 00:00:00["nnn", "mkm", "mlm", "lkl", "sps", "sps", "sps", "ppp", "aaa", "abd", "ddd", "ddd", "fif", "fif", "fff", "fif"]
+Statistics:
+{"wspdm": {"std": 0.9811557810392123, "max": 1.9, "min": 0.0, "mean": 0.76}, "tempm": {"std": 1.1972189997378646, "max": 13.0, "min": 9.0, "mean": 10.9}}
+{"avgSpeed": {"std": 11.999128888242469, "max": 63, "min": 29, "mean": 43.857142857142854}, "vehicleCount": {"std": 0.3952387949002387, "max": 2, "min": 0, "mean": 0.11904761904761904}}
+Period: 2014-09-03 00:00:00 to 2014-09-03 04:00:00["nnn", "nnn", "lll", "lkl", "sss", "sps", "ppp", "sps", "ddc", "ccc", "cbc", "bbd", "fif", "fff", "fhh", "fii"]
+Statistics:
+{"wspdm": {"std": 0.9922426389474776, "max": 1.9, "min": 0.0, "mean": 1.0363636363636364}, "tempm": {"std": 0.6875516509523286, "max": 9.0, "min": 7.0, "mean": 8.454545454545455}}
+{"avgSpeed": {"std": 9.845147003420712, "max": 63, "min": 23, "mean": 40.829787234042556}, "vehicleCount": {"std": 1.5367830450846256, "max": 7, "min": 0, "mean": 0.8297872340425532}}
+Period: 2014-09-03 04:00:00 to 2014-09-03 08:00:00["lll", "lll", "lml", "nnn", "sps", "sps", "ppp", "psp", "dba", "cbb", "ccd", "ccd", "gii", "ihh", "iif", "fgg"]
+Statistics:
+{"wspdm": {"std": 0.9922426389474774, "max": 1.9, "min": 0.0, "mean": 0.8636363636363636}, "tempm": {"std": 1.9211738835693897, "max": 13.0, "min": 7.0, "mean": 8.090909090909092}}
+{"avgSpeed": {"std": 7.337054391904048, "max": 55, "min": 20, "mean": 34.108695652173914}, "vehicleCount": {"std": 2.93438716247936, "max": 14, "min": 1, "mean": 6.478260869565218}}
+Period: 2014-09-03 08:00:00 to 2014-09-03 12:00:00["klk", "lml", "nnn", "nnn", "ppp", "qrq", "sss", "sss", "ddd", "dcd", "bdb", "bbc", "iif", "hhh", "igf", "hhh"]
+Statistics:
+{"wspdm": {"std": 3.9900786048306456, "max": 11.1, "min": 0.0, "mean": 6.254545454545454}, "tempm": {"std": 1.9211738835693901, "max": 21.0, "min": 15.0, "mean": 18.90909090909091}}
+{"avgSpeed": {"std": 9.913595258674901, "max": 61, "min": 19, "mean": 36.361702127659576}, "vehicleCount": {"std": 2.2356542356186466, "max": 10, "min": 0, "mean": 4.042553191489362}}
+Period: 2014-09-03 12:00:00 to 2014-09-03 16:00:00["a", "a", "a", "a", "psp", "prp", "srs", "rpr", "bcd", "bbb", "dab", "ddd", "iii", "gih", "hhh", "ffg"]
+Statistics:
+{"wspdm": {"std": 1.5357556623843043, "max": 16.7, "min": 13.0, "mean": 14.663636363636364}, "tempm": {"std": 0.0, "max": 21.0, "min": 21.0, "mean": 21.0}}
+{"avgSpeed": {"std": 7.829369950157236, "max": 54, "min": 20, "mean": 34.108695652173914}, "vehicleCount": {"std": 2.268030280365984, "max": 8, "min": 0, "mean": 3.4782608695652173}}
+Period: 2014-09-03 16:00:00 to 2014-09-03 20:00:00["nnn", "nnn", "mlm", "kkk", "sss", "sss", "rqr", "ppp", "cbd", "ddb", "acc", "bcd", "ggh", "fhi", "fhi", "hhg"]
+Statistics:
+{"wspdm": {"std": 3.039826550075753, "max": 13.0, "min": 3.7, "mean": 9.436363636363637}, "tempm": {"std": 1.5491933384829668, "max": 21.0, "min": 16.0, "mean": 19.0}}
+{"avgSpeed": {"std": 9.55674176334765, "max": 56, "min": 27, "mean": 39.17777777777778}, "vehicleCount": {"std": 0.8299933065325821, "max": 3, "min": 0, "mean": 0.7555555555555555}}
+Period: 2014-09-03 20:00:00 to 2014-09-04 00:00:00["nkn", "nkn", "nkn", "kkk", "sps", "rpr", "sps", "ppp", "dca", "add", "dcc", "ccc", "iih", "fff", "fif", "fff"]
+Statistics:
+{"wspdm": {"std": 2.093527440196842, "max": 5.6, "min": 0.0, "mean": 2.1}, "tempm": {"std": 1.4880476182856899, "max": 15.0, "min": 11.0, "mean": 12.25}}
+{"avgSpeed": {"std": 3.5037732605450898, "max": 55, "min": 38, "mean": 43.15909090909091}, "vehicleCount": {"std": 0.631702956928976, "max": 2, "min": 0, "mean": 0.29545454545454547}}
+Period: 2014-09-04 00:00:00 to 2014-09-04 04:00:00["nnn", "nnn", "nnn", "kkk", "ppp", "psp", "sss", "psp", "ddc", "ccc", "ddd", "adc", "fhf", "fff", "gfg", "fii"]
+Statistics:
+{"wspdm": {"std": 1.2853722488764951, "max": 3.7, "min": 0.0, "mean": 1.0272727272727273}, "tempm": {"std": 0.46709936649691375, "max": 10.0, "min": 9.0, "mean": 9.727272727272727}}
+{"avgSpeed": {"std": 7.765230029419974, "max": 55, "min": 22, "mean": 35.51063829787234}, "vehicleCount": {"std": 1.4637146868674038, "max": 6, "min": 0, "mean": 0.6595744680851063}}
+Period: 2014-09-04 04:00:00 to 2014-09-04 08:00:00["lll", "kkk", "klk", "nnn", "sqs", "qqq", "sqs", "qsq", "daa", "bdd", "bda", "cdb", "iii", "ggi", "ifh", "hgf"]
+Statistics:
+{"wspdm": {"std": 1.2568358538951552, "max": 3.7, "min": 0.0, "mean": 0.6818181818181818}, "tempm": {"std": 1.7939291563999449, "max": 13.0, "min": 7.0, "mean": 8.272727272727273}}
+{"avgSpeed": {"std": 6.915172555392984, "max": 59, "min": 24, "mean": 36.53191489361702}, "vehicleCount": {"std": 2.7474654033237043, "max": 11, "min": 0, "mean": 5.127659574468085}}
+Period: 2014-09-04 08:00:00 to 2014-09-04 12:00:00["kkk", "lnl", "nnn", "nnn", "pqp", "qsq", "sss", "sss", "bdc", "ddb", "cbd", "acd", "iih", "hii", "gig", "fgh"]
+Statistics:
+{"wspdm": {"std": 1.7088539487568324, "max": 14.8, "min": 9.3, "mean": 13.972727272727274}, "tempm": {"std": 1.348399724926484, "max": 19.0, "min": 15.0, "mean": 17.727272727272727}}
+{"avgSpeed": {"std": 6.813085304019904, "max": 55, "min": 19, "mean": 33.87234042553192}, "vehicleCount": {"std": 1.9122759371870206, "max": 9, "min": 0, "mean": 3.6808510638297873}}
+Period: 2014-09-04 12:00:00 to 2014-09-04 16:00:00["nkn", "knk", "nnn", "nnn", "prp", "psp", "sps", "rsr", "ccb", "dcd", "abd", "cad", "hii", "fhg", "hgh", "hfg"]
+Statistics:
+{"wspdm": {"std": 1.840158095974859, "max": 18.5, "min": 13.0, "mean": 14.82727272727273}, "tempm": {"std": 0.4670993664969138, "max": 20.0, "min": 19.0, "mean": 19.727272727272727}}
+{"avgSpeed": {"std": 7.401402472294811, "max": 52, "min": 18, "mean": 34.95744680851064}, "vehicleCount": {"std": 1.987239588999978, "max": 9, "min": 0, "mean": 2.9148936170212765}}
+Period: 2014-09-04 16:00:00 to 2014-09-04 20:00:00["nnn", "nnn", "mmm", "kkk", "sss", "srs", "rqr", "ppp", "ddd", "ddd", "aba", "acd", "ffi", "hih", "igi", "fff"]
+Statistics:
+{"wspdm": {"std": 4.390444168874033, "max": 18.5, "min": 5.6, "mean": 11.799999999999999}, "tempm": {"std": 1.3684762594679063, "max": 20.0, "min": 16.0, "mean": 18.454545454545453}}
+{"avgSpeed": {"std": 7.833073550770355, "max": 59, "min": 24, "mean": 32.31578947368421}, "vehicleCount": {"std": 0.7766140902885473, "max": 2, "min": 0, "mean": 0.7894736842105263}}
+Period: 2014-09-04 20:00:00 to 2014-09-05 00:00:00["nnn", "nmn", "mkm", "kkk", "sps", "ppp", "sss", "sps", "bbb", "bdd", "ddd", "ddd", "iff", "fif", "fff", "fff"]
+Statistics:
+{"wspdm": {"std": 2.1681579949139063, "max": 5.6, "min": 0.0, "mean": 2.190909090909091}, "tempm": {"std": 1.2504544628399563, "max": 15.0, "min": 11.0, "mean": 12.181818181818182}}
+{"avgSpeed": {"std": 3.872722530466103, "max": 46, "min": 28, "mean": 37.15555555555556}, "vehicleCount": {"std": 0.2877990320141517, "max": 1, "min": 0, "mean": 0.08888888888888889}}
+Period: 2014-09-05 00:00:00 to 2014-09-05 04:00:00["nnn", "nnn", "nln", "lkl", "rrr", "rpr", "srs", "prp", "ccc", "ccc", "add", "dbb", "fff", "fff", "ggi", "iii"]
+Statistics:
+{"wspdm": {"std": 2.1044973487531626, "max": 7.4, "min": 0.0, "mean": 1.7090909090909088}, "tempm": {"std": 0.8090398349558904, "max": 10.0, "min": 7.0, "mean": 8.636363636363637}}
+{"avgSpeed": {"std": 4.794191675406455, "max": 50, "min": 30, "mean": 39.191489361702125}, "vehicleCount": {"std": 1.6744806034698805, "max": 7, "min": 0, "mean": 0.9787234042553191}}
+Period: 2014-09-05 04:00:00 to 2014-09-05 08:00:00["lkl", "kkk", "kmk", "nnn", "ppp", "qpq", "qsq", "sss", "cca", "bcd", "dbd", "dbb", "gii", "iii", "fgh", "ffg"]
+Statistics:
+{"wspdm": {"std": 3.289072817679779, "max": 11.1, "min": 0.0, "mean": 2.1999999999999997}, "tempm": {"std": 2.572582713574399, "max": 14.0, "min": 7.0, "mean": 8.727272727272727}}
+{"avgSpeed": {"std": 6.021392636898592, "max": 49, "min": 22, "mean": 33.702127659574465}, "vehicleCount": {"std": 3.1911069767841216, "max": 13, "min": 1, "mean": 5.23404255319149}}
+Period: 2014-09-05 08:00:00 to 2014-09-05 12:00:00["kkk", "lll", "nnn", "nnn", "ppp", "psp", "sps", "ppp", "aac", "cbb", "ddc", "cdd", "ghg", "igf", "hhi", "iig"]
+Statistics:
+{"wspdm": {"std": 0.9081449623971238, "max": 14.8, "min": 13.0, "mean": 13.654545454545454}, "tempm": {"std": 0.9244162777371753, "max": 18.0, "min": 15.0, "mean": 16.363636363636363}}
+{"avgSpeed": {"std": 5.369940662586876, "max": 53, "min": 26, "mean": 32.8936170212766}, "vehicleCount": {"std": 2.211524771088035, "max": 8, "min": 0, "mean": 3.978723404255319}}
+Period: 2014-09-05 12:00:00 to 2014-09-05 16:00:00["nnn", "nnn", "knk", "kkk", "sss", "sss", "sps", "prp", "ddb", "ccc", "acd", "acd", "hih", "hhh", "hig", "gff"]
+Statistics:
+{"wspdm": {"std": 1.6136914203155452, "max": 14.8, "min": 11.1, "mean": 13.299999999999999}, "tempm": {"std": 0.5222329678670935, "max": 19.0, "min": 18.0, "mean": 18.545454545454547}}
+{"avgSpeed": {"std": 11.030149582620632, "max": 70, "min": 27, "mean": 42.659574468085104}, "vehicleCount": {"std": 1.9642974277916425, "max": 9, "min": 0, "mean": 2.425531914893617}}
+Period: 2014-09-05 16:00:00 to 2014-09-05 20:00:00["kkk", "nnn", "nnn", "kkk", "qsq", "qqq", "qqq", "qpq", "dab", "dda", "abc", "cdc", "ggh", "hgf", "igf", "ghh"]
+Statistics:
+{"wspdm": {"std": 0.8275923458497492, "max": 13.0, "min": 9.3, "mean": 11.109090909090908}, "tempm": {"std": 0.5222329678670935, "max": 19.0, "min": 18.0, "mean": 18.545454545454547}}
+{"avgSpeed": {"std": 10.852172949429495, "max": 67, "min": 30, "mean": 45.276595744680854}, "vehicleCount": {"std": 0.5826666821903325, "max": 2, "min": 0, "mean": 0.44680851063829785}}
+Period: 2014-09-05 20:00:00 to 2014-09-06 00:00:00["nnn", "nnn", "nkn", "kkk", "sss", "sss", "qpq", "rrr", "bbc", "ccc", "cdd", "daa", "ifi", "iff", "fii", "fif"]
+Statistics:
+{"wspdm": {"std": 3.972519237323979, "max": 13.0, "min": 1.9, "mean": 9.290909090909091}, "tempm": {"std": 0.504524979109513, "max": 17.0, "min": 16.0, "mean": 16.636363636363637}}
+{"avgSpeed": {"std": 10.820015123498084, "max": 66, "min": 26, "mean": 45.86666666666667}, "vehicleCount": {"std": 0.3437758254761644, "max": 1, "min": 0, "mean": 0.13333333333333333}}
+Period: 2014-09-06 00:00:00 to 2014-09-06 04:00:00["a", "a", "a", "a", "qpq", "sss", "qqq", "sqs", "aaa", "aaa", "aaa", "ddd", "ggg", "ggg", "ggg", "igg"]
+Statistics:
+{"wspdm": {"std": 1.260952021291849, "max": 13.0, "min": 9.3, "mean": 11.799999999999999}, "tempm": {"std": 0.0, "max": 16.0, "min": 16.0, "mean": 16.0}}
+{"avgSpeed": {"std": 8.50975686756277, "max": 49, "min": 26, "mean": 29.65909090909091}, "vehicleCount": {"std": 0.15075567228888181, "max": 1, "min": 0, "mean": 0.022727272727272728}}
+Period: 2014-09-06 04:00:00 to 2014-09-06 08:00:00["nnn", "kkk", "knk", "nnn", "sss", "sqs", "ppp", "qsq", "ddd", "caa", "acc", "dca", "fff", "ggf", "hii", "hig"]
+Statistics:
+{"wspdm": {"std": 2.6559709746497266, "max": 13.0, "min": 5.6, "mean": 8.272727272727273}, "tempm": {"std": 0.674199862463242, "max": 17.0, "min": 15.0, "mean": 15.636363636363637}}
+{"avgSpeed": {"std": 9.857241875459096, "max": 66, "min": 31, "mean": 42.65217391304348}, "vehicleCount": {"std": 1.5580552724098262, "max": 6, "min": 0, "mean": 1.1956521739130435}}
+Period: 2014-09-06 08:00:00 to 2014-09-06 12:00:00["kkk", "lml", "mmm", "nnn", "sss", "rrr", "ppp", "rpr", "bcc", "dcc", "bcc", "add", "hii", "hgh", "ihi", "fff"]
+Statistics:
+{"wspdm": {"std": 1.292566157969205, "max": 16.7, "min": 13.0, "mean": 14.654545454545456}, "tempm": {"std": 1.348399724926484, "max": 22.0, "min": 18.0, "mean": 19.727272727272727}}
+{"avgSpeed": {"std": 6.830876193082216, "max": 56, "min": 25, "mean": 32.30434782608695}, "vehicleCount": {"std": 1.6272142105317668, "max": 6, "min": 0, "mean": 2.5869565217391304}}
+Period: 2014-09-06 12:00:00 to 2014-09-06 16:00:00["kkk", "knk", "nnn", "nnn", "ppp", "qsq", "sss", "sqs", "acb", "bbd", "bbd", "ddc", "hgh", "hhi", "ggi", "hhg"]
+Statistics:
+{"wspdm": {"std": 2.2024779433422466, "max": 18.5, "min": 11.1, "mean": 14.30909090909091}, "tempm": {"std": 0.5045249791095129, "max": 23.0, "min": 22.0, "mean": 22.636363636363637}}
+{"avgSpeed": {"std": 11.092799980910614, "max": 61, "min": 19, "mean": 35.29545454545455}, "vehicleCount": {"std": 1.2069215465183794, "max": 5, "min": 0, "mean": 1.5909090909090908}}
+Period: 2014-09-06 16:00:00 to 2014-09-06 20:00:00["nnn", "nmn", "lll", "kkk", "sss", "sqs", "qqq", "qsq", "bdc", "dcc", "aab", "ddd", "hig", "hgh", "ghh", "ggf"]
+Statistics:
+{"wspdm": {"std": 2.4064307783331502, "max": 16.7, "min": 9.3, "mean": 12.790909090909087}, "tempm": {"std": 1.9211738835693901, "max": 23.0, "min": 18.0, "mean": 20.09090909090909}}
+{"avgSpeed": {"std": 10.827077346391055, "max": 61, "min": 26, "mean": 41.58695652173913}, "vehicleCount": {"std": 0.6908651720779811, "max": 3, "min": 0, "mean": 0.4782608695652174}}
+Period: 2014-09-06 20:00:00 to 2014-09-07 00:00:00["nnn", "nmn", "mmm", "mkm", "sss", "qsq", "sqs", "qpq", "ddc", "ccc", "ccd", "aaa", "hfi", "ffi", "ffi", "fff"]
+Statistics:
+{"wspdm": {"std": 1.871411717977051, "max": 16.7, "min": 11.1, "mean": 14.327272727272726}, "tempm": {"std": 0.6466697906828632, "max": 18.0, "min": 16.0, "mean": 17.272727272727273}}
+{"avgSpeed": {"std": 12.212421327169494, "max": 69, "min": 32, "mean": 45.70454545454545}, "vehicleCount": {"std": 0.5337449961641163, "max": 2, "min": 0, "mean": 0.25}}
+Period: 2014-09-07 00:00:00 to 2014-09-07 04:00:00["a", "a", "a", "a", "qrq", "rrr", "rsr", "ppp", "aaa", "aac", "ddd", "ddd", "fff", "ffi", "fff", "ffi"]
+Statistics:
+{"wspdm": {"std": 2.522805076605296, "max": 13.0, "min": 3.7, "mean": 9.936363636363636}, "tempm": {"std": 0.0, "max": 16.0, "min": 16.0, "mean": 16.0}}
+{"avgSpeed": {"std": 7.9515440727003845, "max": 48, "min": 32, "mean": 40.869565217391305}, "vehicleCount": {"std": 0.20618457094236223, "max": 1, "min": 0, "mean": 0.043478260869565216}}
+Period: 2014-09-07 04:00:00 to 2014-09-07 08:00:00["a", "a", "a", "a", "prp", "sss", "rrr", "rrr", "ccd", "daa", "bcc", "bbb", "ffg", "ggg", "gii", "igg"]
+Statistics:
+{"wspdm": {"std": 1.5302406227898813, "max": 7.4, "min": 1.9, "mean": 5.418181818181819}, "tempm": {"std": 0.0, "max": 16.0, "min": 16.0, "mean": 16.0}}
+{"avgSpeed": {"std": 9.37540625083402, "max": 61, "min": 32, "mean": 41.59574468085106}, "vehicleCount": {"std": 1.1869627905077538, "max": 5, "min": 0, "mean": 0.9361702127659575}}
+Period: 2014-09-07 08:00:00 to 2014-09-07 12:00:00["kkk", "kmk", "mnm", "nnn", "qqq", "qpq", "pqp", "sss", "cab", "bbd", "ddd", "cbd", "ihg", "fii", "iff", "igh"]
+Statistics:
+{"wspdm": {"std": 2.524822225965082, "max": 11.1, "min": 3.7, "mean": 6.254545454545454}, "tempm": {"std": 1.044465935734187, "max": 20.0, "min": 17.0, "mean": 18.09090909090909}}
+{"avgSpeed": {"std": 8.942678434593354, "max": 59, "min": 26, "mean": 36.369565217391305}, "vehicleCount": {"std": 1.4461342772460957, "max": 5, "min": 0, "mean": 1.673913043478261}}
+Period: 2014-09-07 12:00:00 to 2014-09-07 16:00:00["kkk", "nnn", "nnn", "nnn", "psp", "psp", "psp", "sss", "dcd", "cad", "ddb", "bdd", "hgi", "hgg", "iif", "fif"]
+Statistics:
+{"wspdm": {"std": 0.9081449623971238, "max": 7.4, "min": 5.6, "mean": 6.745454545454546}, "tempm": {"std": 0.5393598899705936, "max": 21.0, "min": 19.0, "mean": 19.90909090909091}}
+{"avgSpeed": {"std": 8.848138036672104, "max": 61, "min": 26, "mean": 39.59574468085106}, "vehicleCount": {"std": 1.1771805008344582, "max": 4, "min": 0, "mean": 1.5106382978723405}}
+Period: 2014-09-07 16:00:00 to 2014-09-07 20:00:00["nnn", "mmm", "mmm", "kkk", "sss", "srs", "prp", "psp", "ddc", "dca", "bcb", "bad", "gii", "ggf", "ggh", "hfg"]
+Statistics:
+{"wspdm": {"std": 1.8309957549228382, "max": 5.6, "min": 0.0, "mean": 4.0636363636363635}, "tempm": {"std": 0.7745966692414834, "max": 20.0, "min": 18.0, "mean": 19.0}}
+{"avgSpeed": {"std": 10.79422362399322, "max": 55, "min": 24, "mean": 40.53191489361702}, "vehicleCount": {"std": 0.8189476788217602, "max": 3, "min": 0, "mean": 0.6382978723404256}}
+Period: 2014-09-07 20:00:00 to 2014-09-08 00:00:00["nnn", "nnn", "lll", "lkl", "sss", "sss", "sss", "ppp", "aaa", "acd", "ddd", "ddc", "fff", "fif", "fff", "ffi"]
+Statistics:
+{"wspdm": {"std": 3.8283155564817277, "max": 14.8, "min": 1.9, "mean": 11.299999999999999}, "tempm": {"std": 0.9341987329938277, "max": 16.0, "min": 13.0, "mean": 14.545454545454545}}
+{"avgSpeed": {"std": 8.43339154926746, "max": 62, "min": 45, "mean": 54.75}, "vehicleCount": {"std": 0.2107070549414855, "max": 1, "min": 0, "mean": 0.045454545454545456}}
+Period: 2014-09-08 00:00:00 to 2014-09-08 04:00:00["nnn", "nnn", "nkn", "kkk", "psp", "prp", "rsr", "rsr", "ddd", "ddc", "dda", "baa", "fff", "fff", "hgh", "iii"]
+Statistics:
+{"wspdm": {"std": 1.5357556623843047, "max": 7.4, "min": 3.7, "mean": 5.736363636363635}, "tempm": {"std": 1.12006493318265, "max": 13.0, "min": 10.0, "mean": 11.363636363636363}}
+{"avgSpeed": {"std": 8.836928445326807, "max": 55, "min": 24, "mean": 43.32608695652174}, "vehicleCount": {"std": 1.8072585799711192, "max": 9, "min": 0, "mean": 0.9782608695652174}}
+Period: 2014-09-08 04:00:00 to 2014-09-08 08:00:00["mmm", "mkm", "kkk", "nnn", "sss", "sps", "qrq", "sss", "cba", "bdd", "ddd", "bcb", "iii", "iif", "ghg", "hhg"]
+Statistics:
+{"wspdm": {"std": 2.2059423877748525, "max": 5.6, "min": 0.0, "mean": 3.727272727272727}, "tempm": {"std": 1.300349603340998, "max": 14.0, "min": 10.0, "mean": 11.090909090909092}}
+{"avgSpeed": {"std": 5.586604060387333, "max": 52, "min": 24, "mean": 34.891304347826086}, "vehicleCount": {"std": 3.276692688648938, "max": 13, "min": 0, "mean": 5.413043478260869}}
+Period: 2014-09-08 08:00:00 to 2014-09-08 12:00:00["mmm", "nnn", "nmn", "mkm", "pqp", "sss", "qqq", "psp", "dba", "ccc", "bda", "cdd", "ihf", "fih", "ghi", "ghi"]
+Statistics:
+{"wspdm": {"std": 1.8714117179770509, "max": 13.0, "min": 7.4, "mean": 9.772727272727273}, "tempm": {"std": 0.674199862463242, "max": 16.0, "min": 14.0, "mean": 15.363636363636363}}
+{"avgSpeed": {"std": 4.9934276878718835, "max": 54, "min": 20, "mean": 31.97872340425532}, "vehicleCount": {"std": 2.903791900352889, "max": 13, "min": 0, "mean": 4.787234042553192}}
+Period: 2014-09-08 12:00:00 to 2014-09-08 16:00:00["kkk", "nnn", "lnl", "nln", "pqp", "rrr", "rqr", "sss", "baa", "ccd", "abd", "ddd", "iii", "iif", "ggf", "fgh"]
+Statistics:
+{"wspdm": {"std": 4.480482928516441, "max": 22.2, "min": 7.4, "mean": 13.154545454545454}, "tempm": {"std": 1.1281521496355325, "max": 17.0, "min": 14.0, "mean": 15.454545454545455}}
+{"avgSpeed": {"std": 6.207557090545155, "max": 52, "min": 20, "mean": 36.659574468085104}, "vehicleCount": {"std": 2.6591785089150495, "max": 13, "min": 0, "mean": 3.1914893617021276}}
+Period: 2014-09-08 16:00:00 to 2014-09-08 20:00:00["nnn", "nkn", "kkk", "kkk", "qsq", "prp", "sss", "psp", "cdb", "bdb", "bcd", "cdd", "hih", "hhg", "fff", "gii"]
+Statistics:
+{"wspdm": {"std": 3.08376982987323, "max": 24.1, "min": 16.7, "mean": 20.718181818181815}, "tempm": {"std": 0.6875516509523287, "max": 16.0, "min": 14.0, "mean": 14.454545454545455}}
+{"avgSpeed": {"std": 11.924833966344533, "max": 66, "min": 24, "mean": 40.191489361702125}, "vehicleCount": {"std": 1.055359433446744, "max": 4, "min": 0, "mean": 0.8723404255319149}}
+Period: 2014-09-08 20:00:00 to 2014-09-09 00:00:00["a", "a", "a", "a", "sps", "rrr", "srs", "rrr", "ddd", "aaa", "aaa", "aad", "ffi", "fff", "fff", "ffi"]
+Statistics:
+{"wspdm": {"std": 2.352059059246136, "max": 24.1, "min": 16.7, "mean": 19.027272727272727}, "tempm": {"std": 0.0, "max": 13.0, "min": 13.0, "mean": 13.0}}
+{"avgSpeed": {"std": 11.459153333556147, "max": 66, "min": 36, "mean": 41.707317073170735}, "vehicleCount": {"std": 0.21808478995509092, "max": 1, "min": 0, "mean": 0.04878048780487805}}
+Period: 2014-09-09 00:00:00 to 2014-09-09 04:00:00["a", "a", "a", "a", "sss", "srs", "prp", "ppp", "ccc", "ccc", "cdd", "dba", "fff", "fff", "fgf", "iii"]
+Statistics:
+{"wspdm": {"std": 3.2409314037227577, "max": 18.5, "min": 9.3, "mean": 13.98181818181818}, "tempm": {"std": 0.0, "max": 13.0, "min": 13.0, "mean": 13.0}}
+{"avgSpeed": {"std": 6.422166170099753, "max": 65, "min": 36, "mean": 49.87234042553192}, "vehicleCount": {"std": 1.7812882905633376, "max": 8, "min": 0, "mean": 0.851063829787234}}
+Period: 2014-09-09 04:00:00 to 2014-09-09 08:00:00["lll", "lll", "lll", "lnl", "srs", "ppp", "srs", "rsr", "daa", "ddd", "bdc", "dbd", "iii", "ihi", "ghg", "ffg"]
+Statistics:
+{"wspdm": {"std": 3.006447616827419, "max": 18.5, "min": 9.3, "mean": 13.654545454545454}, "tempm": {"std": 0.30151134457776363, "max": 14.0, "min": 13.0, "mean": 13.090909090909092}}
+{"avgSpeed": {"std": 7.971234516067441, "max": 57, "min": 19, "mean": 32.71739130434783}, "vehicleCount": {"std": 3.718929252165023, "max": 17, "min": 0, "mean": 5.760869565217392}}
+Period: 2014-09-09 08:00:00 to 2014-09-09 12:00:00["klk", "lll", "mnm", "nnn", "ppp", "rrr", "rsr", "sss", "dcd", "aab", "ccd", "dcd", "hhi", "fii", "ihg", "hgh"]
+Statistics:
+{"wspdm": {"std": 3.804948930489918, "max": 31.5, "min": 20.4, "mean": 26.41818181818182}, "tempm": {"std": 1.2210278829367864, "max": 18.0, "min": 14.0, "mean": 15.909090909090908}}
+{"avgSpeed": {"std": 7.821671074033943, "max": 55, "min": 21, "mean": 33.680851063829785}, "vehicleCount": {"std": 2.3995065789421535, "max": 11, "min": 1, "mean": 4.361702127659575}}
+Period: 2014-09-09 12:00:00 to 2014-09-09 16:00:00["a", "a", "a", "a", "psp", "rsr", "rrr", "rqr", "bdd", "ccb", "cbc", "bdd", "fii", "hii", "ghh", "fff"]
+Statistics:
+{"wspdm": {"std": 2.086841894085195, "max": 33.3, "min": 27.8, "mean": 31.309090909090912}, "tempm": {"std": 0.0, "max": 18.0, "min": 18.0, "mean": 18.0}}
+{"avgSpeed": {"std": 9.728079083981575, "max": 63, "min": 22, "mean": 37.87234042553192}, "vehicleCount": {"std": 2.1398816397192166, "max": 8, "min": 0, "mean": 2.8297872340425534}}
+Period: 2014-09-09 16:00:00 to 2014-09-09 20:00:00["nnn", "nnn", "nkn", "kkk", "rsr", "srs", "qqq", "qpq", "ccd", "dcd", "aac", "bcd", "ggh", "iih", "hgg", "ggg"]
+Statistics:
+{"wspdm": {"std": 2.7881893766385377, "max": 33.3, "min": 24.1, "mean": 27.6}, "tempm": {"std": 0.504524979109513, "max": 17.0, "min": 16.0, "mean": 16.636363636363637}}
+{"avgSpeed": {"std": 11.316462293516453, "max": 63, "min": 28, "mean": 45.06521739130435}, "vehicleCount": {"std": 0.7973385681569223, "max": 3, "min": 0, "mean": 0.8260869565217391}}
+Period: 2014-09-09 20:00:00 to 2014-09-10 00:00:00["nkn", "nnn", "nln", "lkl", "sps", "srs", "rpr", "ppp", "dda", "ccc", "ccc", "ccc", "iif", "ifi", "fff", "fff"]
+Statistics:
+{"wspdm": {"std": 7.1628361856336085, "max": 24.1, "min": 3.7, "mean": 11.319999999999999}, "tempm": {"std": 0.8432740427115678, "max": 16.0, "min": 13.0, "mean": 14.6}}
+{"avgSpeed": {"std": 5.492011937528108, "max": 65, "min": 45, "mean": 50.707317073170735}, "vehicleCount": {"std": 0.4417261042993859, "max": 2, "min": 0, "mean": 0.17073170731707318}}
+Period: 2014-09-10 00:00:00 to 2014-09-10 04:00:00["nnn", "nmn", "mmm", "mkm", "rrr", "prp", "sss", "sps", "ddd", "ddd", "dca", "aaa", "ffg", "fff", "ggi", "iii"]
+Statistics:
+{"wspdm": {"std": 2.2478272337364524, "max": 13.0, "min": 5.6, "mean": 9.454545454545451}, "tempm": {"std": 0.6466697906828632, "max": 12.0, "min": 10.0, "mean": 11.272727272727273}}
+{"avgSpeed": {"std": 4.385527361851239, "max": 51, "min": 35, "mean": 46.47826086956522}, "vehicleCount": {"std": 1.7507762253652943, "max": 9, "min": 0, "mean": 0.8478260869565217}}
+Period: 2014-09-10 04:00:00 to 2014-09-10 08:00:00["kkk", "kkk", "kmk", "nnn", "qsq", "qqq", "sps", "sss", "dda", "dcd", "ddb", "abd", "iii", "ffg", "hih", "ggg"]
+Statistics:
+{"wspdm": {"std": 1.9293899177059712, "max": 13.0, "min": 5.6, "mean": 8.263636363636364}, "tempm": {"std": 1.1037127426019047, "max": 13.0, "min": 10.0, "mean": 10.727272727272727}}
+{"avgSpeed": {"std": 6.465852331812998, "max": 48, "min": 22, "mean": 34.28260869565217}, "vehicleCount": {"std": 3.6411496830661534, "max": 15, "min": 0, "mean": 5.173913043478261}}
+Period: 2014-09-10 08:00:00 to 2014-09-10 12:00:00["kkk", "lml", "nnn", "nnn", "ppp", "qsq", "sss", "sss", "bcc", "bdb", "bbc", "ddd", "fii", "fgh", "hii", "igg"]
+Statistics:
+{"wspdm": {"std": 2.8851343122981294, "max": 18.5, "min": 9.3, "mean": 16.0}, "tempm": {"std": 1.4459976109624424, "max": 18.0, "min": 14.0, "mean": 16.09090909090909}}
+{"avgSpeed": {"std": 4.984991350083471, "max": 45, "min": 25, "mean": 31.617021276595743}, "vehicleCount": {"std": 2.7243038812461435, "max": 12, "min": 1, "mean": 5.276595744680851}}
+Period: 2014-09-10 12:00:00 to 2014-09-10 16:00:00["a", "a", "a", "a", "pqp", "sss", "sqs", "sss", "bbb", "cbb", "dcd", "bdc", "gih", "iih", "hig", "fff"]
+Statistics:
+{"wspdm": {"std": 1.2853722488764943, "max": 20.4, "min": 16.7, "mean": 19.372727272727275}, "tempm": {"std": 0.0, "max": 18.0, "min": 18.0, "mean": 18.0}}
+{"avgSpeed": {"std": 8.618011386568217, "max": 57, "min": 20, "mean": 35.234042553191486}, "vehicleCount": {"std": 2.200832404965359, "max": 8, "min": 0, "mean": 3.0638297872340425}}
+Period: 2014-09-10 16:00:00 to 2014-09-10 20:00:00["nnn", "mmm", "mkm", "kkk", "sss", "srs", "rrr", "prp", "adb", "cdd", "acb", "dcc", "hii", "fhh", "hig", "fff"]
+Statistics:
+{"wspdm": {"std": 2.066529809740342, "max": 20.4, "min": 13.0, "mean": 17.36363636363636}, "tempm": {"std": 0.8312094145936334, "max": 18.0, "min": 16.0, "mean": 16.90909090909091}}
+{"avgSpeed": {"std": 11.635759927521237, "max": 75, "min": 34, "mean": 47.86666666666667}, "vehicleCount": {"std": 1.0065442430073872, "max": 3, "min": 0, "mean": 0.8222222222222222}}
+Period: 2014-09-10 20:00:00 to 2014-09-11 00:00:00["nln", "nln", "lll", "lll", "sss", "sps", "prp", "srs", "bdd", "ddd", "ddb", "aaa", "ifi", "fff", "fff", "fff"]
+Statistics:
+{"wspdm": {"std": 2.1565966453903918, "max": 13.0, "min": 5.6, "mean": 9.609090909090908}, "tempm": {"std": 0.4045199174779452, "max": 16.0, "min": 15.0, "mean": 15.181818181818182}}
+{"avgSpeed": {"std": 4.203173404306164, "max": 47, "min": 36, "mean": 43.0}, "vehicleCount": {"std": 0.2577696311132338, "max": 1, "min": 0, "mean": 0.06976744186046512}}
+Period: 2014-09-11 00:00:00 to 2014-09-11 04:00:00["nnn", "nnn", "kkk", "kkk", "rsr", "sss", "ppp", "prp", "ccc", "ccc", "cdd", "dcc", "fff", "fff", "ffi", "hii"]
+Statistics:
+{"wspdm": {"std": 2.718254787710139, "max": 14.8, "min": 5.6, "mean": 9.609090909090911}, "tempm": {"std": 0.5222329678670935, "max": 15.0, "min": 14.0, "mean": 14.545454545454545}}
+{"avgSpeed": {"std": 8.1117199162693, "max": 72, "min": 29, "mean": 38.2}, "vehicleCount": {"std": 2.0884482664447694, "max": 9, "min": 0, "mean": 1.1555555555555554}}
+Period: 2014-09-11 04:00:00 to 2014-09-11 08:00:00["lll", "lll", "lll", "nnn", "rrr", "rpr", "ppp", "sss", "dca", "abc", "ddd", "dcd", "iii", "iig", "gif", "gfg"]
+Statistics:
+{"wspdm": {"std": 1.7598037080620925, "max": 13.0, "min": 7.4, "mean": 9.10909090909091}, "tempm": {"std": 0.6466697906828632, "max": 16.0, "min": 14.0, "mean": 14.272727272727273}}
+{"avgSpeed": {"std": 6.796134166827974, "max": 51, "min": 18, "mean": 33.34782608695652}, "vehicleCount": {"std": 3.2177797128133614, "max": 14, "min": 2, "mean": 6.1521739130434785}}
+Period: 2014-09-11 08:00:00 to 2014-09-11 12:00:00["kkk", "mmm", "mmm", "nnn", "prp", "rsr", "rrr", "psp", "cdc", "ddb", "bcd", "bdc", "igh", "ghi", "ihi", "gih"]
+Statistics:
+{"wspdm": {"std": 1.7540602249430528, "max": 16.7, "min": 11.1, "mean": 14.654545454545454}, "tempm": {"std": 0.8944271909999159, "max": 19.0, "min": 16.0, "mean": 17.0}}
+{"avgSpeed": {"std": 8.537536815951128, "max": 60, "min": 21, "mean": 35.25}, "vehicleCount": {"std": 2.3896358316768325, "max": 9, "min": 0, "mean": 4.318181818181818}}
+Period: 2014-09-11 12:00:00 to 2014-09-11 16:00:00["nkn", "kkk", "knk", "nnn", "rsr", "sss", "sqs", "pqp", "cdd", "bcd", "ccc", "bac", "ihh", "ifh", "ghf", "hgh"]
+Statistics:
+{"wspdm": {"std": 2.0358156730277557, "max": 16.7, "min": 11.1, "mean": 14.836363636363638}, "tempm": {"std": 0.504524979109513, "max": 19.0, "min": 18.0, "mean": 18.363636363636363}}
+{"avgSpeed": {"std": 6.465553467609102, "max": 52, "min": 23, "mean": 37.58695652173913}, "vehicleCount": {"std": 1.9177533151523367, "max": 8, "min": 0, "mean": 3.5}}
+Period: 2014-09-11 16:00:00 to 2014-09-11 20:00:00["nnn", "nnn", "nmn", "kkk", "sss", "sss", "rpr", "pqp", "aad", "aac", "cad", "ddc", "hig", "gig", "igi", "ghg"]
+Statistics:
+{"wspdm": {"std": 3.1439986120746415, "max": 11.1, "min": 1.9, "mean": 7.254545454545454}, "tempm": {"std": 1.433368568981982, "max": 19.0, "min": 15.0, "mean": 17.636363636363637}}
+{"avgSpeed": {"std": 13.427711002129394, "max": 62, "min": 24, "mean": 37.851063829787236}, "vehicleCount": {"std": 1.102515834619811, "max": 5, "min": 0, "mean": 0.9574468085106383}}
+Period: 2014-09-11 20:00:00 to 2014-09-12 00:00:00["nnn", "nln", "lll", "lkl", "sps", "rrr", "rsr", "rrr", "aaa", "aaa", "ddd", "ddd", "fff", "fff", "iif", "fff"]
+Statistics:
+{"wspdm": {"std": 1.6715806346634368, "max": 7.4, "min": 1.9, "mean": 4.2272727272727275}, "tempm": {"std": 1.348399724926484, "max": 14.0, "min": 10.0, "mean": 11.727272727272727}}
+{"avgSpeed": {"std": 9.407217047282366, "max": 50, "min": 30, "mean": 38.13157894736842}, "vehicleCount": {"std": 0.3110117477759048, "max": 1, "min": 0, "mean": 0.10526315789473684}}
+Period: 2014-09-12 00:00:00 to 2014-09-12 04:00:00["nkn", "nnn", "nnn", "nnn", "prp", "rqr", "srs", "rqr", "ddd", "ddb", "dbb", "dba", "fff", "fgf", "fgi", "ihi"]
+Statistics:
+{"wspdm": {"std": 1.7386515150854962, "max": 7.4, "min": 1.9, "mean": 5.409090909090909}, "tempm": {"std": 0.30151134457776374, "max": 10.0, "min": 9.0, "mean": 9.909090909090908}}
+{"avgSpeed": {"std": 5.972585361342279, "max": 60, "min": 38, "mean": 48.15909090909091}, "vehicleCount": {"std": 1.627589821113665, "max": 6, "min": 0, "mean": 0.9545454545454546}}
+Period: 2014-09-12 04:00:00 to 2014-09-12 08:00:00["kkk", "kkk", "nnn", "nnn", "sqs", "sss", "sps", "qsq", "ddd", "bbc", "abd", "dcc", "iii", "iig", "gfg", "ggg"]
+Statistics:
+{"wspdm": {"std": 1.5220201886129678, "max": 7.4, "min": 1.9, "mean": 4.736363636363636}, "tempm": {"std": 0.6875516509523286, "max": 12.0, "min": 10.0, "mean": 10.545454545454545}}
+{"avgSpeed": {"std": 4.973286641497892, "max": 42, "min": 22, "mean": 33.51063829787234}, "vehicleCount": {"std": 3.4911014141931367, "max": 17, "min": 0, "mean": 5.170212765957447}}
+Period: 2014-09-12 08:00:00 to 2014-09-12 12:00:00["kkk", "lml", "nnn", "nnn", "ppp", "qqq", "sqs", "sss", "dbd", "bdb", "cdb", "ccc", "hih", "fig", "gii", "hhh"]
+Statistics:
+{"wspdm": {"std": 1.6199326585330083, "max": 9.3, "min": 5.6, "mean": 7.772727272727272}, "tempm": {"std": 2.1616492020508953, "max": 20.0, "min": 14.0, "mean": 17.454545454545453}}
+{"avgSpeed": {"std": 8.404424039417774, "max": 66, "min": 28, "mean": 37.15555555555556}, "vehicleCount": {"std": 2.3316010886006286, "max": 9, "min": 0, "mean": 3.2}}
+Period: 2014-09-12 12:00:00 to 2014-09-12 16:00:00["lll", "lll", "lll", "nln", "prp", "rsr", "rrr", "rsr", "bbb", "cdb", "dcc", "cba", "iih", "hii", "ffg", "fhh"]
+Statistics:
+{"wspdm": {"std": 1.5302406227898813, "max": 14.8, "min": 9.3, "mean": 11.28181818181818}, "tempm": {"std": 0.30151134457776363, "max": 21.0, "min": 20.0, "mean": 20.09090909090909}}
+{"avgSpeed": {"std": 7.799054591759984, "max": 56, "min": 23, "mean": 37.355555555555554}, "vehicleCount": {"std": 1.971258122585316, "max": 8, "min": 0, "mean": 2.577777777777778}}
+Period: 2014-09-12 16:00:00 to 2014-09-12 20:00:00["nnn", "nnn", "nmn", "kkk", "sss", "srs", "qqq", "ppp", "cdc", "abd", "dbb", "aca", "iii", "hfg", "fig", "fhg"]
+Statistics:
+{"wspdm": {"std": 4.668365491650838, "max": 14.8, "min": 0.0, "mean": 7.081818181818182}, "tempm": {"std": 1.433368568981982, "max": 19.0, "min": 15.0, "mean": 17.636363636363637}}
+{"avgSpeed": {"std": 23.234270230229164, "max": 94, "min": 25, "mean": 48.62222222222222}, "vehicleCount": {"std": 0.9806202943118005, "max": 3, "min": 0, "mean": 0.7555555555555555}}
+Period: 2014-09-12 20:00:00 to 2014-09-13 00:00:00["nnn", "nkn", "kkk", "kkk", "prp", "prp", "rrr", "rsr", "cdc", "aad", "cca", "ddd", "hih", "fih", "ifh", "iff"]
+Statistics:
+{"wspdm": {"std": 1.1703146430068985, "max": 7.4, "min": 3.7, "mean": 5.581818181818182}, "tempm": {"std": 0.8201995322647246, "max": 13.0, "min": 11.0, "mean": 11.545454545454545}}
+{"avgSpeed": {"std": 10.468275174715538, "max": 53, "min": 25, "mean": 39.30952380952381}, "vehicleCount": {"std": 0.6647766472346018, "max": 2, "min": 0, "mean": 0.40476190476190477}}
+Period: 2014-09-13 00:00:00 to 2014-09-13 04:00:00["knk", "nnn", "knk", "nnn", "sqs", "sss", "sqs", "qsq", "baa", "aaa", "abc", "cdd", "iff", "ffi", "fif", "fff"]
+Statistics:
+{"wspdm": {"std": 1.9890152885741776, "max": 7.4, "min": 1.9, "mean": 5.2272727272727275}, "tempm": {"std": 0.504524979109513, "max": 13.0, "min": 12.0, "mean": 12.636363636363637}}
+{"avgSpeed": {"std": 3.963469554454899, "max": 61, "min": 47, "mean": 48.86666666666667}, "vehicleCount": {"std": 0.3178208630818642, "max": 1, "min": 0, "mean": 0.1111111111111111}}
+Period: 2014-09-13 04:00:00 to 2014-09-13 08:00:00["nln", "lkl", "lll", "nnn", "rrr", "sps", "rpr", "ppp", "ddd", "ccd", "aad", "cab", "fgf", "fgi", "ggh", "gii"]
+Statistics:
+{"wspdm": {"std": 1.536861882032489, "max": 5.6, "min": 1.9, "mean": 3.3222222222222215}, "tempm": {"std": 1.0137937550497031, "max": 15.0, "min": 12.0, "mean": 12.555555555555555}}
+{"avgSpeed": {"std": 11.559442960372984, "max": 63, "min": 27, "mean": 46.340425531914896}, "vehicleCount": {"std": 1.6053794857437893, "max": 5, "min": 0, "mean": 1.3404255319148937}}
+Period: 2014-09-13 08:00:00 to 2014-09-13 12:00:00["kkk", "mnm", "mmm", "mmm", "pqp", "rsr", "rsr", "srs", "dcc", "bac", "bdd", "dcb", "hii", "hig", "hii", "gfg"]
+Statistics:
+{"wspdm": {"std": 2.7318325517697986, "max": 16.7, "min": 7.4, "mean": 14.490909090909092}, "tempm": {"std": 0.8312094145936334, "max": 19.0, "min": 16.0, "mean": 17.90909090909091}}
+{"avgSpeed": {"std": 7.170772726743779, "max": 56, "min": 20, "mean": 33.59574468085106}, "vehicleCount": {"std": 1.6165769388046243, "max": 6, "min": 0, "mean": 2.6808510638297873}}
+Period: 2014-09-13 12:00:00 to 2014-09-13 16:00:00["nnn", "nnn", "lkl", "lll", "pqp", "qsq", "sqs", "qqq", "ccd", "bbd", "cda", "cad", "hig", "hhg", "iif", "ggg"]
+Statistics:
+{"wspdm": {"std": 2.4831797796740003, "max": 22.2, "min": 14.8, "mean": 18.027272727272724}, "tempm": {"std": 0.6875516509523287, "max": 19.0, "min": 17.0, "mean": 18.454545454545453}}
+{"avgSpeed": {"std": 6.723813042890826, "max": 56, "min": 24, "mean": 34.65217391304348}, "vehicleCount": {"std": 1.2357399160408387, "max": 5, "min": 0, "mean": 1.6304347826086956}}
+Period: 2014-09-13 16:00:00 to 2014-09-13 20:00:00["nnn", "nkn", "kkk", "kkk", "srs", "srs", "rpr", "ppp", "cdd", "bbc", "cdc", "dac", "gfh", "ihh", "hgg", "fgi"]
+Statistics:
+{"wspdm": {"std": 3.2814076801940293, "max": 18.5, "min": 9.3, "mean": 13.318181818181818}, "tempm": {"std": 0.5045249791095129, "max": 18.0, "min": 17.0, "mean": 17.363636363636363}}
+{"avgSpeed": {"std": 9.87675997465258, "max": 66, "min": 28, "mean": 43.2093023255814}, "vehicleCount": {"std": 0.9240241328053312, "max": 4, "min": 0, "mean": 0.8372093023255814}}
+Period: 2014-09-13 20:00:00 to 2014-09-14 00:00:00["a", "a", "a", "a", "rsr", "qpq", "rrr", "rsr", "daa", "aaa", "aac", "ddd", "iff", "fif", "ffi", "iff"]
+Statistics:
+{"wspdm": {"std": 1.9831105044165522, "max": 11.1, "min": 5.6, "mean": 8.945454545454545}, "tempm": {"std": 0.0, "max": 16.0, "min": 16.0, "mean": 16.0}}
+{"avgSpeed": {"std": 10.394915274589374, "max": 54, "min": 28, "mean": 35.395348837209305}, "vehicleCount": {"std": 0.5002767783217781, "max": 2, "min": 0, "mean": 0.18604651162790697}}
+Period: 2014-09-14 00:00:00 to 2014-09-14 04:00:00["nnn", "nkn", "nnn", "nnn", "psp", "srs", "rrr", "srs", "aaa", "ddd", "ddd", "ccc", "ffi", "fff", "fff", "iff"]
+Statistics:
+{"wspdm": {"std": 1.4535849101132998, "max": 16.7, "min": 11.1, "mean": 13.490909090909092}, "tempm": {"std": 0.4045199174779452, "max": 16.0, "min": 15.0, "mean": 15.818181818181818}}
+{"avgSpeed": {"std": 6.2081823619480385, "max": 63, "min": 42, "mean": 58.48837209302326}, "vehicleCount": {"std": 0.29390259873217894, "max": 1, "min": 0, "mean": 0.09302325581395349}}
+Period: 2014-09-14 04:00:00 to 2014-09-14 08:00:00["nkn", "kkk", "kkk", "nnn", "pqp", "qqq", "qsq", "sss", "cac", "cdd", "ddd", "abb", "gfi", "hgf", "gif", "ihi"]
+Statistics:
+{"wspdm": {"std": 2.7915131120138867, "max": 24.1, "min": 14.8, "mean": 19.36363636363636}, "tempm": {"std": 0.46709936649691375, "max": 16.0, "min": 15.0, "mean": 15.272727272727273}}
+{"avgSpeed": {"std": 13.929151303602364, "max": 70, "min": 32, "mean": 50.391304347826086}, "vehicleCount": {"std": 1.2980848025415646, "max": 4, "min": 0, "mean": 1.2173913043478262}}
+Period: 2014-09-14 08:00:00 to 2014-09-14 12:00:00["lll", "lll", "lll", "nnn", "sss", "psp", "qpq", "qpq", "cdd", "bca", "dcb", "cdb", "ihg", "iii", "hgg", "ggf"]
+Statistics:
+{"wspdm": {"std": 1.619932658533009, "max": 24.1, "min": 20.4, "mean": 22.57272727272727}, "tempm": {"std": 0.40451991747794525, "max": 17.0, "min": 16.0, "mean": 16.181818181818183}}
+{"avgSpeed": {"std": 7.08120598915676, "max": 63, "min": 27, "mean": 34.891304347826086}, "vehicleCount": {"std": 1.2689148622095308, "max": 5, "min": 0, "mean": 2.108695652173913}}
+Period: 2014-09-14 12:00:00 to 2014-09-14 16:00:00["kkk", "kkk", "nnn", "nnn", "qqq", "qqq", "sps", "qsq", "dab", "aad", "dad", "cdd", "gii", "iih", "gfg", "ffg"]
+Statistics:
+{"wspdm": {"std": 1.6756002994856394, "max": 24.1, "min": 18.5, "mean": 20.88181818181818}, "tempm": {"std": 0.5222329678670935, "max": 18.0, "min": 17.0, "mean": 17.454545454545453}}
+{"avgSpeed": {"std": 11.108954361013188, "max": 67, "min": 30, "mean": 45.86206896551724}, "vehicleCount": {"std": 2.3315146559979, "max": 9, "min": 0, "mean": 2.689655172413793}}
+Period: 2014-09-14 16:00:00 to 2014-09-14 20:00:00["nnn", "nkn", "kkk", "kkk", "srs", "rrr", "rpr", "ppp", "ada", "dcb", "ddb", "bcc", "gii", "ihh", "fgg", "gff"]
+Statistics:
+{"wspdm": {"std": 1.6209985699057126, "max": 24.1, "min": 18.5, "mean": 21.88181818181818}, "tempm": {"std": 0.4670993664969138, "max": 19.0, "min": 18.0, "mean": 18.272727272727273}}
+{"avgSpeed": {"std": 8.022071003700097, "max": 62, "min": 30, "mean": 43.95652173913044}, "vehicleCount": {"std": 0.685600692224522, "max": 2, "min": 0, "mean": 0.5869565217391305}}
+Period: 2014-09-14 20:00:00 to 2014-09-15 00:00:00["nnn", "knk", "kkk", "kkk", "qsq", "pqp", "sss", "qpq", "bdd", "dcc", "ccc", "ccc", "iif", "fif", "fff", "fff"]
+Statistics:
+{"wspdm": {"std": 1.3951865303770168, "max": 24.1, "min": 20.4, "mean": 22.56363636363636}, "tempm": {"std": 0.5222329678670934, "max": 18.0, "min": 17.0, "mean": 17.454545454545453}}
+{"avgSpeed": {"std": 6.435538953045163, "max": 62, "min": 41, "mean": 52.355555555555554}, "vehicleCount": {"std": 0.2522624895547563, "max": 1, "min": 0, "mean": 0.06666666666666667}}
+Period: 2014-09-15 00:00:00 to 2014-09-15 04:00:00["a", "a", "a", "a", "rrr", "ppp", "srs", "rpr", "ddb", "bbc", "dac", "ccd", "fgf", "fff", "fhi", "hii"]
+Statistics:
+{"wspdm": {"std": 1.5401298646542763, "max": 22.2, "min": 18.5, "mean": 20.2}, "tempm": {"std": 0.0, "max": 16.0, "min": 16.0, "mean": 16.0}}
+{"avgSpeed": {"std": 5.64698200786061, "max": 55, "min": 28, "mean": 42.97826086956522}, "vehicleCount": {"std": 1.6895530095207656, "max": 8, "min": 0, "mean": 1.108695652173913}}
+Period: 2014-09-15 04:00:00 to 2014-09-15 08:00:00["nnn", "nkn", "kkk", "nnn", "psp", "sss", "sss", "psp", "ddb", "abd", "ddb", "bcb", "iii", "iif", "gih", "fgi"]
+Statistics:
+{"wspdm": {"std": 1.1263779439989365, "max": 22.2, "min": 18.5, "mean": 20.045454545454547}, "tempm": {"std": 0.504524979109513, "max": 16.0, "min": 15.0, "mean": 15.636363636363637}}
+{"avgSpeed": {"std": 6.209895484818335, "max": 47, "min": 20, "mean": 35.28260869565217}, "vehicleCount": {"std": 3.680277767294806, "max": 14, "min": 0, "mean": 7.5}}
+Period: 2014-09-15 08:00:00 to 2014-09-15 12:00:00["lll", "lll", "lll", "lnl", "pqp", "sqs", "sps", "sss", "bdd", "dcb", "cbc", "dbb", "hgh", "gig", "ihi", "ggi"]
+Statistics:
+{"wspdm": {"std": 1.9101166075780445, "max": 25.9, "min": 20.4, "mean": 23.236363636363635}, "tempm": {"std": 0.30151134457776363, "max": 17.0, "min": 16.0, "mean": 16.09090909090909}}
+{"avgSpeed": {"std": 8.532085602966909, "max": 57, "min": 29, "mean": 39.170212765957444}, "vehicleCount": {"std": 1.8697158040165047, "max": 8, "min": 0, "mean": 4.0638297872340425}}
+Period: 2014-09-15 12:00:00 to 2014-09-15 16:00:00["klk", "lnl", "nnn", "nnn", "sss", "srs", "sps", "ppp", "ccc", "bcd", "bbc", "bdd", "fih", "iii", "hgi", "hff"]
+Statistics:
+{"wspdm": {"std": 2.6093189637423513, "max": 29.6, "min": 20.4, "mean": 24.06363636363636}, "tempm": {"std": 0.6875516509523286, "max": 19.0, "min": 17.0, "mean": 18.545454545454547}}
+{"avgSpeed": {"std": 10.463628030629112, "max": 69, "min": 22, "mean": 37.234042553191486}, "vehicleCount": {"std": 1.8798311180468918, "max": 7, "min": 0, "mean": 2.6595744680851063}}
+Period: 2014-09-15 16:00:00 to 2014-09-15 20:00:00["nnn", "nnn", "nkn", "kkk", "sss", "sps", "pqp", "qsq", "cab", "bdd", "bdd", "cac", "igf", "fhh", "gih", "iff"]
+Statistics:
+{"wspdm": {"std": 2.779731837949317, "max": 20.4, "min": 13.0, "mean": 16.00909090909091}, "tempm": {"std": 0.7507571935295484, "max": 19.0, "min": 17.0, "mean": 17.818181818181817}}
+{"avgSpeed": {"std": 9.746174772971905, "max": 57, "min": 23, "mean": 38.108695652173914}, "vehicleCount": {"std": 0.8328984372438725, "max": 3, "min": 0, "mean": 0.8695652173913043}}
+Period: 2014-09-15 20:00:00 to 2014-09-16 00:00:00["nnn", "nnn", "mmm", "mkm", "psp", "ppp", "rsr", "rrr", "bbb", "bbd", "ddd", "ddd", "fif", "ffi", "fff", "fff"]
+Statistics:
+{"wspdm": {"std": 1.9402436585505063, "max": 20.4, "min": 14.8, "mean": 16.836363636363632}, "tempm": {"std": 0.674199862463242, "max": 17.0, "min": 15.0, "mean": 16.363636363636363}}
+{"avgSpeed": {"std": 7.818115091762198, "max": 65, "min": 43, "mean": 57.86046511627907}, "vehicleCount": {"std": 0.2577696311132337, "max": 1, "min": 0, "mean": 0.06976744186046512}}
+Period: 2014-09-16 00:00:00 to 2014-09-16 04:00:00["nnn", "nkn", "kkk", "kkk", "rrr", "psp", "sss", "ppp", "ddd", "ccd", "dab", "bab", "fff", "ffh", "fih", "gii"]
+Statistics:
+{"wspdm": {"std": 1.7472575914584234, "max": 16.7, "min": 13.0, "mean": 15.009090909090908}, "tempm": {"std": 0.5045249791095129, "max": 15.0, "min": 14.0, "mean": 14.363636363636363}}
+{"avgSpeed": {"std": 14.115880927419187, "max": 75, "min": 27, "mean": 51.787234042553195}, "vehicleCount": {"std": 1.892826909553067, "max": 9, "min": 0, "mean": 1.0638297872340425}}
+Period: 2014-09-16 04:00:00 to 2014-09-16 08:00:00["lll", "lll", "lll", "lnl", "pqp", "sss", "qsq", "sss", "dba", "dcc", "ddb", "bbb", "hii", "ihh", "gff", "ghi"]
+Statistics:
+{"wspdm": {"std": 1.7093858546273273, "max": 18.5, "min": 13.0, "mean": 16.0}, "tempm": {"std": 0.30151134457776363, "max": 15.0, "min": 14.0, "mean": 14.090909090909092}}
+{"avgSpeed": {"std": 7.440793130115927, "max": 51, "min": 18, "mean": 34.06382978723404}, "vehicleCount": {"std": 4.402820557570416, "max": 22, "min": 1, "mean": 6.468085106382978}}
+Period: 2014-09-16 08:00:00 to 2014-09-16 12:00:00["kkk", "lll", "nnn", "nnn", "rsr", "rrr", "rpr", "ppp", "abb", "cdd", "abd", "dcd", "ghg", "gih", "igi", "fii"]
+Statistics:
+{"wspdm": {"std": 1.183907244523981, "max": 24.1, "min": 20.4, "mean": 21.71818181818182}, "tempm": {"std": 0.9244162777371753, "max": 18.0, "min": 15.0, "mean": 16.363636363636363}}
+{"avgSpeed": {"std": 5.754225500544023, "max": 62, "min": 25, "mean": 33.0}, "vehicleCount": {"std": 2.851222299126081, "max": 13, "min": 0, "mean": 3.782608695652174}}
+Period: 2014-09-16 12:00:00 to 2014-09-16 16:00:00["kkk", "knk", "nnn", "nnn", "qsq", "sqs", "qsq", "sqs", "dca", "abb", "ddc", "cdc", "igi", "hii", "ihg", "fgg"]
+Statistics:
+{"wspdm": {"std": 1.5131544414356273, "max": 24.1, "min": 18.5, "mean": 21.21818181818182}, "tempm": {"std": 0.5045249791095129, "max": 19.0, "min": 18.0, "mean": 18.636363636363637}}
+{"avgSpeed": {"std": 8.310854665610238, "max": 59, "min": 18, "mean": 33.87234042553192}, "vehicleCount": {"std": 2.189242896262178, "max": 9, "min": 0, "mean": 3.106382978723404}}
+Period: 2014-09-16 16:00:00 to 2014-09-16 20:00:00["nnn", "nnn", "lll", "lkl", "sss", "rsr", "rqr", "ppp", "bca", "cbd", "add", "ddd", "gff", "iih", "hif", "hif"]
+Statistics:
+{"wspdm": {"std": 3.3521499207089605, "max": 22.2, "min": 11.1, "mean": 16.509090909090908}, "tempm": {"std": 1.009049958219026, "max": 19.0, "min": 16.0, "mean": 17.727272727272727}}
+{"avgSpeed": {"std": 11.09829099027043, "max": 63, "min": 25, "mean": 42.04255319148936}, "vehicleCount": {"std": 1.0826185407233027, "max": 3, "min": 0, "mean": 1.0425531914893618}}
+Period: 2014-09-16 20:00:00 to 2014-09-17 00:00:00["nnn", "nnn", "kkk", "kkk", "pqp", "sss", "qsq", "sqs", "ddd", "cca", "aaa", "aaa", "ifi", "ffi", "fff", "fff"]
+Statistics:
+{"wspdm": {"std": 1.6756002994856392, "max": 16.7, "min": 11.1, "mean": 14.31818181818182}, "tempm": {"std": 0.5222329678670935, "max": 16.0, "min": 15.0, "mean": 15.545454545454545}}
+{"avgSpeed": {"std": 11.35850691959593, "max": 80, "min": 49, "mean": 55.357142857142854}, "vehicleCount": {"std": 0.4173919355648409, "max": 2, "min": 0, "mean": 0.14285714285714285}}
+Period: 2014-09-17 00:00:00 to 2014-09-17 04:00:00["a", "a", "a", "a", "rrr", "sss", "qpq", "rrr", "ddd", "ddb", "bad", "aac", "fff", "fgf", "fgi", "fii"]
+Statistics:
+{"wspdm": {"std": 1.8601563961618435, "max": 13.0, "min": 7.4, "mean": 11.127272727272727}, "tempm": {"std": 0.0, "max": 14.0, "min": 14.0, "mean": 14.0}}
+{"avgSpeed": {"std": 7.687405753278615, "max": 60, "min": 23, "mean": 43.765957446808514}, "vehicleCount": {"std": 2.244120697696079, "max": 10, "min": 0, "mean": 1.0851063829787233}}
+Period: 2014-09-17 04:00:00 to 2014-09-17 08:00:00["nkn", "kkk", "knk", "nnn", "qqq", "qpq", "qsq", "sss", "dbc", "cdd", "cda", "bdc", "hhi", "iih", "ggg", "fhi"]
+Statistics:
+{"wspdm": {"std": 3.734702130023223, "max": 20.4, "min": 7.4, "mean": 12.299999999999999}, "tempm": {"std": 0.6875516509523286, "max": 15.0, "min": 13.0, "mean": 13.545454545454545}}
+{"avgSpeed": {"std": 6.066849305820729, "max": 56, "min": 27, "mean": 38.61702127659574}, "vehicleCount": {"std": 3.680963353775869, "max": 16, "min": 0, "mean": 5.808510638297872}}
+Period: 2014-09-17 08:00:00 to 2014-09-17 12:00:00["kkk", "knk", "nnn", "nnn", "pqp", "sss", "qqq", "sss", "aab", "aaa", "cda", "ccd", "ffi", "fff", "ihh", "ghi"]
+Statistics:
+{"wspdm": {"std": 1.7093858546273273, "max": 22.2, "min": 16.7, "mean": 19.7}, "tempm": {"std": 0.6466697906828632, "max": 16.0, "min": 14.0, "mean": 14.727272727272727}}
+{"avgSpeed": {"std": 4.723575903081192, "max": 42, "min": 24, "mean": 32.357142857142854}, "vehicleCount": {"std": 2.153807997220014, "max": 8, "min": 0, "mean": 3.25}}
+Period: 2014-09-17 12:00:00 to 2014-09-17 16:00:00["kkk", "mmm", "nnn", "nnn", "sss", "sqs", "sqs", "ppp", "bbd", "cdc", "dbd", "bdc", "gig", "iii", "gfi", "gff"]
+Statistics:
+{"wspdm": {"std": 1.9258475767539045, "max": 20.4, "min": 14.8, "mean": 18.9}, "tempm": {"std": 1.0327955589886446, "max": 19.0, "min": 16.0, "mean": 17.2}}
+{"avgSpeed": {"std": 7.060659598688187, "max": 67, "min": 21, "mean": 35.87234042553192}, "vehicleCount": {"std": 2.0720152010843242, "max": 8, "min": 0, "mean": 2.574468085106383}}
+Period: 2014-09-17 16:00:00 to 2014-09-17 20:00:00["nnn", "nmn", "mlm", "kkk", "sss", "sss", "ppp", "pqp", "dab", "bdb", "ccd", "cac", "hii", "ggi", "ffh", "ifi"]
+Statistics:
+{"wspdm": {"std": 3.7383029693845162, "max": 14.8, "min": 3.7, "mean": 9.109090909090908}, "tempm": {"std": 1.1677484162422844, "max": 18.0, "min": 15.0, "mean": 16.818181818181817}}
+{"avgSpeed": {"std": 10.707691378380998, "max": 65, "min": 21, "mean": 39.891891891891895}, "vehicleCount": {"std": 0.7652356405615107, "max": 2, "min": 0, "mean": 0.5675675675675675}}
+Period: 2014-09-17 20:00:00 to 2014-09-18 00:00:00["nnn", "nnn", "nnn", "kkk", "ppp", "qsq", "sps", "sqs", "add", "ddb", "bbb", "ddd", "fif", "ffi", "fff", "iff"]
+Statistics:
+{"wspdm": {"std": 2.3921082371376547, "max": 16.7, "min": 9.3, "mean": 11.972727272727274}, "tempm": {"std": 0.40451991747794525, "max": 15.0, "min": 14.0, "mean": 14.818181818181818}}
+{"avgSpeed": {"std": 2.371672681683084, "max": 49, "min": 39, "mean": 46.48717948717949}, "vehicleCount": {"std": 0.3386884284293705, "max": 1, "min": 0, "mean": 0.1282051282051282}}
+Period: 2014-09-18 00:00:00 to 2014-09-18 04:00:00["nkn", "kkk", "kkk", "nnn", "rpr", "rrr", "rrr", "sss", "ddd", "ddd", "aad", "dca", "fff", "fff", "fgi", "gii"]
+Statistics:
+{"wspdm": {"std": 3.7331195826254775, "max": 14.8, "min": 1.9, "mean": 8.427272727272726}, "tempm": {"std": 0.504524979109513, "max": 14.0, "min": 13.0, "mean": 13.363636363636363}}
+{"avgSpeed": {"std": 8.354429049094572, "max": 73, "min": 25, "mean": 46.170212765957444}, "vehicleCount": {"std": 1.4731642019671287, "max": 7, "min": 0, "mean": 0.7021276595744681}}
+Period: 2014-09-18 04:00:00 to 2014-09-18 08:00:00["kkk", "kkk", "knk", "nnn", "sss", "sss", "sps", "ppp", "bca", "ddc", "cdb", "bbd", "hii", "iif", "ghf", "ffi"]
+Statistics:
+{"wspdm": {"std": 2.5228050766052963, "max": 16.7, "min": 9.3, "mean": 13.636363636363637}, "tempm": {"std": 0.504524979109513, "max": 15.0, "min": 14.0, "mean": 14.363636363636363}}
+{"avgSpeed": {"std": 5.244264740976614, "max": 46, "min": 21, "mean": 34.61702127659574}, "vehicleCount": {"std": 2.720906144976106, "max": 13, "min": 2, "mean": 5.659574468085107}}
+Period: 2014-09-18 08:00:00 to 2014-09-18 12:00:00["klk", "lml", "mmm", "nnn", "pqp", "qsq", "sqs", "sss", "bbc", "adc", "ccd", "dcc", "fih", "igg", "hig", "hgi"]
+Statistics:
+{"wspdm": {"std": 3.8458478199930712, "max": 24.1, "min": 11.1, "mean": 20.536363636363635}, "tempm": {"std": 0.904534033733291, "max": 19.0, "min": 16.0, "mean": 17.727272727272727}}
+{"avgSpeed": {"std": 5.180372835974645, "max": 50, "min": 24, "mean": 32.1063829787234}, "vehicleCount": {"std": 1.5938132004845649, "max": 7, "min": 0, "mean": 3.6382978723404253}}
+Period: 2014-09-18 12:00:00 to 2014-09-18 16:00:00["klk", "lll", "nnn", "nnn", "sss", "sss", "qpq", "pqp", "ccc", "cbb", "ccc", "bad", "iii", "ihg", "igi", "ggg"]
+Statistics:
+{"wspdm": {"std": 3.437097083824716, "max": 24.1, "min": 14.8, "mean": 19.881818181818186}, "tempm": {"std": 0.6875516509523286, "max": 21.0, "min": 19.0, "mean": 20.454545454545453}}
+{"avgSpeed": {"std": 9.018667508915252, "max": 69, "min": 17, "mean": 35.6}, "vehicleCount": {"std": 2.051606909008377, "max": 11, "min": 0, "mean": 2.8666666666666667}}
+Period: 2014-09-18 16:00:00 to 2014-09-18 20:00:00["nnn", "nnn", "lkl", "kkk", "sss", "rrr", "rpr", "qrq", "cdd", "dbb", "cdb", "cab", "iih", "hig", "ifh", "ffg"]
+Statistics:
+{"wspdm": {"std": 2.541402619170617, "max": 14.8, "min": 7.4, "mean": 10.945454545454545}, "tempm": {"std": 1.2862913567871994, "max": 20.0, "min": 17.0, "mean": 18.363636363636363}}
+{"avgSpeed": {"std": 12.502040237537637, "max": 78, "min": 26, "mean": 48.51111111111111}, "vehicleCount": {"std": 0.8480518375617845, "max": 3, "min": 0, "mean": 1.0888888888888888}}
+Period: 2014-09-18 20:00:00 to 2014-09-19 00:00:00["nmn", "nmn", "mmm", "kkk", "psp", "sss", "srs", "rpr", "bbb", "bad", "ddd", "ddd", "fff", "fif", "fff", "fff"]
+Statistics:
+{"wspdm": {"std": 2.715075756518842, "max": 18.5, "min": 11.1, "mean": 16.318181818181817}, "tempm": {"std": 0.6324555320336759, "max": 17.0, "min": 15.0, "mean": 16.0}}
+{"avgSpeed": {"std": 4.668506130974819, "max": 54, "min": 34, "mean": 46.022222222222226}, "vehicleCount": {"std": 0.330289129537908, "max": 2, "min": 0, "mean": 0.06666666666666667}}
+Period: 2014-09-19 00:00:00 to 2014-09-19 04:00:00["nnn", "nmn", "mmm", "mkm", "rrr", "sps", "srs", "prp", "ccc", "ccc", "cac", "daa", "fff", "fff", "fgh", "hii"]
+Statistics:
+{"wspdm": {"std": 1.2925661579692052, "max": 11.1, "min": 7.4, "mean": 9.445454545454545}, "tempm": {"std": 0.6466697906828632, "max": 15.0, "min": 13.0, "mean": 14.272727272727273}}
+{"avgSpeed": {"std": 7.8770618639039895, "max": 65, "min": 22, "mean": 46.319148936170215}, "vehicleCount": {"std": 2.09023986248019, "max": 9, "min": 0, "mean": 0.9787234042553191}}
+Period: 2014-09-19 04:00:00 to 2014-09-19 08:00:00["nkn", "kkk", "nnn", "nnn", "prp", "prp", "rrr", "sss", "dbc", "ddd", "bcb", "cab", "hii", "hig", "fhg", "ghi"]
+Statistics:
+{"wspdm": {"std": 1.828163509695404, "max": 13.0, "min": 7.4, "mean": 9.627272727272727}, "tempm": {"std": 0.7862453931068966, "max": 15.0, "min": 13.0, "mean": 13.727272727272727}}
+{"avgSpeed": {"std": 5.778921153184832, "max": 62, "min": 27, "mean": 36.680851063829785}, "vehicleCount": {"std": 3.6122158860968687, "max": 15, "min": 1, "mean": 6.319148936170213}}
+Period: 2014-09-19 08:00:00 to 2014-09-19 12:00:00["klk", "lnl", "nnn", "nln", "rrr", "srs", "rrr", "sps", "ddd", "dbc", "bdb", "bbc", "hgf", "hig", "ghi", "iii"]
+Statistics:
+{"wspdm": {"std": 1.2339883600452934, "max": 18.5, "min": 14.8, "mean": 17.345454545454547}, "tempm": {"std": 0.9244162777371753, "max": 18.0, "min": 15.0, "mean": 16.636363636363637}}
+{"avgSpeed": {"std": 9.964228950895226, "max": 60, "min": 21, "mean": 36.82222222222222}, "vehicleCount": {"std": 2.455050453101265, "max": 10, "min": 0, "mean": 4.466666666666667}}
+Period: 2014-09-19 12:00:00 to 2014-09-19 16:00:00["kkk", "knk", "nnn", "nkn", "qsq", "sqs", "qqq", "sps", "bbd", "ddc", "dbd", "caa", "igh", "gig", "iii", "fgh"]
+Statistics:
+{"wspdm": {"std": 1.1263779439989365, "max": 16.7, "min": 13.0, "mean": 15.154545454545454}, "tempm": {"std": 0.5222329678670934, "max": 17.0, "min": 16.0, "mean": 16.545454545454547}}
+{"avgSpeed": {"std": 6.901179027557377, "max": 58, "min": 27, "mean": 39.93617021276596}, "vehicleCount": {"std": 1.9550924988350102, "max": 8, "min": 0, "mean": 2.702127659574468}}
+Period: 2014-09-19 16:00:00 to 2014-09-19 20:00:00["nnn", "nnn", "mlm", "lkl", "sss", "srs", "rpr", "ppp", "cbd", "bbb", "ccd", "dab", "iig", "hhi", "ggi", "fgg"]
+Statistics:
+{"wspdm": {"std": 3.8847955369152136, "max": 13.0, "min": 1.9, "mean": 6.918181818181821}, "tempm": {"std": 1.1361818036340356, "max": 16.0, "min": 13.0, "mean": 15.090909090909092}}
+{"avgSpeed": {"std": 12.78557234989985, "max": 63, "min": 23, "mean": 41.08510638297872}, "vehicleCount": {"std": 0.8058527811597278, "max": 3, "min": 0, "mean": 0.7872340425531915}}
+Period: 2014-09-19 20:00:00 to 2014-09-20 00:00:00["nkn", "nmn", "mmm", "kkk", "rpr", "rrr", "srs", "sps", "dca", "acd", "ddb", "bbb", "ihi", "hfi", "ffi", "fff"]
+Statistics:
+{"wspdm": {"std": 1.5576335327098676, "max": 5.6, "min": 0.0, "mean": 2.6199999999999997}, "tempm": {"std": 1.2516655570345723, "max": 13.0, "min": 10.0, "mean": 11.3}}
+{"avgSpeed": {"std": 12.45323423746967, "max": 69, "min": 19, "mean": 39.54761904761905}, "vehicleCount": {"std": 0.5196487690792455, "max": 2, "min": 0, "mean": 0.21428571428571427}}
+Period: 2014-09-20 00:00:00 to 2014-09-20 04:00:00["nnn", "nnn", "kkk", "knk", "sss", "sps", "qqq", "sps", "ccc", "ccc", "cdd", "abd", "iff", "fff", "fif", "fif"]
+Statistics:
+{"wspdm": {"std": 2.0968808003577815, "max": 5.6, "min": 0.0, "mean": 2.709090909090909}, "tempm": {"std": 0.6466697906828633, "max": 10.0, "min": 8.0, "mean": 8.727272727272727}}
+{"avgSpeed": {"std": 4.83023548474739, "max": 52, "min": 34, "mean": 44.87234042553192}, "vehicleCount": {"std": 0.28205667284696945, "max": 1, "min": 0, "mean": 0.0851063829787234}}
+Period: 2014-09-20 04:00:00 to 2014-09-20 08:00:00["mmm", "mkm", "mmm", "nnn", "pqp", "qsq", "sss", "qsq", "ddc", "ccd", "bbb", "bcc", "ffh", "hgf", "ihh", "iii"]
+Statistics:
+{"wspdm": {"std": 2.2433335584672767, "max": 5.6, "min": 0.0, "mean": 3.063636363636363}, "tempm": {"std": 0.8738628975053029, "max": 11.0, "min": 8.0, "mean": 9.181818181818182}}
+{"avgSpeed": {"std": 12.094945083680342, "max": 70, "min": 21, "mean": 45.87234042553192}, "vehicleCount": {"std": 1.6073950288925303, "max": 6, "min": 0, "mean": 1.6382978723404256}}
+Period: 2014-09-20 08:00:00 to 2014-09-20 12:00:00["klk", "mmm", "nnn", "nnn", "psp", "sss", "sss", "qqq", "bcb", "ddc", "ddb", "dbc", "ihg", "hfi", "ihh", "fhg"]
+Statistics:
+{"wspdm": {"std": 1.2589317260713906, "max": 3.7, "min": 0.0, "mean": 2.7090909090909085}, "tempm": {"std": 1.572490786213793, "max": 17.0, "min": 12.0, "mean": 14.545454545454545}}
+{"avgSpeed": {"std": 4.915174177795496, "max": 45, "min": 26, "mean": 34.58695652173913}, "vehicleCount": {"std": 1.3174781942296165, "max": 6, "min": 0, "mean": 2.3260869565217392}}
+Period: 2014-09-20 12:00:00 to 2014-09-20 16:00:00["knk", "nnn", "nnn", "lll", "prp", "qqq", "sss", "srs", "bdc", "bdc", "bcd", "add", "iii", "gii", "gfi", "gih"]
+Statistics:
+{"wspdm": {"std": 1.8217873341609037, "max": 9.3, "min": 3.7, "mean": 7.090909090909093}, "tempm": {"std": 0.6741998624632419, "max": 20.0, "min": 18.0, "mean": 19.636363636363637}}
+{"avgSpeed": {"std": 7.500080514865729, "max": 61, "min": 28, "mean": 39.56521739130435}, "vehicleCount": {"std": 1.532261755365747, "max": 5, "min": 0, "mean": 2.0869565217391304}}
+Period: 2014-09-20 16:00:00 to 2014-09-20 20:00:00["nnn", "nnn", "mlm", "lkl", "sss", "rsr", "qrq", "qpq", "bbd", "daa", "cdc", "cdd", "ihi", "hig", "ggi", "ffg"]
+Statistics:
+{"wspdm": {"std": 2.5526456863419176, "max": 9.3, "min": 0.0, "mean": 3.9}, "tempm": {"std": 1.752919642404429, "max": 18.0, "min": 13.0, "mean": 15.545454545454545}}
+{"avgSpeed": {"std": 11.932661304047036, "max": 72, "min": 23, "mean": 35.52173913043478}, "vehicleCount": {"std": 0.965341420416121, "max": 4, "min": 0, "mean": 1.1521739130434783}}
+Period: 2014-09-20 20:00:00 to 2014-09-21 00:00:00["nnn", "nnn", "kkk", "kkk", "psp", "sss", "sps", "ppp", "dcb", "ccc", "caa", "ddd", "iii", "fff", "fif", "fff"]
+Statistics:
+{"wspdm": {"std": 1.503631966575961, "max": 3.7, "min": 0.0, "mean": 1.190909090909091}, "tempm": {"std": 0.674199862463242, "max": 13.0, "min": 11.0, "mean": 11.636363636363637}}
+{"avgSpeed": {"std": 5.752653583852756, "max": 61, "min": 44, "mean": 50.95348837209303}, "vehicleCount": {"std": 0.467077812872719, "max": 2, "min": 0, "mean": 0.13953488372093023}}
+Period: 2014-09-21 00:00:00 to 2014-09-21 04:00:00["kmk", "nnn", "nmn", "mmm", "psp", "sqs", "qqq", "sss", "ddd", "ddc", "aaa", "aaa", "ffi", "ffi", "fff", "fff"]
+Statistics:
+{"wspdm": {"std": 2.669865505635409, "max": 9.3, "min": 0.0, "mean": 4.572727272727271}, "tempm": {"std": 0.6466697906828633, "max": 14.0, "min": 12.0, "mean": 13.272727272727273}}
+{"avgSpeed": {"std": 6.784355838527576, "max": 67, "min": 52, "mean": 57.86363636363637}, "vehicleCount": {"std": 0.29080336345115276, "max": 1, "min": 0, "mean": 0.09090909090909091}}
+Period: 2014-09-21 04:00:00 to 2014-09-21 08:00:00["lll", "lll", "lnl", "lll", "ppp", "prp", "sss", "srs", "ddd", "dca", "cbb", "bcc", "ffg", "fhf", "hhi", "ihi"]
+Statistics:
+{"wspdm": {"std": 3.499662321372787, "max": 16.7, "min": 5.6, "mean": 10.781818181818181}, "tempm": {"std": 0.40451991747794525, "max": 14.0, "min": 13.0, "mean": 13.181818181818182}}
+{"avgSpeed": {"std": 10.034952791160208, "max": 56, "min": 28, "mean": 43.319148936170215}, "vehicleCount": {"std": 0.8461700185409083, "max": 3, "min": 0, "mean": 0.7446808510638298}}
+Period: 2014-09-21 08:00:00 to 2014-09-21 12:00:00["kkk", "lml", "nnn", "nnn", "ppp", "rqr", "srs", "sss", "cdb", "ddb", "dbb", "bdb", "hhg", "ggh", "iii", "hfh"]
+Statistics:
+{"wspdm": {"std": 4.140245930332685, "max": 27.8, "min": 14.8, "mean": 22.718181818181822}, "tempm": {"std": 1.4459976109624424, "max": 17.0, "min": 13.0, "mean": 15.090909090909092}}
+{"avgSpeed": {"std": 10.864270680920422, "max": 66, "min": 26, "mean": 40.57446808510638}, "vehicleCount": {"std": 1.7553934332388021, "max": 7, "min": 0, "mean": 2.4893617021276597}}
+Period: 2014-09-21 12:00:00 to 2014-09-21 16:00:00["nkn", "nnn", "nnn", "nnn", "sqs", "qqq", "psp", "sss", "cbc", "cba", "cbc", "ddc", "hhf", "igi", "hhh", "fhf"]
+Statistics:
+{"wspdm": {"std": 1.7294244970246866, "max": 27.8, "min": 22.2, "mean": 24.90909090909091}, "tempm": {"std": 0.4045199174779452, "max": 18.0, "min": 17.0, "mean": 17.818181818181817}}
+{"avgSpeed": {"std": 9.36716369995121, "max": 61, "min": 27, "mean": 38.319148936170215}, "vehicleCount": {"std": 1.6045149064768398, "max": 7, "min": 0, "mean": 1.7659574468085106}}
+Period: 2014-09-21 16:00:00 to 2014-09-21 20:00:00["nnn", "nmn", "lkl", "kkk", "sss", "rsr", "qqq", "ppp", "abd", "bab", "ddd", "dcd", "ihi", "hfi", "fgg", "fhg"]
+Statistics:
+{"wspdm": {"std": 4.887144546479244, "max": 25.9, "min": 13.0, "mean": 18.527272727272727}, "tempm": {"std": 2.101947149236112, "max": 18.0, "min": 12.0, "mean": 14.727272727272727}}
+{"avgSpeed": {"std": 10.197210000163748, "max": 57, "min": 25, "mean": 46.80434782608695}, "vehicleCount": {"std": 0.8072736966209413, "max": 3, "min": 0, "mean": 0.717391304347826}}
+Period: 2014-09-21 20:00:00 to 2014-09-22 00:00:00["nnn", "lml", "lml", "lkl", "rsr", "sss", "sqs", "prp", "ddd", "ddd", "caa", "aaa", "fff", "ffi", "iif", "fff"]
+Statistics:
+{"wspdm": {"std": 6.045794932317532, "max": 24.1, "min": 5.6, "mean": 13.981818181818182}, "tempm": {"std": 0.9816498172140429, "max": 13.0, "min": 10.0, "mean": 11.818181818181818}}
+{"avgSpeed": {"std": 6.651709789893428, "max": 52, "min": 38, "mean": 46.18181818181818}, "vehicleCount": {"std": 0.34714175717877416, "max": 1, "min": 0, "mean": 0.13636363636363635}}
+Period: 2014-09-22 00:00:00 to 2014-09-22 04:00:00["nnn", "nnn", "nkn", "kkk", "ppp", "rrr", "psp", "srs", "ccc", "ccc", "ddc", "dca", "fff", "fff", "ffg", "iii"]
+Statistics:
+{"wspdm": {"std": 3.9003496346772906, "max": 24.1, "min": 13.0, "mean": 17.854545454545452}, "tempm": {"std": 0.504524979109513, "max": 10.0, "min": 9.0, "mean": 9.636363636363637}}
+{"avgSpeed": {"std": 7.394246359640254, "max": 70, "min": 28, "mean": 40.23913043478261}, "vehicleCount": {"std": 1.8357691328646815, "max": 8, "min": 0, "mean": 0.9130434782608695}}
+Period: 2014-09-22 04:00:00 to 2014-09-22 08:00:00["kkk", "knk", "kkk", "knk", "ppp", "qsq", "srs", "srs", "ddb", "ddd", "cdb", "bab", "iii", "iih", "gfh", "fhi"]
+Statistics:
+{"wspdm": {"std": 3.7274900158393205, "max": 24.1, "min": 14.8, "mean": 19.872727272727275}, "tempm": {"std": 0.4670993664969138, "max": 10.0, "min": 9.0, "mean": 9.272727272727273}}
+{"avgSpeed": {"std": 4.744129349524963, "max": 45, "min": 20, "mean": 33.06521739130435}, "vehicleCount": {"std": 3.1592972984969068, "max": 14, "min": 1, "mean": 6.586956521739131}}
+Period: 2014-09-22 08:00:00 to 2014-09-22 12:00:00["klk", "lll", "lnl", "nnn", "psp", "sqs", "psp", "sss", "bbb", "bbc", "cdd", "dbd", "igh", "igh", "gih", "hfi"]
+Statistics:
+{"wspdm": {"std": 2.204004619694878, "max": 31.5, "min": 24.1, "mean": 27.281818181818185}, "tempm": {"std": 0.8090398349558904, "max": 13.0, "min": 10.0, "mean": 11.363636363636363}}
+{"avgSpeed": {"std": 5.059690166015538, "max": 48, "min": 22, "mean": 31.904761904761905}, "vehicleCount": {"std": 2.5593988841295574, "max": 11, "min": 1, "mean": 5.285714285714286}}
+Period: 2014-09-22 12:00:00 to 2014-09-22 16:00:00["lll", "lll", "lnl", "lll", "sss", "sps", "rrr", "qqq", "dbb", "cbb", "acc", "dda", "ihi", "iih", "hfh", "ggg"]
+Statistics:
+{"wspdm": {"std": 2.7667670664513833, "max": 33.3, "min": 25.9, "mean": 30.23333333333333}, "tempm": {"std": 0.33333333333333337, "max": 14.0, "min": 13.0, "mean": 13.11111111111111}}
+{"avgSpeed": {"std": 6.096434407785966, "max": 52, "min": 21, "mean": 33.08510638297872}, "vehicleCount": {"std": 2.4845498534137036, "max": 12, "min": 0, "mean": 3.851063829787234}}
+Period: 2014-09-22 16:00:00 to 2014-09-22 20:00:00["nnn", "nmn", "mlm", "lkl", "sss", "srs", "qpq", "prp", "bdb", "bca", "ccd", "ddc", "ihg", "igg", "iii", "fgg"]
+Statistics:
+{"wspdm": {"std": 6.290642401073344, "max": 25.9, "min": 9.3, "mean": 16.172727272727276}, "tempm": {"std": 1.2504544628399563, "max": 13.0, "min": 9.0, "mean": 11.818181818181818}}
+{"avgSpeed": {"std": 12.628546758701692, "max": 63, "min": 16, "mean": 40.82608695652174}, "vehicleCount": {"std": 0.9713280912593669, "max": 3, "min": 0, "mean": 0.8913043478260869}}
+Period: 2014-09-22 20:00:00 to 2014-09-23 00:00:00["nnn", "mnm", "mmm", "mkm", "sqs", "qsq", "srs", "pqp", "dda", "abd", "ddd", "ddd", "ifi", "fif", "fff", "fff"]
+Statistics:
+{"wspdm": {"std": 2.315638533575959, "max": 11.1, "min": 3.7, "mean": 8.927272727272726}, "tempm": {"std": 0.6030226891555273, "max": 9.0, "min": 7.0, "mean": 8.181818181818182}}
+{"avgSpeed": {"std": 10.528474746505536, "max": 61, "min": 33, "mean": 52.41463414634146}, "vehicleCount": {"std": 0.33129457822453945, "max": 1, "min": 0, "mean": 0.12195121951219512}}
+Period: 2014-09-23 00:00:00 to 2014-09-23 04:00:00["nnn", "nnn", "nkn", "kkk", "srs", "sss", "rpr", "prp", "ddd", "ddd", "ddb", "baa", "fff", "fff", "ffi", "iii"]
+Statistics:
+{"wspdm": {"std": 3.3711611163999966, "max": 9.3, "min": 0.0, "mean": 5.745454545454546}, "tempm": {"std": 0.6466697906828633, "max": 7.0, "min": 5.0, "mean": 5.7272727272727275}}
+{"avgSpeed": {"std": 8.029720464051335, "max": 57, "min": 23, "mean": 52.04255319148936}, "vehicleCount": {"std": 1.7815479346563372, "max": 7, "min": 0, "mean": 1.0}}
+Period: 2014-09-23 04:00:00 to 2014-09-23 08:00:00["nmn", "mmm", "mkm", "mnm", "sss", "ppp", "sss", "psp", "dba", "ccc", "cdc", "bdb", "hii", "iig", "igh", "fgf"]
+Statistics:
+{"wspdm": {"std": 0.9585974603080747, "max": 1.9, "min": 0.0, "mean": 1.2090909090909092}, "tempm": {"std": 0.7507571935295483, "max": 5.0, "min": 2.0, "mean": 3.1818181818181817}}
+{"avgSpeed": {"std": 8.691630712613396, "max": 67, "min": 23, "mean": 35.5}, "vehicleCount": {"std": 3.7633498285924936, "max": 16, "min": 1, "mean": 6.717391304347826}}
+Period: 2014-09-23 08:00:00 to 2014-09-23 12:00:00["kkk", "mnm", "nnn", "nnn", "ppp", "rsr", "rsr", "sss", "ddd", "bbd", "bbd", "ccd", "ifg", "hhi", "igg", "hgi"]
+Statistics:
+{"wspdm": {"std": 3.6166534003387465, "max": 13.0, "min": 0.0, "mean": 7.427272727272726}, "tempm": {"std": 2.3855626361320073, "max": 14.0, "min": 7.0, "mean": 12.090909090909092}}
+{"avgSpeed": {"std": 9.775771094041215, "max": 57, "min": 24, "mean": 36.891304347826086}, "vehicleCount": {"std": 1.8969846400637203, "max": 8, "min": 1, "mean": 3.847826086956522}}
+Period: 2014-09-23 12:00:00 to 2014-09-23 16:00:00["kkk", "nnn", "kkk", "knk", "sqs", "qsq", "qqq", "qsq", "dbd", "ddd", "ddb", "caa", "hhi", "iih", "ggi", "fgi"]
+Statistics:
+{"wspdm": {"std": 1.748765798551029, "max": 16.7, "min": 11.1, "mean": 12.127272727272725}, "tempm": {"std": 0.504524979109513, "max": 15.0, "min": 14.0, "mean": 14.363636363636363}}
+{"avgSpeed": {"std": 5.028037332825788, "max": 46, "min": 28, "mean": 36.08695652173913}, "vehicleCount": {"std": 2.1087579053513097, "max": 9, "min": 0, "mean": 4.326086956521739}}
+Period: 2014-09-23 16:00:00 to 2014-09-23 20:00:00["nnn", "nnn", "kkk", "kkk", "sps", "sss", "ppp", "psp", "bcc", "cbc", "dda", "ddb", "iif", "gif", "ggg", "gfi"]
+Statistics:
+{"wspdm": {"std": 1.693570730197537, "max": 9.3, "min": 3.7, "mean": 5.072727272727274}, "tempm": {"std": 0.674199862463242, "max": 15.0, "min": 13.0, "mean": 13.636363636363637}}
+{"avgSpeed": {"std": 7.5098968517974765, "max": 56, "min": 31, "mean": 48.15217391304348}, "vehicleCount": {"std": 1.1813772360736619, "max": 4, "min": 0, "mean": 0.9347826086956522}}
+Period: 2014-09-23 20:00:00 to 2014-09-24 00:00:00["nnn", "mmm", "kkk", "mmm", "rsr", "sss", "qpq", "rrr", "add", "ddd", "ddd", "ddd", "gig", "ggg", "ggg", "ggg"]
+Statistics:
+{"wspdm": {"std": 2.05271438920186, "max": 9.3, "min": 3.7, "mean": 6.918181818181821}, "tempm": {"std": 0.7006490497453707, "max": 13.0, "min": 11.0, "mean": 11.909090909090908}}
+{"avgSpeed": {"std": 2.403249832226681, "max": 52, "min": 44, "mean": 51.21951219512195}, "vehicleCount": {"std": 0.15617376188860593, "max": 1, "min": 0, "mean": 0.024390243902439025}}
+Period: 2014-09-24 00:00:00 to 2014-09-24 04:00:00["a", "a", "a", "a", "ppp", "sss", "sss", "ppp", "ccc", "cdc", "ddd", "bba", "fff", "fgf", "gfg", "hii"]
+Statistics:
+{"wspdm": {"std": 1.209207103097653, "max": 11.1, "min": 7.4, "mean": 8.772727272727273}, "tempm": {"std": 0.0, "max": 13.0, "min": 13.0, "mean": 13.0}}
+{"avgSpeed": {"std": 11.394400692873603, "max": 72, "min": 36, "mean": 52.891304347826086}, "vehicleCount": {"std": 2.1958458803920604, "max": 9, "min": 0, "mean": 1.0217391304347827}}
+Period: 2014-09-24 04:00:00 to 2014-09-24 08:00:00["nkn", "kkk", "nnn", "nnn", "qpq", "qqq", "qqq", "qqq", "cba", "aac", "ddc", "ddc", "iii", "iih", "fgh", "fgh"]
+Statistics:
+{"wspdm": {"std": 0.8275923458497495, "max": 9.3, "min": 5.6, "mean": 7.40909090909091}, "tempm": {"std": 0.5045249791095129, "max": 13.0, "min": 12.0, "mean": 12.636363636363637}}
+{"avgSpeed": {"std": 10.666083053096868, "max": 63, "min": 24, "mean": 38.04545454545455}, "vehicleCount": {"std": 3.331174424192985, "max": 14, "min": 0, "mean": 5.295454545454546}}
+Period: 2014-09-24 08:00:00 to 2014-09-24 12:00:00["kkk", "kkk", "knk", "nnn", "rrr", "rrr", "rrr", "sss", "bdd", "cdc", "dda", "bba", "hgi", "hih", "hii", "fgg"]
+Statistics:
+{"wspdm": {"std": 1.4535849101132998, "max": 13.0, "min": 7.4, "mean": 9.79090909090909}, "tempm": {"std": 0.6875516509523287, "max": 15.0, "min": 13.0, "mean": 13.454545454545455}}
+{"avgSpeed": {"std": 6.842897962504814, "max": 56, "min": 19, "mean": 33.355555555555554}, "vehicleCount": {"std": 2.7009164176163423, "max": 11, "min": 0, "mean": 5.022222222222222}}
+Period: 2014-09-24 12:00:00 to 2014-09-24 16:00:00["lnl", "lnl", "lll", "lll", "sss", "psp", "sss", "sss", "aac", "dbd", "dba", "dbd", "ggg", "ihh", "hii", "hgf"]
+Statistics:
+{"wspdm": {"std": 1.0048066299723364, "max": 11.1, "min": 7.4, "mean": 9.118181818181817}, "tempm": {"std": 0.4045199174779452, "max": 15.0, "min": 14.0, "mean": 14.181818181818182}}
+{"avgSpeed": {"std": 10.673671942085944, "max": 59, "min": 22, "mean": 35.266666666666666}, "vehicleCount": {"std": 1.7789453236809911, "max": 7, "min": 0, "mean": 2.7111111111111112}}
+Period: 2014-09-24 16:00:00 to 2014-09-24 20:00:00["nnn", "nnn", "nln", "kkk", "pqp", "sps", "psp", "sqs", "dac", "cbb", "acc", "dcb", "hhg", "igg", "fig", "hhf"]
+Statistics:
+{"wspdm": {"std": 2.745641173668812, "max": 16.7, "min": 9.3, "mean": 11.636363636363635}, "tempm": {"std": 0.8201995322647243, "max": 13.0, "min": 11.0, "mean": 12.454545454545455}}
+{"avgSpeed": {"std": 11.179713338818855, "max": 60, "min": 22, "mean": 34.23913043478261}, "vehicleCount": {"std": 0.6582805886043833, "max": 2, "min": 0, "mean": 0.5}}
+Period: 2014-09-24 20:00:00 to 2014-09-25 00:00:00["nnn", "nnn", "kkk", "kkk", "ppp", "sss", "sps", "ppp", "ddd", "dda", "aaa", "aaa", "iif", "ffi", "fff", "fff"]
+Statistics:
+{"wspdm": {"std": 1.2609520212918495, "max": 14.8, "min": 11.1, "mean": 12.299999999999999}, "tempm": {"std": 0.5222329678670935, "max": 11.0, "min": 10.0, "mean": 10.545454545454545}}
+{"avgSpeed": {"std": 3.7467935009100164, "max": 51, "min": 42, "mean": 45.25}, "vehicleCount": {"std": 0.40430377003131995, "max": 2, "min": 0, "mean": 0.125}}
+Period: 2014-09-25 00:00:00 to 2014-09-25 04:00:00["nkn", "knk", "nnn", "nnn", "ppp", "rrr", "psp", "sss", "bbb", "bbb", "bcd", "dab", "ffh", "fff", "ffh", "hii"]
+Statistics:
+{"wspdm": {"std": 2.035815673027756, "max": 16.7, "min": 11.1, "mean": 12.963636363636361}, "tempm": {"std": 0.4670993664969138, "max": 10.0, "min": 9.0, "mean": 9.727272727272727}}
+{"avgSpeed": {"std": 6.0758671493179985, "max": 61, "min": 29, "mean": 43.644444444444446}, "vehicleCount": {"std": 1.696103675123569, "max": 7, "min": 0, "mean": 0.8222222222222222}}
+Period: 2014-09-25 04:00:00 to 2014-09-25 08:00:00["knk", "nnn", "nnn", "nnn", "qsq", "pqp", "sqs", "qsq", "baa", "ddc", "ccd", "ddc", "ihi", "gih", "hfi", "gfg"]
+Statistics:
+{"wspdm": {"std": 2.6581948762270984, "max": 24.1, "min": 14.8, "mean": 19.199999999999996}, "tempm": {"std": 0.30151134457776374, "max": 11.0, "min": 10.0, "mean": 10.909090909090908}}
+{"avgSpeed": {"std": 7.952687792750577, "max": 55, "min": 21, "mean": 33.31818181818182}, "vehicleCount": {"std": 3.5469517627973164, "max": 16, "min": 1, "mean": 6.5227272727272725}}
+Period: 2014-09-25 08:00:00 to 2014-09-25 12:00:00["kkk", "lnl", "nnn", "nnn", "ppp", "qsq", "sss", "sss", "ccb", "dbd", "bdd", "cbb", "ghg", "iih", "ghg", "ghh"]
+Statistics:
+{"wspdm": {"std": 3.8318284266012093, "max": 35.2, "min": 25.9, "mean": 30.290909090909086}, "tempm": {"std": 1.0357254813546266, "max": 15.0, "min": 12.0, "mean": 13.454545454545455}}
+{"avgSpeed": {"std": 6.98533649899762, "max": 53, "min": 24, "mean": 34.63636363636363}, "vehicleCount": {"std": 2.293478206414462, "max": 10, "min": 1, "mean": 4.636363636363637}}
+Period: 2014-09-25 12:00:00 to 2014-09-25 16:00:00["nnn", "knk", "nnn", "nkn", "sss", "qpq", "srs", "sps", "bba", "bbb", "bcd", "bdd", "igi", "gii", "gii", "fgg"]
+Statistics:
+{"wspdm": {"std": 5.326622672098062, "max": 35.2, "min": 18.5, "mean": 26.59090909090909}, "tempm": {"std": 0.6030226891555273, "max": 16.0, "min": 14.0, "mean": 14.818181818181818}}
+{"avgSpeed": {"std": 7.305041845440473, "max": 52, "min": 19, "mean": 32.666666666666664}, "vehicleCount": {"std": 2.1320071635561044, "max": 8, "min": 0, "mean": 3.3333333333333335}}
+Period: 2014-09-25 16:00:00 to 2014-09-25 20:00:00["nnn", "nnn", "nkn", "kkk", "srs", "srs", "rpr", "prp", "dca", "ddc", "bdc", "bbb", "ghi", "ggi", "hfg", "ghf"]
+Statistics:
+{"wspdm": {"std": 1.732837924540917, "max": 14.8, "min": 9.3, "mean": 10.954545454545453}, "tempm": {"std": 0.504524979109513, "max": 14.0, "min": 13.0, "mean": 13.636363636363637}}
+{"avgSpeed": {"std": 10.51319517212882, "max": 67, "min": 34, "mean": 54.2}, "vehicleCount": {"std": 0.722649446289293, "max": 3, "min": 0, "mean": 0.5777777777777777}}
+Period: 2014-09-25 20:00:00 to 2014-09-26 00:00:00["lll", "lll", "lll", "lnl", "sss", "qqq", "qqq", "sss", "ccc", "cdd", "baa", "aaa", "fff", "fif", "iff", "fff"]
+Statistics:
+{"wspdm": {"std": 2.0353690753097515, "max": 11.1, "min": 5.6, "mean": 8.754545454545452}, "tempm": {"std": 0.30151134457776363, "max": 14.0, "min": 13.0, "mean": 13.090909090909092}}
+{"avgSpeed": {"std": 6.141195788629908, "max": 58, "min": 39, "mean": 46.0}, "vehicleCount": {"std": 0.293902598732179, "max": 1, "min": 0, "mean": 0.09302325581395349}}
+Period: 2014-09-26 00:00:00 to 2014-09-26 04:00:00["nnn", "nnn", "nnn", "kkk", "ppp", "srs", "rrr", "prp", "bbb", "bbb", "bbd", "ddb", "fff", "fff", "ffg", "ifi"]
+Statistics:
+{"wspdm": {"std": 1.1839072445239809, "max": 9.3, "min": 5.6, "mean": 6.918181818181818}, "tempm": {"std": 0.46709936649691375, "max": 14.0, "min": 13.0, "mean": 13.727272727272727}}
+{"avgSpeed": {"std": 4.309725904711038, "max": 57, "min": 37, "mean": 41.28888888888889}, "vehicleCount": {"std": 1.501850710142508, "max": 8, "min": 0, "mean": 0.5111111111111111}}
+Period: 2014-09-26 04:00:00 to 2014-09-26 08:00:00["kmk", "mmm", "mnm", "nnn", "ppp", "ppp", "sss", "sps", "daa", "bcd", "bcc", "dcd", "hii", "ihg", "ghg", "gig"]
+Statistics:
+{"wspdm": {"std": 0.908144962397123, "max": 11.1, "min": 9.3, "mean": 9.954545454545451}, "tempm": {"std": 0.6466697906828633, "max": 15.0, "min": 13.0, "mean": 14.272727272727273}}
+{"avgSpeed": {"std": 6.905434392895887, "max": 54, "min": 21, "mean": 33.21739130434783}, "vehicleCount": {"std": 3.383463622821519, "max": 15, "min": 1, "mean": 6.586956521739131}}
+Period: 2014-09-26 08:00:00 to 2014-09-26 12:00:00["kkk", "kmk", "mmm", "nnn", "qpq", "qqq", "sss", "sss", "cbb", "add", "bcd", "ddd", "hhh", "ggh", "igi", "hih"]
+Statistics:
+{"wspdm": {"std": 2.3520590592461357, "max": 20.4, "min": 13.0, "mean": 16.172727272727272}, "tempm": {"std": 0.8312094145936334, "max": 18.0, "min": 16.0, "mean": 16.90909090909091}}
+{"avgSpeed": {"std": 6.062317281473814, "max": 54, "min": 20, "mean": 33.21739130434783}, "vehicleCount": {"std": 2.910915655200408, "max": 12, "min": 0, "mean": 4.434782608695652}}
+Period: 2014-09-26 12:00:00 to 2014-09-26 16:00:00["lll", "lll", "lnl", "lll", "srs", "qrq", "prp", "sss", "cdd", "dcb", "ddb", "bba", "hih", "ihi", "hgf", "ghf"]
+Statistics:
+{"wspdm": {"std": 4.920236505771574, "max": 31.5, "min": 14.8, "mean": 21.545454545454547}, "tempm": {"std": 0.30151134457776363, "max": 19.0, "min": 18.0, "mean": 18.09090909090909}}
+{"avgSpeed": {"std": 8.449314119554861, "max": 60, "min": 25, "mean": 37.13333333333333}, "vehicleCount": {"std": 2.2958020539034005, "max": 9, "min": 0, "mean": 2.9555555555555557}}
+Period: 2014-09-26 16:00:00 to 2014-09-26 20:00:00["mnm", "nmn", "mlm", "lkl", "srs", "srs", "rrr", "ppp", "daa", "ddc", "aaa", "bdd", "igf", "igi", "hff", "ggh"]
+Statistics:
+{"wspdm": {"std": 3.037044017401849, "max": 31.5, "min": 20.4, "mean": 23.918181818181814}, "tempm": {"std": 0.904534033733291, "max": 15.0, "min": 12.0, "mean": 13.727272727272727}}
+{"avgSpeed": {"std": 11.173511692939977, "max": 66, "min": 33, "mean": 44.02127659574468}, "vehicleCount": {"std": 0.5624710908389888, "max": 2, "min": 0, "mean": 0.3404255319148936}}
+Period: 2014-09-26 20:00:00 to 2014-09-27 00:00:00["nnn", "lll", "lll", "lll", "rrr", "psp", "rpr", "rrr", "dda", "aad", "dbb", "bbb", "fif", "ffi", "fff", "fff"]
+Statistics:
+{"wspdm": {"std": 1.6126770515906996, "max": 22.2, "min": 16.7, "mean": 20.045454545454543}, "tempm": {"std": 0.4045199174779452, "max": 12.0, "min": 11.0, "mean": 11.181818181818182}}
+{"avgSpeed": {"std": 8.979999143395542, "max": 61, "min": 39, "mean": 47.775}, "vehicleCount": {"std": 0.30382181012509984, "max": 1, "min": 0, "mean": 0.1}}
+Period: 2014-09-27 00:00:00 to 2014-09-27 04:00:00["nnn", "nnn", "kkk", "nnn", "sss", "qsq", "pqp", "qsq", "ccc", "caa", "adb", "ddc", "fff", "fif", "fii", "ifi"]
+Statistics:
+{"wspdm": {"std": 1.9224037982786972, "max": 20.4, "min": 14.8, "mean": 17.518181818181816}, "tempm": {"std": 0.504524979109513, "max": 11.0, "min": 10.0, "mean": 10.636363636363637}}
+{"avgSpeed": {"std": 8.089898926838616, "max": 55, "min": 29, "mean": 40.91111111111111}, "vehicleCount": {"std": 0.3866457674602808, "max": 1, "min": 0, "mean": 0.17777777777777778}}
+Period: 2014-09-27 04:00:00 to 2014-09-27 08:00:00["lll", "lll", "lll", "nnn", "sss", "sqs", "qpq", "qqq", "dda", "abc", "dcc", "ddb", "fff", "fgh", "gii", "iii"]
+Statistics:
+{"wspdm": {"std": 2.0641529189300076, "max": 22.2, "min": 14.8, "mean": 17.854545454545452}, "tempm": {"std": 0.40451991747794525, "max": 12.0, "min": 11.0, "mean": 11.181818181818182}}
+{"avgSpeed": {"std": 11.40494310694829, "max": 65, "min": 21, "mean": 40.53333333333333}, "vehicleCount": {"std": 1.7384539747207062, "max": 7, "min": 0, "mean": 1.4222222222222223}}
+Period: 2014-09-27 08:00:00 to 2014-09-27 12:00:00["klk", "lml", "nnn", "nnn", "ppp", "pqp", "rsr", "sss", "cda", "acd", "bdc", "dcb", "iii", "hii", "gfh", "fgh"]
+Statistics:
+{"wspdm": {"std": 4.181474294160766, "max": 29.6, "min": 18.5, "mean": 22.045454545454547}, "tempm": {"std": 1.3280197150781923, "max": 17.0, "min": 13.0, "mean": 15.181818181818182}}
+{"avgSpeed": {"std": 7.813226710387135, "max": 61, "min": 26, "mean": 36.5}, "vehicleCount": {"std": 1.84894690328381, "max": 8, "min": 0, "mean": 2.5}}
+Period: 2014-09-27 12:00:00 to 2014-09-27 16:00:00["nnn", "nnn", "nkn", "knk", "srs", "rqr", "sss", "rpr", "cab", "cdc", "dcd", "bdd", "iif", "gih", "gih", "gfi"]
+Statistics:
+{"wspdm": {"std": 2.5500089126403966, "max": 27.8, "min": 20.4, "mean": 25.763636363636362}, "tempm": {"std": 0.4670993664969138, "max": 17.0, "min": 16.0, "mean": 16.727272727272727}}
+{"avgSpeed": {"std": 11.85318437374446, "max": 67, "min": 13, "mean": 42.044444444444444}, "vehicleCount": {"std": 1.014042813831264, "max": 4, "min": 0, "mean": 1.488888888888889}}
+Period: 2014-09-27 16:00:00 to 2014-09-27 20:00:00["nnn", "nnn", "mlm", "lkl", "sss", "rqr", "pqp", "rrr", "ddc", "caa", "bbd", "ccb", "fgh", "hhf", "gig", "hgi"]
+Statistics:
+{"wspdm": {"std": 4.960406874807384, "max": 25.9, "min": 9.3, "mean": 14.818181818181815}, "tempm": {"std": 1.420627262226731, "max": 16.0, "min": 12.0, "mean": 14.272727272727273}}
+{"avgSpeed": {"std": 13.646821930115099, "max": 65, "min": 22, "mean": 45.17391304347826}, "vehicleCount": {"std": 0.6908651720779809, "max": 2, "min": 0, "mean": 0.5217391304347826}}
+Period: 2014-09-27 20:00:00 to 2014-09-28 00:00:00["nnn", "nkn", "knk", "nnn", "sqs", "qqq", "sss", "qsq", "dcd", "ddd", "aaa", "aaa", "iff", "ifi", "fff", "fff"]
+Statistics:
+{"wspdm": {"std": 2.3790754506740637, "max": 13.0, "min": 5.6, "mean": 8.599999999999998}, "tempm": {"std": 0.6030226891555273, "max": 12.0, "min": 10.0, "mean": 10.818181818181818}}
+{"avgSpeed": {"std": 3.1535169835791264, "max": 52, "min": 44, "mean": 46.282051282051285}, "vehicleCount": {"std": 0.4315493225736374, "max": 2, "min": 0, "mean": 0.15384615384615385}}
+Period: 2014-09-28 00:00:00 to 2014-09-28 04:00:00["lll", "lll", "lll", "nnn", "sss", "srs", "rpr", "ppp", "dbc", "ccc", "ccc", "ccd", "fif", "fff", "fff", "fff"]
+Statistics:
+{"wspdm": {"std": 1.5401298646542763, "max": 11.1, "min": 7.4, "mean": 9.100000000000001}, "tempm": {"std": 0.40451991747794525, "max": 12.0, "min": 11.0, "mean": 11.181818181818182}}
+{"avgSpeed": {"std": 3.512366008240803, "max": 48, "min": 36, "mean": 39.41304347826087}, "vehicleCount": {"std": 0.20618457094236226, "max": 1, "min": 0, "mean": 0.043478260869565216}}
+Period: 2014-09-28 04:00:00 to 2014-09-28 08:00:00["lll", "lll", "lll", "nnn", "srs", "srs", "sps", "srs", "dcb", "ddd", "bba", "bca", "fgg", "fgf", "gii", "hii"]
+Statistics:
+{"wspdm": {"std": 1.1839072445239798, "max": 11.1, "min": 7.4, "mean": 9.78181818181818}, "tempm": {"std": 0.40451991747794525, "max": 13.0, "min": 12.0, "mean": 12.181818181818182}}
+{"avgSpeed": {"std": 12.766804782240001, "max": 63, "min": 21, "mean": 39.17391304347826}, "vehicleCount": {"std": 1.4750747135748816, "max": 8, "min": 0, "mean": 1.0434782608695652}}
+Period: 2014-09-28 08:00:00 to 2014-09-28 12:00:00["klk", "mmm", "nnn", "nnn", "qpq", "psp", "sss", "sss", "acd", "bdc", "bdd", "cda", "hig", "gig", "fhi", "ifh"]
+Statistics:
+{"wspdm": {"std": 2.812213621783639, "max": 18.5, "min": 11.1, "mean": 14.663636363636362}, "tempm": {"std": 1.5075567228888183, "max": 18.0, "min": 13.0, "mean": 15.454545454545455}}
+{"avgSpeed": {"std": 6.004059165875293, "max": 49, "min": 25, "mean": 33.372093023255815}, "vehicleCount": {"std": 1.6008026779500355, "max": 6, "min": 0, "mean": 2.0930232558139537}}
+Period: 2014-09-28 12:00:00 to 2014-09-28 16:00:00["nnn", "nnn", "nnn", "nkn", "rsr", "rsr", "qpq", "qrq", "ddd", "bac", "cad", "cbd", "ihh", "iii", "fhh", "fff"]
+Statistics:
+{"wspdm": {"std": 2.6164167029806933, "max": 20.4, "min": 13.0, "mean": 16.681818181818183}, "tempm": {"std": 0.30151134457776363, "max": 18.0, "min": 17.0, "mean": 17.90909090909091}}
+{"avgSpeed": {"std": 8.560288618160934, "max": 56, "min": 17, "mean": 31.977272727272727}, "vehicleCount": {"std": 1.8315706818986532, "max": 8, "min": 0, "mean": 1.75}}
+Period: 2014-09-28 16:00:00 to 2014-09-28 20:00:00["nnn", "nmn", "mmm", "lkl", "srs", "rrr", "prp", "prp", "bbb", "ddd", "aaa", "cbd", "igf", "hfg", "hgf", "hgg"]
+Statistics:
+{"wspdm": {"std": 1.9358812886218932, "max": 16.7, "min": 9.3, "mean": 11.28181818181818}, "tempm": {"std": 1.0, "max": 17.0, "min": 14.0, "mean": 16.0}}
+{"avgSpeed": {"std": 11.173624939640439, "max": 69, "min": 27, "mean": 39.18181818181818}, "vehicleCount": {"std": 0.5865836157500349, "max": 2, "min": 0, "mean": 0.4318181818181818}}
+Period: 2014-09-28 20:00:00 to 2014-09-29 00:00:00["nln", "lll", "lll", "lll", "sss", "sps", "sss", "qsq", "ddd", "ddd", "ddd", "daa", "ggg", "ggg", "ggg", "gig"]
+Statistics:
+{"wspdm": {"std": 1.500302999700091, "max": 11.1, "min": 5.6, "mean": 8.609090909090908}, "tempm": {"std": 0.30151134457776374, "max": 14.0, "min": 13.0, "mean": 13.090909090909092}}
+{"avgSpeed": {"std": 1.3397282541141673, "max": 52, "min": 48, "mean": 51.5}, "vehicleCount": {"std": 0.31622776601683794, "max": 2, "min": 0, "mean": 0.05}}
+Period: 2014-09-29 00:00:00 to 2014-09-29 04:00:00["a", "a", "a", "a", "ppp", "sss", "sss", "ppp", "ccc", "ccc", "ddb", "caa", "fff", "fgg", "gfh", "iii"]
+Statistics:
+{"wspdm": {"std": 0.9400193421607678, "max": 11.1, "min": 9.3, "mean": 10.118181818181817}, "tempm": {"std": 0.0, "max": 13.0, "min": 13.0, "mean": 13.0}}
+{"avgSpeed": {"std": 7.393786317573465, "max": 57, "min": 27, "mean": 47.27272727272727}, "vehicleCount": {"std": 2.1329985642902507, "max": 10, "min": 0, "mean": 1.0909090909090908}}
+Period: 2014-09-29 04:00:00 to 2014-09-29 08:00:00["mmm", "kmk", "mmm", "nnn", "srs", "rpr", "rsr", "sss", "cba", "bcd", "dcb", "ddc", "iii", "hih", "gff", "fhg"]
+Statistics:
+{"wspdm": {"std": 2.3549174855260566, "max": 9.3, "min": 1.9, "mean": 6.081818181818181}, "tempm": {"std": 0.5393598899705937, "max": 14.0, "min": 12.0, "mean": 13.090909090909092}}
+{"avgSpeed": {"std": 5.23846789564657, "max": 42, "min": 19, "mean": 31.73913043478261}, "vehicleCount": {"std": 4.282308285400263, "max": 18, "min": 1, "mean": 7.130434782608695}}
+Period: 2014-09-29 08:00:00 to 2014-09-29 12:00:00["klk", "lml", "mnm", "nnn", "qqq", "psp", "sss", "sss", "cbc", "dab", "cdb", "cdd", "ihh", "hhg", "gih", "gii"]
+Statistics:
+{"wspdm": {"std": 1.6756002994856387, "max": 13.0, "min": 7.4, "mean": 10.618181818181817}, "tempm": {"std": 1.4709304414677005, "max": 19.0, "min": 14.0, "mean": 16.181818181818183}}
+{"avgSpeed": {"std": 4.553878004300156, "max": 45, "min": 23, "mean": 31.365853658536587}, "vehicleCount": {"std": 1.849192308853233, "max": 8, "min": 1, "mean": 4.073170731707317}}
+Period: 2014-09-29 12:00:00 to 2014-09-29 16:00:00["knk", "nnn", "knk", "kkk", "sqs", "qqq", "rsr", "rpr", "cbb", "dcc", "dbd", "add", "igi", "iii", "ghh", "fgf"]
+Statistics:
+{"wspdm": {"std": 2.0358156730277557, "max": 13.0, "min": 7.4, "mean": 11.136363636363635}, "tempm": {"std": 0.504524979109513, "max": 20.0, "min": 19.0, "mean": 19.636363636363637}}
+{"avgSpeed": {"std": 5.748705858505812, "max": 56, "min": 28, "mean": 35.0}, "vehicleCount": {"std": 2.7304119655577854, "max": 9, "min": 0, "mean": 3.2093023255813953}}
+Period: 2014-09-29 16:00:00 to 2014-09-29 20:00:00["nnn", "nnn", "mlm", "lkl", "sss", "rrr", "rrr", "ppp", "acb", "aaa", "add", "dcd", "fhi", "ghf", "fhh", "fii"]
+Statistics:
+{"wspdm": {"std": 2.316384329863325, "max": 7.4, "min": 0.0, "mean": 3.3818181818181814}, "tempm": {"std": 1.6348477827391983, "max": 19.0, "min": 14.0, "mean": 16.545454545454547}}
+{"avgSpeed": {"std": 13.391652759699367, "max": 66, "min": 26, "mean": 38.6}, "vehicleCount": {"std": 0.564076074817766, "max": 2, "min": 0, "mean": 0.3333333333333333}}
+Period: 2014-09-29 20:00:00 to 2014-09-30 00:00:00["nnn", "kkk", "kkk", "kkk", "qqq", "qqq", "qqq", "sqs", "ddd", "dda", "aaa", "aaa", "fff", "fif", "ffi", "fff"]
+Statistics:
+{"wspdm": {"std": 0.5427204202399747, "max": 3.7, "min": 1.9, "mean": 2.063636363636363}, "tempm": {"std": 0.4670993664969138, "max": 14.0, "min": 13.0, "mean": 13.272727272727273}}
+{"avgSpeed": {"std": 8.479242948259579, "max": 66, "min": 49, "mean": 56.048780487804876}, "vehicleCount": {"std": 0.2636516548818748, "max": 1, "min": 0, "mean": 0.07317073170731707}}

@@ -1,0 +1,42 @@
+Score for label Low_avgSpeed_downward_peakHow often did the label appear in the actual data: 35
+How often was the label predicted: 56
+How often was the label correctly predicted: 7
+Precision: 0.125000
+Recall: 0.200000
+Resulting f1-score: 0.153846
+Score for label Low_avgSpeed_upward_peakHow often did the label appear in the actual data: 1
+How often was the label predicted: 0
+How often was the label correctly predicted: 0
+Precision: 0.000000
+Recall: 0.000000
+Resulting f1-score: 0.000000
+Score for label Low_avgSpeed_steadyHow often did the label appear in the actual data: 5325
+How often was the label predicted: 7028
+How often was the label correctly predicted: 3746
+Precision: 0.533011
+Recall: 0.703474
+Resulting f1-score: 0.606492
+Score for label Medium_avgSpeed_steadyHow often did the label appear in the actual data: 18635
+How often was the label predicted: 18022
+How often was the label correctly predicted: 14592
+Precision: 0.809677
+Recall: 0.783043
+Resulting f1-score: 0.796137
+Score for label Medium_avgSpeed_downward_peakHow often did the label appear in the actual data: 93
+How often was the label predicted: 89
+How often was the label correctly predicted: 44
+Precision: 0.494382
+Recall: 0.473118
+Resulting f1-score: 0.483516
+Score for label High_avgSpeed_steadyHow often did the label appear in the actual data: 6599
+How often was the label predicted: 4676
+How often was the label correctly predicted: 3694
+Precision: 0.789991
+Recall: 0.559782
+Resulting f1-score: 0.655255
+Score for label High_avgSpeed_downward_peakHow often did the label appear in the actual data: 62
+How often was the label predicted: 165
+How often was the label correctly predicted: 13
+Precision: 0.078788
+Recall: 0.209677
+Resulting f1-score: 0.114537

@@ -1,0 +1,66 @@
+Score for label Medium_vehicleCount_steadyHow often did the label appear in the actual data: 8758
+How often was the label predicted: 7173
+How often was the label correctly predicted: 5557
+Precision: 0.774711
+Recall: 0.634506
+Resulting f1-score: 0.697634
+Score for label Low_vehicleCount_upward_peakHow often did the label appear in the actual data: 745
+How often was the label predicted: 1141
+How often was the label correctly predicted: 496
+Precision: 0.434706
+Recall: 0.665772
+Resulting f1-score: 0.525981
+Score for label Low_vehicleCount_steadyHow often did the label appear in the actual data: 14321
+How often was the label predicted: 11152
+How often was the label correctly predicted: 9058
+Precision: 0.812231
+Recall: 0.632498
+Resulting f1-score: 0.711184
+Score for label Low_vehicleCount_downward_peakHow often did the label appear in the actual data: 793
+How often was the label predicted: 1662
+How often was the label correctly predicted: 484
+Precision: 0.291215
+Recall: 0.610340
+Resulting f1-score: 0.394297
+Score for label High_vehicleCount_steadyHow often did the label appear in the actual data: 2283
+How often was the label predicted: 2268
+How often was the label correctly predicted: 1455
+Precision: 0.641534
+Recall: 0.637319
+Resulting f1-score: 0.639420
+Score for label Medium_vehicleCount_upward_peakHow often did the label appear in the actual data: 1
+How often was the label predicted: 0
+How often was the label correctly predicted: 0
+Precision: 0.000000
+Recall: 0.000000
+Resulting f1-score: 0.000000
+Score for label Low_vehicleCount_decreasingHow often did the label appear in the actual data: 2054
+How often was the label predicted: 1802
+How often was the label correctly predicted: 1105
+Precision: 0.613208
+Recall: 0.537975
+Resulting f1-score: 0.573133
+Score for label Medium_vehicleCount_decreasingHow often did the label appear in the actual data: 7
+How often was the label predicted: 40
+How often was the label correctly predicted: 0
+Precision: 0.000000
+Recall: 0.000000
+Resulting f1-score: 0.000000
+Score for label Low_vehicleCount_increasingHow often did the label appear in the actual data: 1732
+How often was the label predicted: 2545
+How often was the label correctly predicted: 992
+Precision: 0.389784
+Recall: 0.572748
+Resulting f1-score: 0.463877
+Score for label High_vehicleCount_downward_peakHow often did the label appear in the actual data: 14
+How often was the label predicted: 0
+How often was the label correctly predicted: 0
+Precision: 0.000000
+Recall: 0.000000
+Resulting f1-score: 0.000000
+Score for label Medium_vehicleCount_downward_peakHow often did the label appear in the actual data: 37
+How often was the label predicted: 39
+How often was the label correctly predicted: 20
+Precision: 0.512821
+Recall: 0.540541
+Resulting f1-score: 0.526316

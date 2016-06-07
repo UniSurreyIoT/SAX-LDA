@@ -1,0 +1,42 @@
+Score for label Medium_wspdm_steadyHow often did the label appear in the actual data: 13850
+How often was the label predicted: 8978
+How often was the label correctly predicted: 8978
+Precision: 1.000000
+Recall: 0.648231
+Resulting f1-score: 0.786578
+Score for label Low_wspdm_steadyHow often did the label appear in the actual data: 7850
+How often was the label predicted: 5336
+How often was the label correctly predicted: 5336
+Precision: 1.000000
+Recall: 0.679745
+Resulting f1-score: 0.809343
+Score for label Medium_wspdm_upward_peakHow often did the label appear in the actual data: 1200
+How often was the label predicted: 373
+How often was the label correctly predicted: 373
+Precision: 1.000000
+Recall: 0.310833
+Resulting f1-score: 0.474253
+Score for label Low_wspdm_upward_peakHow often did the label appear in the actual data: 850
+How often was the label predicted: 111
+How often was the label correctly predicted: 111
+Precision: 1.000000
+Recall: 0.130588
+Resulting f1-score: 0.231009
+Score for label Medium_wspdm_downward_peakHow often did the label appear in the actual data: 1100
+How often was the label predicted: 156
+How often was the label correctly predicted: 156
+Precision: 1.000000
+Recall: 0.141818
+Resulting f1-score: 0.248408
+Score for label Low_wspdm_downward_peakHow often did the label appear in the actual data: 1150
+How often was the label predicted: 431
+How often was the label correctly predicted: 431
+Precision: 1.000000
+Recall: 0.374783
+Resulting f1-score: 0.545225
+Score for label High_wspdm_steadyHow often did the label appear in the actual data: 4750
+How often was the label predicted: 3399
+How often was the label correctly predicted: 3399
+Precision: 1.000000
+Recall: 0.715579
+Resulting f1-score: 0.834213
